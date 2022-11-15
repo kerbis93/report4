@@ -1,0 +1,62 @@
+[
+  {
+    "query": "tecnology",
+    "id": "178476",
+    "story_id": "17794",
+    "autoRank": "0.30931861937225513"
+  },
+  {
+    "query": "tecnology",
+    "id": "379467",
+    "story_id": "24201",
+    "autoRank": "0.30723825551305228"
+  },
+  {
+    "query": "tecnology",
+    "id": "187342",
+    "story_id": "18066",
+    "autoRank": "0.30634949397102856"
+  },
+  {
+    "query": "tecnology",
+    "id": "373606",
+    "story_id": "24011",
+    "autoRank": "0.30628643187955856"
+  },
+  {
+    "query": "tecnology",
+    "id": "408261",
+    "story_id": "25196",
+    "autoRank": "0.30596735891322974"
+  },
+  {
+    "query": "tecnology",
+    "id": "379687",
+    "story_id": "24208",
+    "autoRank": "0.30590516081767194"
+  },
+  {
+    "query": "tecnology",
+    "id": "40284",
+    "story_id": "11635",
+    "autoRank": "0.30584550304082464"
+  },
+  {
+    "query": "tecnology",
+    "id": "76657",
+    "story_id": "13715",
+    "autoRank": "0.30505160712178175"
+  },
+  {
+    "query": "tecnology",
+    "id": "200295",
+    "story_id": "18405",
+    "autoRank": "0.3049587729336119"
+  },
+  {
+    "query": "tecnology",
+    "id": "57032",
+    "story_id": "12530",
+    "autoRank": "0.30495577707418969"
+  }
+]

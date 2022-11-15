@@ -1,0 +1,8 @@
+[
+  {
+    "query": "autumn leaves",
+    "id": "328238",
+    "story_id": "22529",
+    "autoRank": "0.37754593467653869"
+  }
+]

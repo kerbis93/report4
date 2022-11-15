@@ -1,0 +1,62 @@
+[
+  {
+    "query": "cyberpunk",
+    "id": "255889",
+    "story_id": "20368",
+    "autoRank": "0.37526379438529028"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "206278",
+    "story_id": "18648",
+    "autoRank": "0.31905559446934373"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "284375",
+    "story_id": "21240",
+    "autoRank": "0.31761383251596137"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "138508",
+    "story_id": "18997",
+    "autoRank": "0.31625373058305578"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "306336",
+    "story_id": "21890",
+    "autoRank": "0.31613311682494666"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "228133",
+    "story_id": "19386",
+    "autoRank": "0.31560869151119164"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "178543",
+    "story_id": "17794",
+    "autoRank": "0.31411420928407757"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "92646",
+    "story_id": "14511",
+    "autoRank": "0.31389273385412308"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "297448",
+    "story_id": "21655",
+    "autoRank": "0.31387889926143769"
+  },
+  {
+    "query": "cyberpunk",
+    "id": "121453",
+    "story_id": "15686",
+    "autoRank": "0.313567173275843"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "query": "melting statue",
+    "id": "417030",
+    "story_id": "25530",
+    "autoRank": "0.3147557633857066"
+  },
+  {
+    "query": "melting statue",
+    "id": "329111",
+    "story_id": "22569",
+    "autoRank": "0.31353521472099716"
+  },
+  {
+    "query": "melting statue",
+    "id": "296077",
+    "story_id": "21592",
+    "autoRank": "0.31196632579000738"
+  }
+]

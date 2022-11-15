@@ -1,0 +1,26 @@
+[
+  {
+    "query": "green leaves",
+    "id": "140501",
+    "story_id": "16455",
+    "autoRank": "0.38148051619318774"
+  },
+  {
+    "query": "green leaves",
+    "id": "111825",
+    "story_id": "15256",
+    "autoRank": "0.38050432313425114"
+  },
+  {
+    "query": "green leaves",
+    "id": "101958",
+    "story_id": "14814",
+    "autoRank": "0.37924584405286721"
+  },
+  {
+    "query": "green leaves",
+    "id": "95479",
+    "story_id": "14590",
+    "autoRank": "0.37822595483341059"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "query": "big empty space",
+    "id": "235457",
+    "story_id": "19614",
+    "autoRank": "0.31176804246376827"
+  }
+]

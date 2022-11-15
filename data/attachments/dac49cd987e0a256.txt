@@ -1,0 +1,38 @@
+[
+  {
+    "query": "egg white",
+    "id": "100849",
+    "story_id": "14773",
+    "autoRank": "0.33909162410263605"
+  },
+  {
+    "query": "egg white",
+    "id": "55757",
+    "story_id": "12438",
+    "autoRank": "0.33906787902409335"
+  },
+  {
+    "query": "egg white",
+    "id": "95029",
+    "story_id": "14571",
+    "autoRank": "0.33077675238300086"
+  },
+  {
+    "query": "egg white",
+    "id": "255347",
+    "story_id": "20362",
+    "autoRank": "0.32776387675624435"
+  },
+  {
+    "query": "egg white",
+    "id": "150958",
+    "story_id": "16776",
+    "autoRank": "0.32624230770338608"
+  },
+  {
+    "query": "egg white",
+    "id": "127961",
+    "story_id": "15974",
+    "autoRank": "0.31973944272659033"
+  }
+]

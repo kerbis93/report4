@@ -1,0 +1,62 @@
+[
+  {
+    "query": "homeless",
+    "id": "345765",
+    "story_id": "23139",
+    "autoRank": "0.37763910892091834"
+  },
+  {
+    "query": "homeless",
+    "id": "317649",
+    "story_id": "22209",
+    "autoRank": "0.3620210613850256"
+  },
+  {
+    "query": "homeless",
+    "id": "317576",
+    "story_id": "22208",
+    "autoRank": "0.35768296754468221"
+  },
+  {
+    "query": "homeless",
+    "id": "317557",
+    "story_id": "22207",
+    "autoRank": "0.35723289999123092"
+  },
+  {
+    "query": "homeless",
+    "id": "289917",
+    "story_id": "21402",
+    "autoRank": "0.35325376417141263"
+  },
+  {
+    "query": "homeless",
+    "id": "316508",
+    "story_id": "22174",
+    "autoRank": "0.35098609206117304"
+  },
+  {
+    "query": "homeless",
+    "id": "98002",
+    "story_id": "14666",
+    "autoRank": "0.34795290554155178"
+  },
+  {
+    "query": "homeless",
+    "id": "317658",
+    "story_id": "22210",
+    "autoRank": "0.34557540701048989"
+  },
+  {
+    "query": "homeless",
+    "id": "316450",
+    "story_id": "22175",
+    "autoRank": "0.33976077476716288"
+  },
+  {
+    "query": "homeless",
+    "id": "324286",
+    "story_id": "22433",
+    "autoRank": "0.31861043070316825"
+  }
+]

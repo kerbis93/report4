@@ -1,0 +1,62 @@
+[
+  {
+    "query": "tea pot",
+    "id": "309264",
+    "story_id": "21968",
+    "autoRank": "0.388031948626156"
+  },
+  {
+    "query": "tea pot",
+    "id": "248014",
+    "story_id": "20123",
+    "autoRank": "0.36382945493870211"
+  },
+  {
+    "query": "tea pot",
+    "id": "342701",
+    "story_id": "23458",
+    "autoRank": "0.351938160760795"
+  },
+  {
+    "query": "tea pot",
+    "id": "305358",
+    "story_id": "21862",
+    "autoRank": "0.35189611946908095"
+  },
+  {
+    "query": "tea pot",
+    "id": "54725",
+    "story_id": "12394",
+    "autoRank": "0.35014374011404203"
+  },
+  {
+    "query": "tea pot",
+    "id": "48126",
+    "story_id": "12046",
+    "autoRank": "0.34763957944765878"
+  },
+  {
+    "query": "tea pot",
+    "id": "190952",
+    "story_id": "18145",
+    "autoRank": "0.34732294864891489"
+  },
+  {
+    "query": "tea pot",
+    "id": "239643",
+    "story_id": "19799",
+    "autoRank": "0.328047267979037"
+  },
+  {
+    "query": "tea pot",
+    "id": "88348",
+    "story_id": "14256",
+    "autoRank": "0.32761809009778753"
+  },
+  {
+    "query": "tea pot",
+    "id": "49271",
+    "story_id": "12127",
+    "autoRank": "0.3250980856312381"
+  }
+]

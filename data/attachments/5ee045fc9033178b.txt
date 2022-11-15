@@ -1,0 +1,62 @@
+[
+  {
+    "query": "amazing view/scenery",
+    "id": "234441",
+    "story_id": "19535",
+    "autoRank": "0.3458509298548112"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "263590",
+    "story_id": "20590",
+    "autoRank": "0.33695028828204465"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "260706",
+    "story_id": "20488",
+    "autoRank": "0.32210986556043447"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "231362",
+    "story_id": "19486",
+    "autoRank": "0.31919476482312864"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "394500",
+    "story_id": "24751",
+    "autoRank": "0.31474478199037836"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "262408",
+    "story_id": "20543",
+    "autoRank": "0.312993653948697"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "343374",
+    "story_id": "23065",
+    "autoRank": "0.31235446158937258"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "240947",
+    "story_id": "19849",
+    "autoRank": "0.31168859271452981"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "203805",
+    "story_id": "18541",
+    "autoRank": "0.31154133480172513"
+  },
+  {
+    "query": "amazing view/scenery",
+    "id": "385188",
+    "story_id": "24473",
+    "autoRank": "0.31119582693883074"
+  }
+]

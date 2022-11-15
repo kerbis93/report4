@@ -1,0 +1,62 @@
+[
+  {
+    "query": "challenge",
+    "id": "36181",
+    "story_id": "11402",
+    "autoRank": "0.34620820467583152"
+  },
+  {
+    "query": "challenge",
+    "id": "102990",
+    "story_id": "14850",
+    "autoRank": "0.34110665000467094"
+  },
+  {
+    "query": "challenge",
+    "id": "102909",
+    "story_id": "14849",
+    "autoRank": "0.31104534505140169"
+  },
+  {
+    "query": "challenge",
+    "id": "260175",
+    "story_id": "20478",
+    "autoRank": "0.3096673962287193"
+  },
+  {
+    "query": "challenge",
+    "id": "164170",
+    "story_id": "17271",
+    "autoRank": "0.30923451226118348"
+  },
+  {
+    "query": "challenge",
+    "id": "212566",
+    "story_id": "18861",
+    "autoRank": "0.30623983331782406"
+  },
+  {
+    "query": "challenge",
+    "id": "181998",
+    "story_id": "17913",
+    "autoRank": "0.30147635871190337"
+  },
+  {
+    "query": "challenge",
+    "id": "222933",
+    "story_id": "19191",
+    "autoRank": "0.29813575615351323"
+  },
+  {
+    "query": "challenge",
+    "id": "184914",
+    "story_id": "18003",
+    "autoRank": "0.291868241475353"
+  },
+  {
+    "query": "challenge",
+    "id": "212639",
+    "story_id": "18862",
+    "autoRank": "0.2874036870280221"
+  }
+]

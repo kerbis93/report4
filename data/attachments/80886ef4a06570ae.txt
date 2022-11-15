@@ -1,0 +1,20 @@
+[
+  {
+    "query": "coffee berries",
+    "id": "414721",
+    "story_id": "25463",
+    "autoRank": "0.33228633076123343"
+  },
+  {
+    "query": "coffee berries",
+    "id": "373140",
+    "story_id": "23994",
+    "autoRank": "0.32403269615803876"
+  },
+  {
+    "query": "coffee berries",
+    "id": "362360",
+    "story_id": "23686",
+    "autoRank": "0.32236579603276833"
+  }
+]

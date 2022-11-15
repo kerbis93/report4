@@ -1,0 +1,62 @@
+[
+  {
+    "query": "modern dance",
+    "id": "130291",
+    "story_id": "16072",
+    "autoRank": "0.37617209846762995"
+  },
+  {
+    "query": "modern dance",
+    "id": "317707",
+    "story_id": "22211",
+    "autoRank": "0.37330077829377006"
+  },
+  {
+    "query": "modern dance",
+    "id": "20557",
+    "story_id": "10949",
+    "autoRank": "0.37182728874584448"
+  },
+  {
+    "query": "modern dance",
+    "id": "256675",
+    "story_id": "20383",
+    "autoRank": "0.36889107106719815"
+  },
+  {
+    "query": "modern dance",
+    "id": "356804",
+    "story_id": "23437",
+    "autoRank": "0.3663194596263693"
+  },
+  {
+    "query": "modern dance",
+    "id": "48173",
+    "story_id": "12049",
+    "autoRank": "0.36543326725142866"
+  },
+  {
+    "query": "modern dance",
+    "id": "338237",
+    "story_id": "22895",
+    "autoRank": "0.35971721167533421"
+  },
+  {
+    "query": "modern dance",
+    "id": "48390",
+    "story_id": "12069",
+    "autoRank": "0.35411517873941017"
+  },
+  {
+    "query": "modern dance",
+    "id": "320512",
+    "story_id": "22306",
+    "autoRank": "0.35194753103295795"
+  },
+  {
+    "query": "modern dance",
+    "id": "18543",
+    "story_id": "10880",
+    "autoRank": "0.35072980006022231"
+  }
+]

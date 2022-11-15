@@ -1,0 +1,62 @@
+[
+  {
+    "query": "black & white",
+    "id": "325352",
+    "story_id": "22473",
+    "autoRank": "0.38097348872836073"
+  },
+  {
+    "query": "black & white",
+    "id": "315597",
+    "story_id": "22155",
+    "autoRank": "0.3793703092177943"
+  },
+  {
+    "query": "black & white",
+    "id": "315526",
+    "story_id": "22196",
+    "autoRank": "0.37714293217854072"
+  },
+  {
+    "query": "black & white",
+    "id": "310436",
+    "story_id": "22100",
+    "autoRank": "0.36611602040079294"
+  },
+  {
+    "query": "black & white",
+    "id": "98362",
+    "story_id": "14681",
+    "autoRank": "0.36419591534001761"
+  },
+  {
+    "query": "black & white",
+    "id": "67531",
+    "story_id": "13241",
+    "autoRank": "0.36146296137191591"
+  },
+  {
+    "query": "black & white",
+    "id": "90618",
+    "story_id": "14370",
+    "autoRank": "0.36129673340412688"
+  },
+  {
+    "query": "black & white",
+    "id": "35345",
+    "story_id": "11365",
+    "autoRank": "0.36028889846157763"
+  },
+  {
+    "query": "black & white",
+    "id": "297385",
+    "story_id": "21654",
+    "autoRank": "0.35856370626280942"
+  },
+  {
+    "query": "black & white",
+    "id": "44625",
+    "story_id": "11799",
+    "autoRank": "0.35778372740083469"
+  }
+]

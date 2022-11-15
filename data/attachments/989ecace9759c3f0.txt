@@ -1,0 +1,62 @@
+[
+  {
+    "query": "old school",
+    "id": "19284",
+    "story_id": "10901",
+    "autoRank": "0.35450425055720225"
+  },
+  {
+    "query": "old school",
+    "id": "90625",
+    "story_id": "14370",
+    "autoRank": "0.34620001699922065"
+  },
+  {
+    "query": "old school",
+    "id": "76029",
+    "story_id": "13688",
+    "autoRank": "0.34574707722897258"
+  },
+  {
+    "query": "old school",
+    "id": "94105",
+    "story_id": "14547",
+    "autoRank": "0.341435233326303"
+  },
+  {
+    "query": "old school",
+    "id": "51473",
+    "story_id": "12246",
+    "autoRank": "0.33330014374606209"
+  },
+  {
+    "query": "old school",
+    "id": "51382",
+    "story_id": "12240",
+    "autoRank": "0.33239380178691746"
+  },
+  {
+    "query": "old school",
+    "id": "60414",
+    "story_id": "12830",
+    "autoRank": "0.3305659803013532"
+  },
+  {
+    "query": "old school",
+    "id": "95550",
+    "story_id": "14593",
+    "autoRank": "0.3287115205407844"
+  },
+  {
+    "query": "old school",
+    "id": "153239",
+    "story_id": "16848",
+    "autoRank": "0.32832840581459133"
+  },
+  {
+    "query": "old school",
+    "id": "57992",
+    "story_id": "12609",
+    "autoRank": "0.3279847290020016"
+  }
+]

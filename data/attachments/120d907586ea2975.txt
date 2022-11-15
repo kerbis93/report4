@@ -1,0 +1,62 @@
+[
+  {
+    "query": "abstract visuals",
+    "id": "170567",
+    "story_id": "17501",
+    "autoRank": "0.38473803157655129"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "67871",
+    "story_id": "13264",
+    "autoRank": "0.37764117279183451"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "411994",
+    "story_id": "25327",
+    "autoRank": "0.33388938959870823"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "170575",
+    "story_id": "17502",
+    "autoRank": "0.33225437871702485"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "416637",
+    "story_id": "25513",
+    "autoRank": "0.323536643541047"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "416686",
+    "story_id": "25514",
+    "autoRank": "0.32321033739644633"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "178543",
+    "story_id": "17794",
+    "autoRank": "0.32247837147615876"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "160996",
+    "story_id": "17123",
+    "autoRank": "0.32178899670415695"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "320853",
+    "story_id": "22323",
+    "autoRank": "0.32144298826260659"
+  },
+  {
+    "query": "abstract visuals",
+    "id": "161852",
+    "story_id": "17159",
+    "autoRank": "0.31951672083528165"
+  }
+]

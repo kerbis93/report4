@@ -1,0 +1,62 @@
+[
+  {
+    "query": "feeling",
+    "id": "24079",
+    "story_id": "11064",
+    "autoRank": "0.35176046067749789"
+  },
+  {
+    "query": "feeling",
+    "id": "51273",
+    "story_id": "12232",
+    "autoRank": "0.34736810243524874"
+  },
+  {
+    "query": "feeling",
+    "id": "306618",
+    "story_id": "21894",
+    "autoRank": "0.34616825863979039"
+  },
+  {
+    "query": "feeling",
+    "id": "256618",
+    "story_id": "20383",
+    "autoRank": "0.3448688672430047"
+  },
+  {
+    "query": "feeling",
+    "id": "111729",
+    "story_id": "15253",
+    "autoRank": "0.34465237557150397"
+  },
+  {
+    "query": "feeling",
+    "id": "58830",
+    "story_id": "12673",
+    "autoRank": "0.3438281871526766"
+  },
+  {
+    "query": "feeling",
+    "id": "306726",
+    "story_id": "21895",
+    "autoRank": "0.34344321288957835"
+  },
+  {
+    "query": "feeling",
+    "id": "24094",
+    "story_id": "11067",
+    "autoRank": "0.34337359607992735"
+  },
+  {
+    "query": "feeling",
+    "id": "62967",
+    "story_id": "12992",
+    "autoRank": "0.3412839886470439"
+  },
+  {
+    "query": "feeling",
+    "id": "36542",
+    "story_id": "11423",
+    "autoRank": "0.34124591741734372"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "query": "woman falling with colorful light",
+    "id": "415165",
+    "story_id": "25480",
+    "autoRank": "0.32282421172168768"
+  },
+  {
+    "query": "woman falling with colorful light",
+    "id": "343298",
+    "story_id": "23061",
+    "autoRank": "0.32144540678130296"
+  },
+  {
+    "query": "woman falling with colorful light",
+    "id": "410175",
+    "story_id": "25577",
+    "autoRank": "0.32053470322594763"
+  }
+]

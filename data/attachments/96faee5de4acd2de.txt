@@ -1,0 +1,14 @@
+[
+  {
+    "query": "liquid flowing",
+    "id": "91190",
+    "story_id": "14418",
+    "autoRank": "0.36922420817988677"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "392049",
+    "story_id": "24694",
+    "autoRank": "0.36740943408155374"
+  }
+]

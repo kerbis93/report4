@@ -1,0 +1,20 @@
+[
+  {
+    "query": "woman in a dreamy scene",
+    "id": "396919",
+    "story_id": "24816",
+    "autoRank": "0.31864843949264748"
+  },
+  {
+    "query": "woman in a dreamy scene",
+    "id": "340876",
+    "story_id": "22968",
+    "autoRank": "0.31850194615228744"
+  },
+  {
+    "query": "woman in a dreamy scene",
+    "id": "428218",
+    "story_id": "25854",
+    "autoRank": "0.31843648548913234"
+  }
+]

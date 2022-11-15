@@ -1,0 +1,62 @@
+[
+  {
+    "query": "climate change",
+    "id": "108906",
+    "story_id": "15118",
+    "autoRank": "0.36097104713749151"
+  },
+  {
+    "query": "climate change",
+    "id": "94284",
+    "story_id": "14554",
+    "autoRank": "0.35752592373576869"
+  },
+  {
+    "query": "climate change",
+    "id": "328845",
+    "story_id": "22554",
+    "autoRank": "0.35096252457995508"
+  },
+  {
+    "query": "climate change",
+    "id": "208236",
+    "story_id": "18693",
+    "autoRank": "0.33704603676144357"
+  },
+  {
+    "query": "climate change",
+    "id": "216500",
+    "story_id": "18979",
+    "autoRank": "0.33268889564130344"
+  },
+  {
+    "query": "climate change",
+    "id": "224260",
+    "story_id": "19216",
+    "autoRank": "0.32353223459097391"
+  },
+  {
+    "query": "climate change",
+    "id": "66951",
+    "story_id": "13206",
+    "autoRank": "0.32301991212968384"
+  },
+  {
+    "query": "climate change",
+    "id": "58951",
+    "story_id": "12679",
+    "autoRank": "0.32270959866550808"
+  },
+  {
+    "query": "climate change",
+    "id": "234431",
+    "story_id": "19535",
+    "autoRank": "0.321581551616271"
+  },
+  {
+    "query": "climate change",
+    "id": "73584",
+    "story_id": "13578",
+    "autoRank": "0.3148834809681339"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "query": "bird eye",
+    "id": "185704",
+    "story_id": "18027",
+    "autoRank": "0.36759037990825011"
+  },
+  {
+    "query": "bird eye",
+    "id": "186617",
+    "story_id": "18051",
+    "autoRank": "0.36548770367316563"
+  },
+  {
+    "query": "bird eye",
+    "id": "226848",
+    "story_id": "19329",
+    "autoRank": "0.36280561612285223"
+  },
+  {
+    "query": "bird eye",
+    "id": "222104",
+    "story_id": "19156",
+    "autoRank": "0.36167045352013655"
+  },
+  {
+    "query": "bird eye",
+    "id": "226948",
+    "story_id": "19334",
+    "autoRank": "0.36146469647457385"
+  },
+  {
+    "query": "bird eye",
+    "id": "184206",
+    "story_id": "17953",
+    "autoRank": "0.35901530599818154"
+  },
+  {
+    "query": "bird eye",
+    "id": "375738",
+    "story_id": "24087",
+    "autoRank": "0.35681067054977961"
+  }
+]

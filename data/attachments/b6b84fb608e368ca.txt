@@ -1,0 +1,14 @@
+[
+  {
+    "query": "wind blowing",
+    "id": "166374",
+    "story_id": "17365",
+    "autoRank": "0.36497343680690542"
+  },
+  {
+    "query": "wind blowing",
+    "id": "339061",
+    "story_id": "22919",
+    "autoRank": "0.36293976586605048"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "query": "sustainability",
+    "id": "152985",
+    "story_id": "16840",
+    "autoRank": "0.35502341037744867"
+  },
+  {
+    "query": "sustainability",
+    "id": "405088",
+    "story_id": "25095",
+    "autoRank": "0.34228824712813583"
+  },
+  {
+    "query": "sustainability",
+    "id": "156209",
+    "story_id": "16940",
+    "autoRank": "0.3187297340133497"
+  },
+  {
+    "query": "sustainability",
+    "id": "72646",
+    "story_id": "13530",
+    "autoRank": "0.31800289678645505"
+  },
+  {
+    "query": "sustainability",
+    "id": "317994",
+    "story_id": "22223",
+    "autoRank": "0.31595234935414368"
+  },
+  {
+    "query": "sustainability",
+    "id": "109281",
+    "story_id": "15134",
+    "autoRank": "0.31440568236415256"
+  },
+  {
+    "query": "sustainability",
+    "id": "212813",
+    "story_id": "18864",
+    "autoRank": "0.31437917111849306"
+  }
+]

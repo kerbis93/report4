@@ -1,0 +1,20 @@
+[
+  {
+    "query": "old school",
+    "id": "60414",
+    "story_id": "12830",
+    "autoRank": "0.3305659803013532"
+  },
+  {
+    "query": "old school",
+    "id": "95550",
+    "story_id": "14593",
+    "autoRank": "0.3287115205407844"
+  },
+  {
+    "query": "old school",
+    "id": "153239",
+    "story_id": "16848",
+    "autoRank": "0.32832840581459133"
+  }
+]

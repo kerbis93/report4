@@ -1,0 +1,62 @@
+[
+  {
+    "query": "overweight",
+    "id": "123710",
+    "story_id": "15775",
+    "autoRank": "0.35715393898698949"
+  },
+  {
+    "query": "overweight",
+    "id": "392755",
+    "story_id": "24710",
+    "autoRank": "0.34643766984574154"
+  },
+  {
+    "query": "overweight",
+    "id": "185928",
+    "story_id": "18030",
+    "autoRank": "0.32814839834571358"
+  },
+  {
+    "query": "overweight",
+    "id": "336684",
+    "story_id": "22849",
+    "autoRank": "0.30995311344491749"
+  },
+  {
+    "query": "overweight",
+    "id": "235975",
+    "story_id": "19623",
+    "autoRank": "0.30924787085436384"
+  },
+  {
+    "query": "overweight",
+    "id": "369968",
+    "story_id": "24143",
+    "autoRank": "0.30423533989726992"
+  },
+  {
+    "query": "overweight",
+    "id": "99623",
+    "story_id": "14732",
+    "autoRank": "0.30370676255063889"
+  },
+  {
+    "query": "overweight",
+    "id": "48335",
+    "story_id": "12064",
+    "autoRank": "0.303279588108249"
+  },
+  {
+    "query": "overweight",
+    "id": "391933",
+    "story_id": "24692",
+    "autoRank": "0.30322396120529616"
+  },
+  {
+    "query": "overweight",
+    "id": "201095",
+    "story_id": "18442",
+    "autoRank": "0.30285160761562319"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "query": "tiktok",
+    "id": "410388",
+    "story_id": "25264",
+    "autoRank": "0.31652417135338251"
+  },
+  {
+    "query": "tiktok",
+    "id": "361562",
+    "story_id": "23643",
+    "autoRank": "0.31581488867207413"
+  },
+  {
+    "query": "tiktok",
+    "id": "410235",
+    "story_id": "25261",
+    "autoRank": "0.3119656034591069"
+  },
+  {
+    "query": "tiktok",
+    "id": "410296",
+    "story_id": "25262",
+    "autoRank": "0.31192709388103357"
+  },
+  {
+    "query": "tiktok",
+    "id": "201406",
+    "story_id": "18449",
+    "autoRank": "0.30977454924771758"
+  },
+  {
+    "query": "tiktok",
+    "id": "410304",
+    "story_id": "25343",
+    "autoRank": "0.30970068964029368"
+  },
+  {
+    "query": "tiktok",
+    "id": "410157",
+    "story_id": "25577",
+    "autoRank": "0.30887158969596218"
+  },
+  {
+    "query": "tiktok",
+    "id": "196169",
+    "story_id": "18275",
+    "autoRank": "0.30866203140748816"
+  },
+  {
+    "query": "tiktok",
+    "id": "38614",
+    "story_id": "11553",
+    "autoRank": "0.30860561120588847"
+  },
+  {
+    "query": "tiktok",
+    "id": "61303",
+    "story_id": "12890",
+    "autoRank": "0.30811668002395626"
+  }
+]

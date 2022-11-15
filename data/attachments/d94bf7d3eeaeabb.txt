@@ -1,0 +1,62 @@
+[
+  {
+    "query": "street style",
+    "id": "336475",
+    "story_id": "22841",
+    "autoRank": "0.34986388416574654"
+  },
+  {
+    "query": "street style",
+    "id": "267214",
+    "story_id": "20703",
+    "autoRank": "0.34713526773329861"
+  },
+  {
+    "query": "street style",
+    "id": "178969",
+    "story_id": "17808",
+    "autoRank": "0.34617000008934123"
+  },
+  {
+    "query": "street style",
+    "id": "85522",
+    "story_id": "14136",
+    "autoRank": "0.34401356269736072"
+  },
+  {
+    "query": "street style",
+    "id": "179362",
+    "story_id": "17838",
+    "autoRank": "0.33103418257376938"
+  },
+  {
+    "query": "street style",
+    "id": "181115",
+    "story_id": "17900",
+    "autoRank": "0.32921257755958933"
+  },
+  {
+    "query": "street style",
+    "id": "365512",
+    "story_id": "23756",
+    "autoRank": "0.32909702813455483"
+  },
+  {
+    "query": "street style",
+    "id": "32590",
+    "story_id": "11256",
+    "autoRank": "0.32901611171732192"
+  },
+  {
+    "query": "street style",
+    "id": "255112",
+    "story_id": "20357",
+    "autoRank": "0.32393053251754456"
+  },
+  {
+    "query": "street style",
+    "id": "239499",
+    "story_id": "19797",
+    "autoRank": "0.32155225871665016"
+  }
+]

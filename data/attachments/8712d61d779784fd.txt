@@ -1,0 +1,26 @@
+[
+  {
+    "query": "tim burton",
+    "id": "282904",
+    "story_id": "21205",
+    "autoRank": "0.31538256576019608"
+  },
+  {
+    "query": "tim burton",
+    "id": "206995",
+    "story_id": "18669",
+    "autoRank": "0.31323104151881165"
+  },
+  {
+    "query": "tim burton",
+    "id": "248752",
+    "story_id": "20143",
+    "autoRank": "0.30733793076302407"
+  },
+  {
+    "query": "tim burton",
+    "id": "52124",
+    "story_id": "12275",
+    "autoRank": "0.30350631662870503"
+  }
+]

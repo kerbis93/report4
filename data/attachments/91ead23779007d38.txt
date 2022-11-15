@@ -1,0 +1,62 @@
+[
+  {
+    "query": "subway",
+    "id": "125911",
+    "story_id": "15876",
+    "autoRank": "0.36415715015023825"
+  },
+  {
+    "query": "subway",
+    "id": "187996",
+    "story_id": "18082",
+    "autoRank": "0.362572262928937"
+  },
+  {
+    "query": "subway",
+    "id": "44521",
+    "story_id": "11790",
+    "autoRank": "0.36150478395931179"
+  },
+  {
+    "query": "subway",
+    "id": "120827",
+    "story_id": "15651",
+    "autoRank": "0.36111773234245287"
+  },
+  {
+    "query": "subway",
+    "id": "69951",
+    "story_id": "13426",
+    "autoRank": "0.36015970116219426"
+  },
+  {
+    "query": "subway",
+    "id": "130267",
+    "story_id": "16071",
+    "autoRank": "0.35883738708801444"
+  },
+  {
+    "query": "subway",
+    "id": "351538",
+    "story_id": "23320",
+    "autoRank": "0.35878327572648583"
+  },
+  {
+    "query": "subway",
+    "id": "337483",
+    "story_id": "22875",
+    "autoRank": "0.35783954660207856"
+  },
+  {
+    "query": "subway",
+    "id": "90205",
+    "story_id": "14360",
+    "autoRank": "0.3560050928200662"
+  },
+  {
+    "query": "subway",
+    "id": "71290",
+    "story_id": "13479",
+    "autoRank": "0.35593712208295275"
+  }
+]

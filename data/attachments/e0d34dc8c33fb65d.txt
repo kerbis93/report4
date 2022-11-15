@@ -1,0 +1,32 @@
+[
+  {
+    "query": "holding hands",
+    "id": "159830",
+    "story_id": "17090",
+    "autoRank": "0.37324999306856843"
+  },
+  {
+    "query": "holding hands",
+    "id": "143477",
+    "story_id": "16543",
+    "autoRank": "0.37155153828765436"
+  },
+  {
+    "query": "holding hands",
+    "id": "284857",
+    "story_id": "21253",
+    "autoRank": "0.37113557961570826"
+  },
+  {
+    "query": "holding hands",
+    "id": "138017",
+    "story_id": "16347",
+    "autoRank": "0.3703112741113434"
+  },
+  {
+    "query": "holding hands",
+    "id": "76495",
+    "story_id": "13712",
+    "autoRank": "0.37003698672170043"
+  }
+]

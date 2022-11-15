@@ -1,0 +1,44 @@
+[
+  {
+    "query": "innocent",
+    "id": "83509",
+    "story_id": "14030",
+    "autoRank": "0.35108238265681074"
+  },
+  {
+    "query": "innocent",
+    "id": "32708",
+    "story_id": "11265",
+    "autoRank": "0.346191388587985"
+  },
+  {
+    "query": "innocent",
+    "id": "39612",
+    "story_id": "11598",
+    "autoRank": "0.33323782025142157"
+  },
+  {
+    "query": "innocent",
+    "id": "237295",
+    "story_id": "19705",
+    "autoRank": "0.31080294336865544"
+  },
+  {
+    "query": "innocent",
+    "id": "247922",
+    "story_id": "20114",
+    "autoRank": "0.30623988475691849"
+  },
+  {
+    "query": "innocent",
+    "id": "416394",
+    "story_id": "25658",
+    "autoRank": "0.30264137068258606"
+  },
+  {
+    "query": "innocent",
+    "id": "23292",
+    "story_id": "11045",
+    "autoRank": "0.30028690422392706"
+  }
+]

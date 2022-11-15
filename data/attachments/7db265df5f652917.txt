@@ -1,0 +1,62 @@
+[
+  {
+    "query": "focus change",
+    "id": "358313",
+    "story_id": "23496",
+    "autoRank": "0.35652969937094214"
+  },
+  {
+    "query": "focus change",
+    "id": "358228",
+    "story_id": "23490",
+    "autoRank": "0.35561956532695105"
+  },
+  {
+    "query": "focus change",
+    "id": "19285",
+    "story_id": "10901",
+    "autoRank": "0.35529747225572927"
+  },
+  {
+    "query": "focus change",
+    "id": "361481",
+    "story_id": "23639",
+    "autoRank": "0.35296359799956567"
+  },
+  {
+    "query": "focus change",
+    "id": "308980",
+    "story_id": "22487",
+    "autoRank": "0.35229163925553941"
+  },
+  {
+    "query": "focus change",
+    "id": "346096",
+    "story_id": "23447",
+    "autoRank": "0.35163921004993864"
+  },
+  {
+    "query": "focus change",
+    "id": "357107",
+    "story_id": "23444",
+    "autoRank": "0.35070817339390492"
+  },
+  {
+    "query": "focus change",
+    "id": "345902",
+    "story_id": "23141",
+    "autoRank": "0.3485568849024967"
+  },
+  {
+    "query": "focus change",
+    "id": "357506",
+    "story_id": "23547",
+    "autoRank": "0.34711571582876516"
+  },
+  {
+    "query": "focus change",
+    "id": "395393",
+    "story_id": "24777",
+    "autoRank": "0.34639875529939584"
+  }
+]

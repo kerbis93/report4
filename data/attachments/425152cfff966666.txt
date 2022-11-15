@@ -1,0 +1,62 @@
+[
+  {
+    "query": "artgrid",
+    "id": "279577",
+    "story_id": "21129",
+    "autoRank": "0.30960574205830432"
+  },
+  {
+    "query": "artgrid",
+    "id": "408316",
+    "story_id": "25196",
+    "autoRank": "0.30910076946332676"
+  },
+  {
+    "query": "artgrid",
+    "id": "178544",
+    "story_id": "17794",
+    "autoRank": "0.30876192148685655"
+  },
+  {
+    "query": "artgrid",
+    "id": "289579",
+    "story_id": "21395",
+    "autoRank": "0.30844190019570716"
+  },
+  {
+    "query": "artgrid",
+    "id": "320853",
+    "story_id": "22323",
+    "autoRank": "0.30841597128580439"
+  },
+  {
+    "query": "artgrid",
+    "id": "160991",
+    "story_id": "17123",
+    "autoRank": "0.30840136355512288"
+  },
+  {
+    "query": "artgrid",
+    "id": "313774",
+    "story_id": "22104",
+    "autoRank": "0.30801293013543574"
+  },
+  {
+    "query": "artgrid",
+    "id": "339834",
+    "story_id": "22943",
+    "autoRank": "0.30789958505924037"
+  },
+  {
+    "query": "artgrid",
+    "id": "220108",
+    "story_id": "19108",
+    "autoRank": "0.30784027564654237"
+  },
+  {
+    "query": "artgrid",
+    "id": "96299",
+    "story_id": "14611",
+    "autoRank": "0.30774407034828677"
+  }
+]

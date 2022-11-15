@@ -1,0 +1,62 @@
+[
+  {
+    "query": "liquid flowing",
+    "id": "56377",
+    "story_id": "12490",
+    "autoRank": "0.37373386832838568"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "21025",
+    "story_id": "10963",
+    "autoRank": "0.3700036694434522"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "50949",
+    "story_id": "12222",
+    "autoRank": "0.36999805949623588"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "91190",
+    "story_id": "14418",
+    "autoRank": "0.36922420817988677"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "392049",
+    "story_id": "24694",
+    "autoRank": "0.36740943408155374"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "60253",
+    "story_id": "12821",
+    "autoRank": "0.36632005087407943"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "282886",
+    "story_id": "21203",
+    "autoRank": "0.36554744409596263"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "274165",
+    "story_id": "20923",
+    "autoRank": "0.36373743301573974"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "320419",
+    "story_id": "22300",
+    "autoRank": "0.3634089292618744"
+  },
+  {
+    "query": "liquid flowing",
+    "id": "51081",
+    "story_id": "12225",
+    "autoRank": "0.36134412189836423"
+  }
+]

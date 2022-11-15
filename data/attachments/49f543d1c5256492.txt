@@ -1,0 +1,62 @@
+[
+  {
+    "query": "coffee berries",
+    "id": "286676",
+    "story_id": "21324",
+    "autoRank": "0.35759737479248677"
+  },
+  {
+    "query": "coffee berries",
+    "id": "414721",
+    "story_id": "25463",
+    "autoRank": "0.33228633076123343"
+  },
+  {
+    "query": "coffee berries",
+    "id": "208671",
+    "story_id": "18706",
+    "autoRank": "0.33156117256176582"
+  },
+  {
+    "query": "coffee berries",
+    "id": "42772",
+    "story_id": "11722",
+    "autoRank": "0.33024213899847343"
+  },
+  {
+    "query": "coffee berries",
+    "id": "323211",
+    "story_id": "22393",
+    "autoRank": "0.32438919984689851"
+  },
+  {
+    "query": "coffee berries",
+    "id": "373140",
+    "story_id": "23994",
+    "autoRank": "0.32403269615803876"
+  },
+  {
+    "query": "coffee berries",
+    "id": "259775",
+    "story_id": "20462",
+    "autoRank": "0.32316013272918787"
+  },
+  {
+    "query": "coffee berries",
+    "id": "50398",
+    "story_id": "12198",
+    "autoRank": "0.32277875704602738"
+  },
+  {
+    "query": "coffee berries",
+    "id": "284917",
+    "story_id": "21255",
+    "autoRank": "0.32247031340795079"
+  },
+  {
+    "query": "coffee berries",
+    "id": "362360",
+    "story_id": "23686",
+    "autoRank": "0.32236579603276833"
+  }
+]

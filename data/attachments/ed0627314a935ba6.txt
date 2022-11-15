@@ -1,0 +1,62 @@
+[
+  {
+    "query": "running water",
+    "id": "404541",
+    "story_id": "25079",
+    "autoRank": "0.37446369321732664"
+  },
+  {
+    "query": "running water",
+    "id": "42711",
+    "story_id": "11721",
+    "autoRank": "0.3723594053598816"
+  },
+  {
+    "query": "running water",
+    "id": "113709",
+    "story_id": "15336",
+    "autoRank": "0.36574535713439837"
+  },
+  {
+    "query": "running water",
+    "id": "287553",
+    "story_id": "21337",
+    "autoRank": "0.36462551617448147"
+  },
+  {
+    "query": "running water",
+    "id": "123831",
+    "story_id": "15781",
+    "autoRank": "0.36296381055757465"
+  },
+  {
+    "query": "running water",
+    "id": "42319",
+    "story_id": "11711",
+    "autoRank": "0.36293975843207932"
+  },
+  {
+    "query": "running water",
+    "id": "115181",
+    "story_id": "15411",
+    "autoRank": "0.36258529943002776"
+  },
+  {
+    "query": "running water",
+    "id": "46173",
+    "story_id": "11859",
+    "autoRank": "0.36208997311226726"
+  },
+  {
+    "query": "running water",
+    "id": "36749",
+    "story_id": "11434",
+    "autoRank": "0.354491480461957"
+  },
+  {
+    "query": "running water",
+    "id": "104398",
+    "story_id": "14923",
+    "autoRank": "0.35415634384133349"
+  }
+]

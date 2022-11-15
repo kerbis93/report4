@@ -1,0 +1,26 @@
+[
+  {
+    "query": "wireframe",
+    "id": "408316",
+    "story_id": "25196",
+    "autoRank": "0.31934514839912947"
+  },
+  {
+    "query": "wireframe",
+    "id": "399786",
+    "story_id": "24921",
+    "autoRank": "0.31749792868306254"
+  },
+  {
+    "query": "wireframe",
+    "id": "48035",
+    "story_id": "12035",
+    "autoRank": "0.31524360446638927"
+  },
+  {
+    "query": "wireframe",
+    "id": "411991",
+    "story_id": "25326",
+    "autoRank": "0.31459241708787983"
+  }
+]

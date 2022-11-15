@@ -1,0 +1,26 @@
+[
+  {
+    "query": "scorsese",
+    "id": "224648",
+    "story_id": "19247",
+    "autoRank": "0.31023065853794396"
+  },
+  {
+    "query": "scorsese",
+    "id": "38614",
+    "story_id": "11553",
+    "autoRank": "0.30849700212067266"
+  },
+  {
+    "query": "scorsese",
+    "id": "427552",
+    "story_id": "25829",
+    "autoRank": "0.30644153636258026"
+  },
+  {
+    "query": "scorsese",
+    "id": "192386",
+    "story_id": "18175",
+    "autoRank": "0.30527185859538553"
+  }
+]

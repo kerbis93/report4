@@ -1,0 +1,26 @@
+[
+  {
+    "query": "cherry blossom",
+    "id": "128563",
+    "story_id": "16007",
+    "autoRank": "0.38314976165974551"
+  },
+  {
+    "query": "cherry blossom",
+    "id": "125202",
+    "story_id": "15856",
+    "autoRank": "0.37806546416903364"
+  },
+  {
+    "query": "cherry blossom",
+    "id": "80888",
+    "story_id": "13894",
+    "autoRank": "0.32090453277894715"
+  },
+  {
+    "query": "cherry blossom",
+    "id": "116213",
+    "story_id": "15453",
+    "autoRank": "0.3204701656104369"
+  }
+]
