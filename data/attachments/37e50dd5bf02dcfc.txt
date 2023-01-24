@@ -1,8 +1,0 @@
-[
-  {
-    "query": "running water",
-    "id": "404541",
-    "story_id": "25079",
-    "autoRank": "0.37446369321732664"
-  }
-]

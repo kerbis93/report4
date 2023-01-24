@@ -1,15 +1,1 @@
-{
-  "total" : 1,
-  "items" : [ {
-    "uid" : "ad9933e0a1988ecbfa9917c5035c43ac",
-    "name" : "Footage | Search term | AI | Vespa semantical tests",
-    "statistic" : {
-      "failed" : 60,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 90,
-      "unknown" : 0,
-      "total" : 150
-    }
-  } ]
-}
+{"total":1,"items":[{"uid":"af9c91598d0459b6a5ef491bd2672f4a","name":"Templates | Home Page - top 200","statistic":{"failed":1,"broken":0,"skipped":1,"passed":2,"unknown":0,"total":4}}]}

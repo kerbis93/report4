@@ -1,8 +1,0 @@
-[
-  {
-    "query": "lights in a tunnel",
-    "id": "397984",
-    "story_id": "24851",
-    "autoRank": "0.369223761511391"
-  }
-]

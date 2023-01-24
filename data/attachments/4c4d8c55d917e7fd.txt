@@ -1,8 +1,0 @@
-[
-  {
-    "query": "holding hands",
-    "id": "355442",
-    "story_id": "23403",
-    "autoRank": "0.37466578380043075"
-  }
-]
