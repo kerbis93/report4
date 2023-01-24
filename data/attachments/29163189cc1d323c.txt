@@ -1,0 +1,62 @@
+[
+  {
+    "query": "funny animals",
+    "id": "22677",
+    "storyId": "11028",
+    "autoRank": "0.33887946594973828"
+  },
+  {
+    "query": "funny animals",
+    "id": "564971",
+    "storyId": "30357",
+    "autoRank": "0.32733211306576282"
+  },
+  {
+    "query": "funny animals",
+    "id": "298566",
+    "storyId": "21699",
+    "autoRank": "0.32396184127586958"
+  },
+  {
+    "query": "funny animals",
+    "id": "298560",
+    "storyId": "21699",
+    "autoRank": "0.32394618480589077"
+  },
+  {
+    "query": "funny animals",
+    "id": "294880",
+    "storyId": "21566",
+    "autoRank": "0.32369698063666535"
+  },
+  {
+    "query": "funny animals",
+    "id": "252212",
+    "storyId": "20249",
+    "autoRank": "0.3228027874974253"
+  },
+  {
+    "query": "funny animals",
+    "id": "564977",
+    "storyId": "30357",
+    "autoRank": "0.32215288623534183"
+  },
+  {
+    "query": "funny animals",
+    "id": "40227",
+    "storyId": "11631",
+    "autoRank": "0.31969243403296416"
+  },
+  {
+    "query": "funny animals",
+    "id": "298561",
+    "storyId": "21699",
+    "autoRank": "0.31938292610897284"
+  },
+  {
+    "query": "funny animals",
+    "id": "548870",
+    "storyId": "29875",
+    "autoRank": "0.31864183224178966"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "query": "crowd music street",
+    "id": "47660",
+    "storyId": "11993",
+    "autoRank": "0.32563844523832586"
+  },
+  {
+    "query": "crowd music street",
+    "id": "72767",
+    "storyId": "13537",
+    "autoRank": "0.32135164910563108"
+  },
+  {
+    "query": "crowd music street",
+    "id": "57861",
+    "storyId": "12601",
+    "autoRank": "0.32133142075728188"
+  },
+  {
+    "query": "crowd music street",
+    "id": "57780",
+    "storyId": "12601",
+    "autoRank": "0.31717141400575311"
+  },
+  {
+    "query": "crowd music street",
+    "id": "57831",
+    "storyId": "12601",
+    "autoRank": "0.31558131078722462"
+  }
+]

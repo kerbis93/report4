@@ -1,0 +1,8 @@
+[
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "230145",
+    "storyId": "19438",
+    "autoRank": "0.3303710040676075"
+  }
+]

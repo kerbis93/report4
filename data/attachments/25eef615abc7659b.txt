@@ -1,0 +1,8 @@
+[
+  {
+    "query": "watching movie projector",
+    "id": "57991",
+    "storyId": "12609",
+    "autoRank": "0.35188991088788218"
+  }
+]

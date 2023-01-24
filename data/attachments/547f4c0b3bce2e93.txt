@@ -1,0 +1,62 @@
+[
+  {
+    "query": "adventure",
+    "id": "502837",
+    "storyId": "28244",
+    "autoRank": "0.38702715821190536"
+  },
+  {
+    "query": "adventure",
+    "id": "573583",
+    "storyId": "30726",
+    "autoRank": "0.3862335584910091"
+  },
+  {
+    "query": "adventure",
+    "id": "232819",
+    "storyId": "19547",
+    "autoRank": "0.38463212135881086"
+  },
+  {
+    "query": "adventure",
+    "id": "502826",
+    "storyId": "28244",
+    "autoRank": "0.38454006717637657"
+  },
+  {
+    "query": "adventure",
+    "id": "375580",
+    "storyId": "24085",
+    "autoRank": "0.38043553498775606"
+  },
+  {
+    "query": "adventure",
+    "id": "239591",
+    "storyId": "19799",
+    "autoRank": "0.37890094038541366"
+  },
+  {
+    "query": "adventure",
+    "id": "162621",
+    "storyId": "17192",
+    "autoRank": "0.37739233620072932"
+  },
+  {
+    "query": "adventure",
+    "id": "232804",
+    "storyId": "19547",
+    "autoRank": "0.37730649595242571"
+  },
+  {
+    "query": "adventure",
+    "id": "232820",
+    "storyId": "19547",
+    "autoRank": "0.37726160435139122"
+  },
+  {
+    "query": "adventure",
+    "id": "98623",
+    "storyId": "14692",
+    "autoRank": "0.37711486024343732"
+  }
+]

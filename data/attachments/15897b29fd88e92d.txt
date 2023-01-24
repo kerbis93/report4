@@ -1,0 +1,62 @@
+[
+  {
+    "query": "consumerism",
+    "id": "383203",
+    "storyId": "24343",
+    "autoRank": "0.38741950765611122"
+  },
+  {
+    "query": "consumerism",
+    "id": "383215",
+    "storyId": "24343",
+    "autoRank": "0.3849983781364717"
+  },
+  {
+    "query": "consumerism",
+    "id": "383207",
+    "storyId": "24343",
+    "autoRank": "0.37903061165367424"
+  },
+  {
+    "query": "consumerism",
+    "id": "383222",
+    "storyId": "24343",
+    "autoRank": "0.37868715691814708"
+  },
+  {
+    "query": "consumerism",
+    "id": "383185",
+    "storyId": "24343",
+    "autoRank": "0.37712877079999324"
+  },
+  {
+    "query": "consumerism",
+    "id": "383196",
+    "storyId": "24343",
+    "autoRank": "0.37483566607687763"
+  },
+  {
+    "query": "consumerism",
+    "id": "383195",
+    "storyId": "24343",
+    "autoRank": "0.3723090671088114"
+  },
+  {
+    "query": "consumerism",
+    "id": "383198",
+    "storyId": "24343",
+    "autoRank": "0.37129532625370087"
+  },
+  {
+    "query": "consumerism",
+    "id": "383200",
+    "storyId": "24343",
+    "autoRank": "0.37084223316355786"
+  },
+  {
+    "query": "consumerism",
+    "id": "383210",
+    "storyId": "24343",
+    "autoRank": "0.37012121443232748"
+  }
+]

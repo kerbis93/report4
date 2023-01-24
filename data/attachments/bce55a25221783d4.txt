@@ -1,0 +1,14 @@
+[
+  {
+    "storyId": 19591,
+    "name": "Fake-News, Contemporary, Font, 1980S",
+    "id": "234614",
+    "order": 0
+  },
+  {
+    "storyId": 12627,
+    "name": "Monolith, Mystery, Pole, Planet",
+    "id": "227100",
+    "order": 1
+  }
+]

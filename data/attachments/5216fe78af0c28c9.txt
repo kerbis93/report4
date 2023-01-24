@@ -1,0 +1,50 @@
+[
+  {
+    "storyId": 27681,
+    "name": "Woman, Muslim, Laptop, Stairs",
+    "id": "484848",
+    "order": 0
+  },
+  {
+    "storyId": 26449,
+    "name": "Woman, Call Center, Worker, Sitting",
+    "id": "448510",
+    "order": 1
+  },
+  {
+    "storyId": 28838,
+    "name": "Office Employee, Coworkers, Laptop, Office Staff",
+    "id": "520485",
+    "order": 2
+  },
+  {
+    "storyId": 28838,
+    "name": "Office Staff, Modern, Coworkers, Colleague",
+    "id": "520450",
+    "order": 3
+  },
+  {
+    "storyId": 28838,
+    "name": "Office Employee, Office Staff, Colleague, Portrait",
+    "id": "520456",
+    "order": 4
+  },
+  {
+    "storyId": 15719,
+    "name": "light shining on an architect working in an office",
+    "id": "122522",
+    "order": 5
+  },
+  {
+    "storyId": 10901,
+    "name": "Man working at a sowing machine",
+    "id": "19264",
+    "order": 6
+  },
+  {
+    "storyId": 24301,
+    "name": "Workers, Smiling, Looking At Camera, Containers",
+    "id": "381786",
+    "order": 7
+  }
+]

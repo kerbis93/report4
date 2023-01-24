@@ -1,0 +1,62 @@
+[
+  {
+    "query": "trippy",
+    "id": "557652",
+    "storyId": "30077",
+    "autoRank": "0.39599572812428491"
+  },
+  {
+    "query": "trippy",
+    "id": "557657",
+    "storyId": "30077",
+    "autoRank": "0.39582326785912"
+  },
+  {
+    "query": "trippy",
+    "id": "557655",
+    "storyId": "30077",
+    "autoRank": "0.39582119587871867"
+  },
+  {
+    "query": "trippy",
+    "id": "557603",
+    "storyId": "30076",
+    "autoRank": "0.39459425104865858"
+  },
+  {
+    "query": "trippy",
+    "id": "557678",
+    "storyId": "30077",
+    "autoRank": "0.39428999162728767"
+  },
+  {
+    "query": "trippy",
+    "id": "557658",
+    "storyId": "30077",
+    "autoRank": "0.39416474338370333"
+  },
+  {
+    "query": "trippy",
+    "id": "67873",
+    "storyId": "13264",
+    "autoRank": "0.39327485576225729"
+  },
+  {
+    "query": "trippy",
+    "id": "557667",
+    "storyId": "30077",
+    "autoRank": "0.39221452022995723"
+  },
+  {
+    "query": "trippy",
+    "id": "557683",
+    "storyId": "30077",
+    "autoRank": "0.39195822727068386"
+  },
+  {
+    "query": "trippy",
+    "id": "557670",
+    "storyId": "30077",
+    "autoRank": "0.39070822189513371"
+  }
+]

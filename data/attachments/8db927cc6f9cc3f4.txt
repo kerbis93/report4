@@ -1,0 +1,62 @@
+[
+  {
+    "query": "artificial intelligence",
+    "id": "210027",
+    "storyId": "18754",
+    "autoRank": "0.37094318830805795"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "210026",
+    "storyId": "18754",
+    "autoRank": "0.37008444331406087"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "210030",
+    "storyId": "18754",
+    "autoRank": "0.3678932434034789"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "210028",
+    "storyId": "18754",
+    "autoRank": "0.36290090471611486"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "200813",
+    "storyId": "18428",
+    "autoRank": "0.36289989037426973"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "210023",
+    "storyId": "18754",
+    "autoRank": "0.36150595920138856"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "210080",
+    "storyId": "18754",
+    "autoRank": "0.35848309313967497"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "210025",
+    "storyId": "18754",
+    "autoRank": "0.35427545933277654"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "210018",
+    "storyId": "18754",
+    "autoRank": "0.35374713692403931"
+  },
+  {
+    "query": "artificial intelligence",
+    "id": "210034",
+    "storyId": "18754",
+    "autoRank": "0.34526967291915195"
+  }
+]

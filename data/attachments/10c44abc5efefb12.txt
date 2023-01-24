@@ -1,0 +1,2402 @@
+[
+  {
+    "storyId": 26334,
+    "name": "Doctor, Patient, Clinic, Check Up",
+    "id": "443678",
+    "order": 0
+  },
+  {
+    "storyId": 26334,
+    "name": "Doctor, Tablet, Green Screen, Medical Info",
+    "id": "443699",
+    "order": 1
+  },
+  {
+    "storyId": 26334,
+    "name": "Doctor, Writing, Medical Info, Clinic",
+    "id": "443679",
+    "order": 2
+  },
+  {
+    "storyId": 26334,
+    "name": "Screen, Medical Info, Doctor, Patient",
+    "id": "443672",
+    "order": 3
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Tablet, Green Screen, Portrait",
+    "id": "503038",
+    "order": 4
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Looking At Camera",
+    "id": "510893",
+    "order": 5
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Tablet, Green Screen, Portrait",
+    "id": "503027",
+    "order": 6
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Looking At Camera",
+    "id": "510892",
+    "order": 7
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Tablet, Green Screen, Portrait",
+    "id": "503026",
+    "order": 8
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Smartphone, Typing, Mobile",
+    "id": "503018",
+    "order": 9
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190592",
+    "order": 10
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Writing",
+    "id": "510894",
+    "order": 11
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Smartphone, Typing, Mobile",
+    "id": "503019",
+    "order": 12
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Laptop, Looking At Camera, Woman",
+    "id": "510875",
+    "order": 13
+  },
+  {
+    "storyId": 30172,
+    "name": "Doctor, Walking, Tablet, Typing",
+    "id": "560089",
+    "order": 14
+  },
+  {
+    "storyId": 25109,
+    "name": "Doctor, Clinic, Pediatrician, Child",
+    "id": "405657",
+    "order": 15
+  },
+  {
+    "storyId": 30172,
+    "name": "Doctor, Tablet, Typing, Hospital",
+    "id": "560085",
+    "order": 16
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Tablet, Green Screen, Portrait",
+    "id": "503024",
+    "order": 17
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor working on a tablet ",
+    "id": "98854",
+    "order": 18
+  },
+  {
+    "storyId": 18232,
+    "name": "Woman, Medical, Doctor, Stethoscope",
+    "id": "194506",
+    "order": 19
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Stethoscope",
+    "id": "503005",
+    "order": 20
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190385",
+    "order": 21
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Clinic, Video Call, Headset",
+    "id": "291489",
+    "order": 22
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Headgear",
+    "id": "503010",
+    "order": 23
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Mask, Portrait, Laptop",
+    "id": "291406",
+    "order": 24
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190590",
+    "order": 25
+  },
+  {
+    "storyId": 21472,
+    "name": "Doctor, Clipboard, Walking, Corridor",
+    "id": "291786",
+    "order": 26
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190591",
+    "order": 27
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Hijab, Woman, Looking At Camera",
+    "id": "510874",
+    "order": 28
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Laptop, Looking At Camera, Woman",
+    "id": "510876",
+    "order": 29
+  },
+  {
+    "storyId": 18232,
+    "name": "Doctor, Nurse, Woman, Headphones",
+    "id": "194503",
+    "order": 30
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Portrait, Redhead, Clinic",
+    "id": "291409",
+    "order": 31
+  },
+  {
+    "storyId": 30172,
+    "name": "Doctor, Tablet, Typing, Hospital",
+    "id": "560094",
+    "order": 32
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Tablet, Green Screen, Portrait",
+    "id": "503043",
+    "order": 33
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, Dictating, Phonecall",
+    "id": "190599",
+    "order": 34
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Clinic, Talking, Standing",
+    "id": "291510",
+    "order": 35
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Laptop, Woman, Working",
+    "id": "510878",
+    "order": 36
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190528",
+    "order": 37
+  },
+  {
+    "storyId": 18139,
+    "name": "Doctor, Office, Lamp, Caucasian",
+    "id": "190595",
+    "order": 38
+  },
+  {
+    "storyId": 27980,
+    "name": "Patient, Hospital Bed, Doctor, Sick",
+    "id": "495464",
+    "order": 39
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Mask, Laptop, Clinic",
+    "id": "291402",
+    "order": 40
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190593",
+    "order": 41
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Face Mask",
+    "id": "503076",
+    "order": 42
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190527",
+    "order": 43
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Gloves",
+    "id": "503013",
+    "order": 44
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Phone, Talking, Redhead",
+    "id": "291400",
+    "order": 45
+  },
+  {
+    "storyId": 25600,
+    "name": "Woman, Veterinarian, Rat, Doctor",
+    "id": "419696",
+    "order": 46
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190600",
+    "order": 47
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Phone",
+    "id": "510890",
+    "order": 48
+  },
+  {
+    "storyId": 14702,
+    "name": "veterinarian doing a checkup on a cat and typing on a tablet\n\n",
+    "id": "98861",
+    "order": 49
+  },
+  {
+    "storyId": 14557,
+    "name": "medical professional looking at an x-ray and entering information into a computer",
+    "id": "94387",
+    "order": 50
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Reading, Notebook, Stethoscope",
+    "id": "503048",
+    "order": 51
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Stethoscope",
+    "id": "503047",
+    "order": 52
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Looking At Camera, Portrait, Woman",
+    "id": "510877",
+    "order": 53
+  },
+  {
+    "storyId": 18153,
+    "name": "Doctor, Clinic, Remote Service, Video Call",
+    "id": "191314",
+    "order": 54
+  },
+  {
+    "storyId": 18139,
+    "name": "Doctor, Man, Online, Laptop",
+    "id": "190526",
+    "order": 55
+  },
+  {
+    "storyId": 29119,
+    "name": "Nurse, Heart Shape, Hand Gesture, Portrait",
+    "id": "527518",
+    "order": 56
+  },
+  {
+    "storyId": 18232,
+    "name": "Woman, Working, Home, Laptop",
+    "id": "194505",
+    "order": 57
+  },
+  {
+    "storyId": 14533,
+    "name": "Doctor showing a tablet display to a patient",
+    "id": "93648",
+    "order": 58
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Smartphone, Typing, Mobile",
+    "id": "503017",
+    "order": 59
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Tablet, Green Screen, Uniform",
+    "id": "502998",
+    "order": 60
+  },
+  {
+    "storyId": 14780,
+    "name": "doctor working on a computer before turning to smile directly at the camera in a clinic",
+    "id": "101002",
+    "order": 61
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Headgear",
+    "id": "503009",
+    "order": 62
+  },
+  {
+    "storyId": 14557,
+    "name": "physician looking at an x-ray and entering information into a laptop computer",
+    "id": "94388",
+    "order": 63
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Smartphone, Typing, Mobile",
+    "id": "503020",
+    "order": 64
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Typing",
+    "id": "510888",
+    "order": 65
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Video Call, Talking, Smiling",
+    "id": "291468",
+    "order": 66
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Looking At Camera",
+    "id": "510883",
+    "order": 67
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor typing on a tablet",
+    "id": "98853",
+    "order": 68
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190380",
+    "order": 69
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190398",
+    "order": 70
+  },
+  {
+    "storyId": 30174,
+    "name": "Laboratory, Portrait, Scientist, Face Mask",
+    "id": "560249",
+    "order": 71
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Laptop, Typing, Keyboard",
+    "id": "291398",
+    "order": 72
+  },
+  {
+    "storyId": 25600,
+    "name": "Woman, Doctor, Laptop, Video Call",
+    "id": "419687",
+    "order": 73
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Face Mask",
+    "id": "502999",
+    "order": 74
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190396",
+    "order": 75
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Mobile",
+    "id": "510887",
+    "order": 76
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Video Call, Headset, Laptop",
+    "id": "321535",
+    "order": 77
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Stethoscope",
+    "id": "503003",
+    "order": 78
+  },
+  {
+    "storyId": 18232,
+    "name": "Woman, Working, Nurse, Doctor",
+    "id": "194504",
+    "order": 79
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Clinic, Laptop, Typing",
+    "id": "291404",
+    "order": 80
+  },
+  {
+    "storyId": 18153,
+    "name": "Doctor, Clinic, Remote Service, Video Call",
+    "id": "191315",
+    "order": 81
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190387",
+    "order": 82
+  },
+  {
+    "storyId": 25109,
+    "name": "Doctor, Clinic, Laptop, Man",
+    "id": "405652",
+    "order": 83
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Video Call, Laptop, Headset",
+    "id": "321543",
+    "order": 84
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Sanitizer, Facemask, Consultation",
+    "id": "182309",
+    "order": 85
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Typing, Laptop, Video Call",
+    "id": "321539",
+    "order": 86
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Smartphone, Video Call, Phone",
+    "id": "513851",
+    "order": 87
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Video Call, Headset, Fourth Wall",
+    "id": "513843",
+    "order": 88
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Face Mask",
+    "id": "503000",
+    "order": 89
+  },
+  {
+    "storyId": 27980,
+    "name": "Doctor, Chiropractor, Tablet, Desk",
+    "id": "495407",
+    "order": 90
+  },
+  {
+    "storyId": 22448,
+    "name": "Doctor, Clinic, Patient, Explaining",
+    "id": "291488",
+    "order": 91
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Video Call, Laptop, Headset",
+    "id": "321541",
+    "order": 92
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Typing, Laptop, Office",
+    "id": "321467",
+    "order": 93
+  },
+  {
+    "storyId": 14780,
+    "name": "doctor writing on a notepad while looking at a laptop before smiling directly at the camera",
+    "id": "101003",
+    "order": 94
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Portrait, Woman, Smiling",
+    "id": "245123",
+    "order": 95
+  },
+  {
+    "storyId": 15265,
+    "name": "healthcare worker wearing a surgical mask and looking directly at the camera",
+    "id": "111963",
+    "order": 96
+  },
+  {
+    "storyId": 30351,
+    "name": "Doctor, Hospital, Smartphone, Talking",
+    "id": "560050",
+    "order": 97
+  },
+  {
+    "storyId": 28481,
+    "name": "Woman, Doctor, Talking, Laptop",
+    "id": "510872",
+    "order": 98
+  },
+  {
+    "storyId": 29119,
+    "name": "Nurse, Doctor, Stethoscope, Looking At Camera",
+    "id": "527530",
+    "order": 99
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Portrait, Man, Clinic",
+    "id": "245117",
+    "order": 100
+  },
+  {
+    "storyId": 18139,
+    "name": "Doctor, Laptop, Caucasian, Headset",
+    "id": "190594",
+    "order": 101
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Portrait, Smiling, Laptop",
+    "id": "321551",
+    "order": 102
+  },
+  {
+    "storyId": 25600,
+    "name": "Woman, Doctor, Document, Face Mask",
+    "id": "419684",
+    "order": 103
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Nurse, Confidence, Smiling",
+    "id": "245124",
+    "order": 104
+  },
+  {
+    "storyId": 24592,
+    "name": "Ambulance, Paramedic, Patient, Emergency",
+    "id": "387790",
+    "order": 105
+  },
+  {
+    "storyId": 25600,
+    "name": "Woman, Doctor, Laptop, Video Call",
+    "id": "419688",
+    "order": 106
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Writing",
+    "id": "510891",
+    "order": 107
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Colleague, Talking, Office",
+    "id": "321480",
+    "order": 108
+  },
+  {
+    "storyId": 26769,
+    "name": "Woman, White Coat, Portrait, Healthcare",
+    "id": "457510",
+    "order": 109
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Laptop, Office, Typing",
+    "id": "321533",
+    "order": 110
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Looking At Camera",
+    "id": "510884",
+    "order": 111
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Tired, Headache, Office",
+    "id": "182318",
+    "order": 112
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Reading, Notebook, Portrait",
+    "id": "503046",
+    "order": 113
+  },
+  {
+    "storyId": 30172,
+    "name": "Doctor, Sick Sheet, Walking, Coridor",
+    "id": "560032",
+    "order": 114
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190530",
+    "order": 115
+  },
+  {
+    "storyId": 18232,
+    "name": "Woman, Working, Home, Laptop",
+    "id": "194502",
+    "order": 116
+  },
+  {
+    "storyId": 18232,
+    "name": "Woman, Nurse, Working, Home",
+    "id": "194499",
+    "order": 117
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Smartphone, Typing, Mobile",
+    "id": "503016",
+    "order": 118
+  },
+  {
+    "storyId": 29613,
+    "name": "Doctor, Nurse, Statoscope, Talking",
+    "id": "541025",
+    "order": 119
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Consultation, Office, Writing",
+    "id": "182312",
+    "order": 120
+  },
+  {
+    "storyId": 22448,
+    "name": "Doctor, Clinic, Patient, Talking",
+    "id": "291424",
+    "order": 121
+  },
+  {
+    "storyId": 30172,
+    "name": "Doctor, Tablet, Typing, Hospital",
+    "id": "560084",
+    "order": 122
+  },
+  {
+    "storyId": 27980,
+    "name": "Doctor, Portrait, Nurse, Looking At Camera",
+    "id": "495448",
+    "order": 123
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Laptop, Office, Sitting",
+    "id": "513845",
+    "order": 124
+  },
+  {
+    "storyId": 27980,
+    "name": "Doctor, Portrait, Nurse, Face Mask",
+    "id": "495449",
+    "order": 125
+  },
+  {
+    "storyId": 18153,
+    "name": "Doctor, Clinic, Remote Service, Video Call",
+    "id": "191313",
+    "order": 126
+  },
+  {
+    "storyId": 27980,
+    "name": "Doctor, Clinic, Laptop, Videocall",
+    "id": "495411",
+    "order": 127
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Video Call, Laptop, Talking",
+    "id": "513841",
+    "order": 128
+  },
+  {
+    "storyId": 22402,
+    "name": "Man, Doctor, Patient, Consulting",
+    "id": "323484",
+    "order": 129
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Gloves",
+    "id": "503014",
+    "order": 130
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Talking, Consultation, Office",
+    "id": "182307",
+    "order": 131
+  },
+  {
+    "storyId": 14780,
+    "name": "doctor writing in a notebook and looking at an x-ray in an office",
+    "id": "100998",
+    "order": 132
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190566",
+    "order": 133
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Office, Typing",
+    "id": "524320",
+    "order": 134
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Portrait, Man, Clinic",
+    "id": "245115",
+    "order": 135
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Computer Screen, Looking At Camera",
+    "id": "524307",
+    "order": 136
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Portrait, Smiling, Man",
+    "id": "245120",
+    "order": 137
+  },
+  {
+    "storyId": 29119,
+    "name": "Nurse, Online, Video Call, Laptop Computer",
+    "id": "527515",
+    "order": 138
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Looking At Camera",
+    "id": "510889",
+    "order": 139
+  },
+  {
+    "storyId": 25600,
+    "name": "Veterinarian, Woman, Rat, Examination",
+    "id": "419697",
+    "order": 140
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Phonecall, Talking, Videocall",
+    "id": "182316",
+    "order": 141
+  },
+  {
+    "storyId": 25600,
+    "name": "Woman, Doctor, Laptop, Video Call",
+    "id": "419690",
+    "order": 142
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Tablet, Green Screen, Presenting",
+    "id": "503039",
+    "order": 143
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Typing, Portrait, Smiling",
+    "id": "291415",
+    "order": 144
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190532",
+    "order": 145
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Caucasian, 60-70, Sitting",
+    "id": "190564",
+    "order": 146
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Office, Computer Screen",
+    "id": "524292",
+    "order": 147
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Talking, Explaining, Portrait",
+    "id": "291469",
+    "order": 148
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Headgear",
+    "id": "503045",
+    "order": 149
+  },
+  {
+    "storyId": 14772,
+    "name": "doctor holding up a bottle of pills ",
+    "id": "100818",
+    "order": 150
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Home, Laptop, Talking",
+    "id": "291386",
+    "order": 151
+  },
+  {
+    "storyId": 18041,
+    "name": "Woman, Girl, Cat, Stroking",
+    "id": "186502",
+    "order": 152
+  },
+  {
+    "storyId": 30019,
+    "name": "Doctor, Portrait, Clinic, Looking At Camera",
+    "id": "556105",
+    "order": 153
+  },
+  {
+    "storyId": 14780,
+    "name": "doctor writing a prescription and giving it to a patient in an office ",
+    "id": "101012",
+    "order": 154
+  },
+  {
+    "storyId": 30351,
+    "name": "Doctor, Hospital, Tablet, Typing",
+    "id": "560044",
+    "order": 155
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190395",
+    "order": 156
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Stethoscope, Headgear",
+    "id": "503012",
+    "order": 157
+  },
+  {
+    "storyId": 18232,
+    "name": "Woman, Doctor, Nurse, Stethoscope",
+    "id": "194500",
+    "order": 158
+  },
+  {
+    "storyId": 18674,
+    "name": "Doctor, Nurse, Surgeon, Team",
+    "id": "207262",
+    "order": 159
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Hands, Gloves, Sterile",
+    "id": "503074",
+    "order": 160
+  },
+  {
+    "storyId": 18232,
+    "name": "Woman, Working, Home, Room",
+    "id": "194501",
+    "order": 161
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Working, Office, Writing",
+    "id": "182319",
+    "order": 162
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190381",
+    "order": 163
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560010",
+    "order": 164
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Looking At Camera, Hospital",
+    "id": "570352",
+    "order": 165
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Office, Video Call, Laptop",
+    "id": "513840",
+    "order": 166
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Talking, Laptop, Mask",
+    "id": "291412",
+    "order": 167
+  },
+  {
+    "storyId": 18153,
+    "name": "Doctor, Clinic, Remote Service, Meeting",
+    "id": "191316",
+    "order": 168
+  },
+  {
+    "storyId": 14533,
+    "name": "Nurse writing notes on a clipboard",
+    "id": "93653",
+    "order": 169
+  },
+  {
+    "storyId": 24284,
+    "name": "Doctor, Xray, Looking At Camera, Lungs",
+    "id": "381105",
+    "order": 170
+  },
+  {
+    "storyId": 27980,
+    "name": "Doctor, Video Call, Talking, Stethoscope",
+    "id": "495414",
+    "order": 171
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Tablet, X Ray, Explaining",
+    "id": "503041",
+    "order": 172
+  },
+  {
+    "storyId": 27777,
+    "name": "Doctor, Patient, Clinic, Office",
+    "id": "488030",
+    "order": 173
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Video Call, Desk",
+    "id": "524321",
+    "order": 174
+  },
+  {
+    "storyId": 14772,
+    "name": "doctor holding up a plastic red heart ",
+    "id": "100817",
+    "order": 175
+  },
+  {
+    "storyId": 29119,
+    "name": "Nurse, Woman, Looking At Camera, Doctor",
+    "id": "527516",
+    "order": 176
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Stethoscope",
+    "id": "503006",
+    "order": 177
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Laptop, Phone, Hands",
+    "id": "291396",
+    "order": 178
+  },
+  {
+    "storyId": 18674,
+    "name": "Hospital, Healthcare, Medical, Meeting",
+    "id": "207200",
+    "order": 179
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560004",
+    "order": 180
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor picking up his phone and typing",
+    "id": "98848",
+    "order": 181
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Hands, Wearing, Gloves",
+    "id": "503075",
+    "order": 182
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190531",
+    "order": 183
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Talking, Office, Consultation",
+    "id": "182310",
+    "order": 184
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Headgear",
+    "id": "503022",
+    "order": 185
+  },
+  {
+    "storyId": 30242,
+    "name": "Doctor, Green Screen, Smartphone, Commercial",
+    "id": "561883",
+    "order": 186
+  },
+  {
+    "storyId": 21039,
+    "name": "Nurses, Working, Hospital Office, Protective Gown",
+    "id": "276242",
+    "order": 187
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Phonecall, Talk, Clinic",
+    "id": "245141",
+    "order": 188
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Stethoscope, Portrait, Medic",
+    "id": "513858",
+    "order": 189
+  },
+  {
+    "storyId": 25020,
+    "name": "Doctor, Statoscope, White Coat, Tablet",
+    "id": "397122",
+    "order": 190
+  },
+  {
+    "storyId": 18187,
+    "name": "Businesswoman, Ceo, Corporation, Computer",
+    "id": "192768",
+    "order": 191
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Video Call, Online",
+    "id": "524294",
+    "order": 192
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Clinic, Video Call, Explaining",
+    "id": "291490",
+    "order": 193
+  },
+  {
+    "storyId": 28481,
+    "name": "Doctor, Woman, Hijab, Looking At Camera",
+    "id": "510882",
+    "order": 194
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Office, Clipboard",
+    "id": "524314",
+    "order": 195
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Talking, Phone, Laptop",
+    "id": "321464",
+    "order": 196
+  },
+  {
+    "storyId": 24709,
+    "name": "Doctor, Face Mask, Patient, Woman",
+    "id": "392714",
+    "order": 197
+  },
+  {
+    "storyId": 27980,
+    "name": "Patient, Hospital Bed, Doctor, Tablet",
+    "id": "495481",
+    "order": 198
+  },
+  {
+    "storyId": 24709,
+    "name": "Doctor, Talking, Looking At Camera, Headset",
+    "id": "392680",
+    "order": 199
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Typing, Phone, Statoscope",
+    "id": "321547",
+    "order": 200
+  },
+  {
+    "storyId": 27777,
+    "name": "Woman, Doctor, Consulting, Patient",
+    "id": "488039",
+    "order": 201
+  },
+  {
+    "storyId": 21745,
+    "name": "Mask, Doctor, Medical, Concentrated",
+    "id": "300095",
+    "order": 202
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Talking, Explaining, Patient",
+    "id": "321557",
+    "order": 203
+  },
+  {
+    "storyId": 26215,
+    "name": "Nurse, Mask, Protective Suit, Stethoscope",
+    "id": "439909",
+    "order": 204
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor talking on his cellphone in a clinic ",
+    "id": "98850",
+    "order": 205
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Laptop, Video Call, Head Set",
+    "id": "291381",
+    "order": 206
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Writing, Video Call, Online",
+    "id": "524306",
+    "order": 207
+  },
+  {
+    "storyId": 29001,
+    "name": "Doctor, Nurse, Clipboard, Writing",
+    "id": "524120",
+    "order": 208
+  },
+  {
+    "storyId": 22447,
+    "name": "4Th Wall, Doctor, Talking, Clinic",
+    "id": "291432",
+    "order": 209
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Stethoscope",
+    "id": "503058",
+    "order": 210
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor browsing on his phone ",
+    "id": "98852",
+    "order": 211
+  },
+  {
+    "storyId": 23855,
+    "name": "Woman, Patient, Doctor, Visit",
+    "id": "368096",
+    "order": 212
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570346",
+    "order": 213
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Office, Working, Smiling",
+    "id": "182308",
+    "order": 214
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190382",
+    "order": 215
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Man, Beard, Looking At Camera",
+    "id": "513860",
+    "order": 216
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Patient, Office, Writing",
+    "id": "513849",
+    "order": 217
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Clinic, Laptop, Talking",
+    "id": "291499",
+    "order": 218
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Hand, Disinfecting, Spraying",
+    "id": "503072",
+    "order": 219
+  },
+  {
+    "storyId": 15265,
+    "name": "doctor wearing a surgical mask while using a stethoscope on an old man in a clinic",
+    "id": "111969",
+    "order": 220
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Clinic, Sitting, Office",
+    "id": "291443",
+    "order": 221
+  },
+  {
+    "storyId": 14557,
+    "name": "two doctors discussing information on a clipboard",
+    "id": "94401",
+    "order": 222
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Explaining, Video Call, Talking",
+    "id": "321479",
+    "order": 223
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Typing, Laptop, Statoscope",
+    "id": "321549",
+    "order": 224
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190397",
+    "order": 225
+  },
+  {
+    "storyId": 21629,
+    "name": "Nurse, Thermometer, Consultation, Medical",
+    "id": "296955",
+    "order": 226
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Laptop, Typing, Beard",
+    "id": "513834",
+    "order": 227
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570349",
+    "order": 228
+  },
+  {
+    "storyId": 27777,
+    "name": "Doctor, Patient, Healthcare, Forms",
+    "id": "488049",
+    "order": 229
+  },
+  {
+    "storyId": 30351,
+    "name": "Doctor, Hospital, Tablet, Typing",
+    "id": "560045",
+    "order": 230
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Looking, Smiling, Portrait",
+    "id": "321460",
+    "order": 231
+  },
+  {
+    "storyId": 21745,
+    "name": "Tablet, Writing, Doctor, Medical",
+    "id": "300092",
+    "order": 232
+  },
+  {
+    "storyId": 29119,
+    "name": "Clipboard, Writing, Nurse, Face Mask",
+    "id": "527519",
+    "order": 233
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Stethoscope, Window, Standing",
+    "id": "513854",
+    "order": 234
+  },
+  {
+    "storyId": 30667,
+    "name": "Surgeons, Surgery, Operation, Surgical Mask",
+    "id": "572046",
+    "order": 235
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Talking, Headset, Video Call",
+    "id": "513844",
+    "order": 236
+  },
+  {
+    "storyId": 21459,
+    "name": "Doctor, Surgeon, Surgery, Operating Room",
+    "id": "291152",
+    "order": 237
+  },
+  {
+    "storyId": 30243,
+    "name": "Nutritionist, Looking At Camera, Clinic, Green Screen",
+    "id": "561891",
+    "order": 238
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Stethoscope",
+    "id": "503059",
+    "order": 239
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Writing, Computer, Consultation",
+    "id": "182313",
+    "order": 240
+  },
+  {
+    "storyId": 30172,
+    "name": "Doctor, Tablet, Typing, Hospital",
+    "id": "560091",
+    "order": 241
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Headgear",
+    "id": "503011",
+    "order": 242
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190561",
+    "order": 243
+  },
+  {
+    "storyId": 18134,
+    "name": "Man, Doctor, Clinic, Remote Service",
+    "id": "190384",
+    "order": 244
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Laptop, Nurse, Assistance",
+    "id": "245114",
+    "order": 245
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Sitting, Clinic, Laptop",
+    "id": "291410",
+    "order": 246
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Caucasian, 60-70, Health",
+    "id": "190558",
+    "order": 247
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Talking, Phone, Clinic",
+    "id": "291450",
+    "order": 248
+  },
+  {
+    "storyId": 30174,
+    "name": "Scientist, Sterile, Face Mask, Looking To Camera",
+    "id": "560245",
+    "order": 249
+  },
+  {
+    "storyId": 22448,
+    "name": "Doctor, Clinic, Patient, Talking",
+    "id": "291480",
+    "order": 250
+  },
+  {
+    "storyId": 30174,
+    "name": "Laboratory, Portrait, Scientist, Woman",
+    "id": "560254",
+    "order": 251
+  },
+  {
+    "storyId": 18153,
+    "name": "Doctor, Clinic, Remote Service, Meeting",
+    "id": "191317",
+    "order": 252
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, 60-70, Caucasian, Home",
+    "id": "190565",
+    "order": 253
+  },
+  {
+    "storyId": 14557,
+    "name": "medical staff discussing an x-ray result",
+    "id": "94399",
+    "order": 254
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Clinic, Office, Video Call",
+    "id": "291390",
+    "order": 255
+  },
+  {
+    "storyId": 29119,
+    "name": "Woman, Nurse, Thumb Up, Doctor",
+    "id": "527525",
+    "order": 256
+  },
+  {
+    "storyId": 25109,
+    "name": "Doctor, Clinic, Medical Record, Face Masks",
+    "id": "405661",
+    "order": 257
+  },
+  {
+    "storyId": 30172,
+    "name": "Doctor, Tablet, Typing, Hospital",
+    "id": "560072",
+    "order": 258
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Looking, Talking, Video Call",
+    "id": "321478",
+    "order": 259
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Prescription, Medicine, Patient",
+    "id": "245104",
+    "order": 260
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Caucasian, 60-70, Doctor",
+    "id": "190562",
+    "order": 261
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Clinic, Talking, Explaining",
+    "id": "291502",
+    "order": 262
+  },
+  {
+    "storyId": 22447,
+    "name": "Doctor, Laptop, Video Call, Talking",
+    "id": "291383",
+    "order": 263
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Office, Laptop",
+    "id": "570370",
+    "order": 264
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Caucasian, 60-70, Indoors",
+    "id": "190563",
+    "order": 265
+  },
+  {
+    "storyId": 29119,
+    "name": "Doctor, Stethoscope, Face Mask, Looking At Camera",
+    "id": "527523",
+    "order": 266
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Portrait, Hospital, Stethoscope",
+    "id": "245121",
+    "order": 267
+  },
+  {
+    "storyId": 30174,
+    "name": "Sterile, Face Mask, Scientist, Portrait",
+    "id": "560253",
+    "order": 268
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Looking, Portrait, 4Th Wall",
+    "id": "321486",
+    "order": 269
+  },
+  {
+    "storyId": 25600,
+    "name": "Veterinarian, Woman, Rat, Injection",
+    "id": "419693",
+    "order": 270
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Stethoscope",
+    "id": "503002",
+    "order": 271
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Looking At Camera, Stethoscope",
+    "id": "570364",
+    "order": 272
+  },
+  {
+    "storyId": 20605,
+    "name": "Doctor, Portrait, Yellow Background, Stethoscope",
+    "id": "264062",
+    "order": 273
+  },
+  {
+    "storyId": 25600,
+    "name": "Woman, Doctor, Laptop, Video Call",
+    "id": "419686",
+    "order": 274
+  },
+  {
+    "storyId": 25650,
+    "name": "Doctor, Clipboard, Talking, Old Woman",
+    "id": "420985",
+    "order": 275
+  },
+  {
+    "storyId": 26595,
+    "name": "Vet Tech, Man, Veterinarian, Clinic",
+    "id": "452799",
+    "order": 276
+  },
+  {
+    "storyId": 29613,
+    "name": "Doctor, Nurse, Statoscope, Explaining",
+    "id": "541044",
+    "order": 277
+  },
+  {
+    "storyId": 14702,
+    "name": "veterinarian checking a cat in his clinic",
+    "id": "98856",
+    "order": 278
+  },
+  {
+    "storyId": 24771,
+    "name": "Doctor, Face Shield, Face Mask, Portrait",
+    "id": "395222",
+    "order": 279
+  },
+  {
+    "storyId": 17920,
+    "name": "Doctor, Xray, Talking, Consultation",
+    "id": "182311",
+    "order": 280
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor browsing on his cellphone ",
+    "id": "98851",
+    "order": 281
+  },
+  {
+    "storyId": 25600,
+    "name": "Veterinarian, Woman, Rat, Examination",
+    "id": "419692",
+    "order": 282
+  },
+  {
+    "storyId": 28323,
+    "name": "Pediatrician, Doctor, Patient, Girl",
+    "id": "505280",
+    "order": 283
+  },
+  {
+    "storyId": 14557,
+    "name": "doctor and a nurse discussing a display on a tablet at a medical facility",
+    "id": "94392",
+    "order": 284
+  },
+  {
+    "storyId": 14557,
+    "name": "medical staff discussing x-ray results",
+    "id": "94397",
+    "order": 285
+  },
+  {
+    "storyId": 30242,
+    "name": "Doctor, Green Screen, Commercial, Portrait",
+    "id": "561875",
+    "order": 286
+  },
+  {
+    "storyId": 14702,
+    "name": "veterinarian petting a dog and looking straight at the camera",
+    "id": "98865",
+    "order": 287
+  },
+  {
+    "storyId": 26769,
+    "name": "Woman, Healthcare, Doctor, Nurse",
+    "id": "457502",
+    "order": 288
+  },
+  {
+    "storyId": 30351,
+    "name": "Doctor, Hospital, Smartphone, Talking",
+    "id": "560051",
+    "order": 289
+  },
+  {
+    "storyId": 26769,
+    "name": "Woman, Man, Healthcare, Walking",
+    "id": "457513",
+    "order": 290
+  },
+  {
+    "storyId": 19552,
+    "name": "Hospital, Operation, Surgeon, Patient",
+    "id": "233073",
+    "order": 291
+  },
+  {
+    "storyId": 21629,
+    "name": "Covid, Negative Test, Result, Corona",
+    "id": "296971",
+    "order": 292
+  },
+  {
+    "storyId": 22402,
+    "name": "Man, Woman, Doctor, Patients",
+    "id": "323481",
+    "order": 293
+  },
+  {
+    "storyId": 24312,
+    "name": "Doctor, Nurse, Talking, Meeting",
+    "id": "382443",
+    "order": 294
+  },
+  {
+    "storyId": 18139,
+    "name": "Man, Laptop, 60-70, Caucasian",
+    "id": "190597",
+    "order": 295
+  },
+  {
+    "storyId": 26769,
+    "name": "Woman, White Coat, Healthcare, Man",
+    "id": "457514",
+    "order": 296
+  },
+  {
+    "storyId": 17998,
+    "name": "Caucasian, Businessman, Corporation, Consultant",
+    "id": "184848",
+    "order": 297
+  },
+  {
+    "storyId": 26250,
+    "name": "Operating Room, Surgery, Surgeons, Doctors",
+    "id": "440741",
+    "order": 298
+  },
+  {
+    "storyId": 28323,
+    "name": "Doctor, Online, Patient, Geriatric",
+    "id": "505289",
+    "order": 299
+  },
+  {
+    "storyId": 30242,
+    "name": "Commercial, Doctor, Portrait, Glasses",
+    "id": "561874",
+    "order": 300
+  },
+  {
+    "storyId": 30242,
+    "name": "Doctor, Portrait, Commercial, Presenting",
+    "id": "561878",
+    "order": 301
+  },
+  {
+    "storyId": 28323,
+    "name": "Doctor, Patient, Clinic, Geriatric",
+    "id": "505260",
+    "order": 302
+  },
+  {
+    "storyId": 25600,
+    "name": "Veterinarian, Woman, Rat, Examination",
+    "id": "419689",
+    "order": 303
+  },
+  {
+    "storyId": 30174,
+    "name": "Laboratory, Portrait, Scientist, Face Mask",
+    "id": "560250",
+    "order": 304
+  },
+  {
+    "storyId": 17998,
+    "name": "Man, Caucasian, Businessman, Mask",
+    "id": "184845",
+    "order": 305
+  },
+  {
+    "storyId": 19997,
+    "name": "Prescription, Doctor, Patient, Clinic",
+    "id": "245135",
+    "order": 306
+  },
+  {
+    "storyId": 27719,
+    "name": "Woman, Doctor, Patient, Man",
+    "id": "486073",
+    "order": 307
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560011",
+    "order": 308
+  },
+  {
+    "storyId": 19411,
+    "name": "Vaccination, Vaccine, Health, Coronavirus",
+    "id": "229129",
+    "order": 309
+  },
+  {
+    "storyId": 26769,
+    "name": "Woman, White Coat, Healthcare, Tablet",
+    "id": "457506",
+    "order": 310
+  },
+  {
+    "storyId": 26769,
+    "name": "Woman, White Coat, Writing, Pen",
+    "id": "457508",
+    "order": 311
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Portrait, Man, Senior",
+    "id": "245112",
+    "order": 312
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Looking At Camera, Hospital",
+    "id": "570366",
+    "order": 313
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Headgear",
+    "id": "503023",
+    "order": 314
+  },
+  {
+    "storyId": 19614,
+    "name": "Morgue, Hospital, Pathologist, Corpse",
+    "id": "235412",
+    "order": 315
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Face Mask, Office, Man",
+    "id": "513855",
+    "order": 316
+  },
+  {
+    "storyId": 27980,
+    "name": "Patient, Chiropractor, Doctor, Spine",
+    "id": "495434",
+    "order": 317
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Assistant, Xray, Clinic",
+    "id": "245144",
+    "order": 318
+  },
+  {
+    "storyId": 25600,
+    "name": "Veterinarian, Woman, Looking At Camera, Portrait",
+    "id": "419698",
+    "order": 319
+  },
+  {
+    "storyId": 21629,
+    "name": "Nurse, Patient, Clipboard, Medical",
+    "id": "296969",
+    "order": 320
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Looking, 4Th Wall, Portrait",
+    "id": "321485",
+    "order": 321
+  },
+  {
+    "storyId": 18041,
+    "name": "Woman, Laptop, Talking, Patient",
+    "id": "186501",
+    "order": 322
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor working on his tablet ",
+    "id": "98855",
+    "order": 323
+  },
+  {
+    "storyId": 27926,
+    "name": "Nurse, Computer Keyboard, Dentist, Dental Clinic",
+    "id": "493614",
+    "order": 324
+  },
+  {
+    "storyId": 18674,
+    "name": "Doctor, Surgeon, Nurse, Consultant",
+    "id": "207245",
+    "order": 325
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Face Mask, Dentistry, Surgery",
+    "id": "493560",
+    "order": 326
+  },
+  {
+    "storyId": 23855,
+    "name": "Doctor, Visit, Muslim, Xray",
+    "id": "368102",
+    "order": 327
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Online, Working, Woman",
+    "id": "524304",
+    "order": 328
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Neck Pain, Nurse, Office",
+    "id": "524297",
+    "order": 329
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Office, Looking At Camera",
+    "id": "524301",
+    "order": 330
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Computer, Laptop, Clinic",
+    "id": "245116",
+    "order": 331
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Write, Clipboard, Clinic",
+    "id": "245134",
+    "order": 332
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Video Call, Headset, Laptop",
+    "id": "321537",
+    "order": 333
+  },
+  {
+    "storyId": 30019,
+    "name": "Pediatrician, Doctor, Clinic, Patient",
+    "id": "556084",
+    "order": 334
+  },
+  {
+    "storyId": 11040,
+    "name": "doctor taking patients blood pressure ",
+    "id": "23067",
+    "order": 335
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Backache, Pain",
+    "id": "524325",
+    "order": 336
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Working, Computer Screen, Office",
+    "id": "524296",
+    "order": 337
+  },
+  {
+    "storyId": 14557,
+    "name": "two medical professionals looking at x-rays near a laptop computer",
+    "id": "94386",
+    "order": 338
+  },
+  {
+    "storyId": 22402,
+    "name": "Man, Doctor, Patient, Consulting",
+    "id": "323485",
+    "order": 339
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570347",
+    "order": 340
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Looking, Portrait, Mask",
+    "id": "291455",
+    "order": 341
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570351",
+    "order": 342
+  },
+  {
+    "storyId": 29613,
+    "name": "Doctor, Man, Statoscope, Examination",
+    "id": "541039",
+    "order": 343
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Looking, Portrait, 4Th Wall",
+    "id": "321487",
+    "order": 344
+  },
+  {
+    "storyId": 15416,
+    "name": "doctor putting on a face mask in a medical clinic ",
+    "id": "115291",
+    "order": 345
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor talking on his phone ",
+    "id": "98849",
+    "order": 346
+  },
+  {
+    "storyId": 24284,
+    "name": "Doctor, Face Shield, Patient, Hospital",
+    "id": "381139",
+    "order": 347
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Nurse, Gloves, Dental Clinic",
+    "id": "493593",
+    "order": 348
+  },
+  {
+    "storyId": 18187,
+    "name": "Businesswoman, Ceo, Corporation, Computer",
+    "id": "192769",
+    "order": 349
+  },
+  {
+    "storyId": 17998,
+    "name": "Man, Caucasian, Businessman, Mask",
+    "id": "184845",
+    "order": 350
+  },
+  {
+    "storyId": 19997,
+    "name": "Prescription, Doctor, Patient, Clinic",
+    "id": "245135",
+    "order": 351
+  },
+  {
+    "storyId": 24287,
+    "name": "Businesswoman, Muslim, Mobile Phone, Looking At Camera",
+    "id": "381284",
+    "order": 352
+  },
+  {
+    "storyId": 27719,
+    "name": "Woman, Doctor, Patient, Man",
+    "id": "486073",
+    "order": 353
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560011",
+    "order": 354
+  },
+  {
+    "storyId": 19411,
+    "name": "Vaccination, Vaccine, Health, Coronavirus",
+    "id": "229129",
+    "order": 355
+  },
+  {
+    "storyId": 26769,
+    "name": "Woman, White Coat, Healthcare, Tablet",
+    "id": "457506",
+    "order": 356
+  },
+  {
+    "storyId": 26769,
+    "name": "Woman, White Coat, Writing, Pen",
+    "id": "457508",
+    "order": 357
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Portrait, Man, Senior",
+    "id": "245112",
+    "order": 358
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Looking At Camera, Hospital",
+    "id": "570366",
+    "order": 359
+  },
+  {
+    "storyId": 28252,
+    "name": "Doctor, Portrait, Looking At Camera, Headgear",
+    "id": "503023",
+    "order": 360
+  },
+  {
+    "storyId": 19614,
+    "name": "Morgue, Hospital, Pathologist, Corpse",
+    "id": "235412",
+    "order": 361
+  },
+  {
+    "storyId": 26704,
+    "name": "Doctor, Computer, Phone, Talking",
+    "id": "447579",
+    "order": 362
+  },
+  {
+    "storyId": 28580,
+    "name": "Doctor, Face Mask, Office, Man",
+    "id": "513855",
+    "order": 363
+  },
+  {
+    "storyId": 20655,
+    "name": "Man, Worker, Home, Businessman",
+    "id": "265800",
+    "order": 364
+  },
+  {
+    "storyId": 27980,
+    "name": "Patient, Chiropractor, Doctor, Spine",
+    "id": "495434",
+    "order": 365
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Assistant, Xray, Clinic",
+    "id": "245144",
+    "order": 366
+  },
+  {
+    "storyId": 25600,
+    "name": "Veterinarian, Woman, Looking At Camera, Portrait",
+    "id": "419698",
+    "order": 367
+  },
+  {
+    "storyId": 14462,
+    "name": "nutritionist talking and showing medicine and food to a man in a room indoors",
+    "id": "91519",
+    "order": 368
+  },
+  {
+    "storyId": 21629,
+    "name": "Nurse, Patient, Clipboard, Medical",
+    "id": "296969",
+    "order": 369
+  },
+  {
+    "storyId": 30374,
+    "name": "Gastroscopy, Endoscope, Camera, Patient",
+    "id": "559993",
+    "order": 370
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Looking, 4Th Wall, Portrait",
+    "id": "321485",
+    "order": 371
+  },
+  {
+    "storyId": 18041,
+    "name": "Woman, Laptop, Talking, Patient",
+    "id": "186501",
+    "order": 372
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor working on his tablet ",
+    "id": "98855",
+    "order": 373
+  },
+  {
+    "storyId": 27926,
+    "name": "Nurse, Computer Keyboard, Dentist, Dental Clinic",
+    "id": "493614",
+    "order": 374
+  },
+  {
+    "storyId": 18674,
+    "name": "Doctor, Surgeon, Nurse, Consultant",
+    "id": "207245",
+    "order": 375
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Face Mask, Dentistry, Surgery",
+    "id": "493560",
+    "order": 376
+  },
+  {
+    "storyId": 23855,
+    "name": "Doctor, Visit, Muslim, Xray",
+    "id": "368102",
+    "order": 377
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Online, Working, Woman",
+    "id": "524304",
+    "order": 378
+  },
+  {
+    "storyId": 20479,
+    "name": "Man, Doctor, Speak, Smartphone",
+    "id": "260187",
+    "order": 379
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Neck Pain, Nurse, Office",
+    "id": "524297",
+    "order": 380
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Office, Looking At Camera",
+    "id": "524301",
+    "order": 381
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Computer, Laptop, Clinic",
+    "id": "245116",
+    "order": 382
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Write, Clipboard, Clinic",
+    "id": "245134",
+    "order": 383
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Video Call, Headset, Laptop",
+    "id": "321537",
+    "order": 384
+  },
+  {
+    "storyId": 30019,
+    "name": "Pediatrician, Doctor, Clinic, Patient",
+    "id": "556084",
+    "order": 385
+  },
+  {
+    "storyId": 11040,
+    "name": "doctor taking patients blood pressure ",
+    "id": "23067",
+    "order": 386
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Nurse, Backache, Pain",
+    "id": "524325",
+    "order": 387
+  },
+  {
+    "storyId": 29004,
+    "name": "Doctor, Working, Computer Screen, Office",
+    "id": "524296",
+    "order": 388
+  },
+  {
+    "storyId": 14557,
+    "name": "two medical professionals looking at x-rays near a laptop computer",
+    "id": "94386",
+    "order": 389
+  },
+  {
+    "storyId": 22402,
+    "name": "Man, Doctor, Patient, Consulting",
+    "id": "323485",
+    "order": 390
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570347",
+    "order": 391
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Looking, Portrait, Mask",
+    "id": "291455",
+    "order": 392
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570351",
+    "order": 393
+  },
+  {
+    "storyId": 29613,
+    "name": "Doctor, Man, Statoscope, Examination",
+    "id": "541039",
+    "order": 394
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Looking, Portrait, 4Th Wall",
+    "id": "321487",
+    "order": 395
+  },
+  {
+    "storyId": 15416,
+    "name": "doctor putting on a face mask in a medical clinic ",
+    "id": "115291",
+    "order": 396
+  },
+  {
+    "storyId": 20475,
+    "name": "Man, Doctor, Smartphone, Speak",
+    "id": "260076",
+    "order": 397
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor talking on his phone ",
+    "id": "98849",
+    "order": 398
+  },
+  {
+    "storyId": 24284,
+    "name": "Doctor, Face Shield, Patient, Hospital",
+    "id": "381139",
+    "order": 399
+  }
+]

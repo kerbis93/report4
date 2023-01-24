@@ -1,0 +1,62 @@
+[
+  {
+    "query": "screen medical info doctor",
+    "id": "443678",
+    "storyId": "26334",
+    "autoRank": "0.37985999602554288"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "443672",
+    "storyId": "26334",
+    "autoRank": "0.373368385479958"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "443699",
+    "storyId": "26334",
+    "autoRank": "0.37296647331406224"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "443679",
+    "storyId": "26334",
+    "autoRank": "0.36958026596163734"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "570345",
+    "storyId": "30606",
+    "autoRank": "0.34648109518483439"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "503038",
+    "storyId": "28252",
+    "autoRank": "0.34609483002872971"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "291490",
+    "storyId": "21464",
+    "autoRank": "0.34596019820974749"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "503026",
+    "storyId": "28252",
+    "autoRank": "0.3459043588013897"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "190398",
+    "storyId": "18134",
+    "autoRank": "0.34550380774612566"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "503027",
+    "storyId": "28252",
+    "autoRank": "0.34461817003712636"
+  }
+]

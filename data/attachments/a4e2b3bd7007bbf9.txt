@@ -1,0 +1,62 @@
+[
+  {
+    "query": "water pollution",
+    "id": "86554",
+    "storyId": "14194",
+    "autoRank": "0.4151799766592143"
+  },
+  {
+    "query": "water pollution",
+    "id": "164286",
+    "storyId": "17276",
+    "autoRank": "0.4148114835771029"
+  },
+  {
+    "query": "water pollution",
+    "id": "184391",
+    "storyId": "17975",
+    "autoRank": "0.40764447172324597"
+  },
+  {
+    "query": "water pollution",
+    "id": "114765",
+    "storyId": "15389",
+    "autoRank": "0.40496915264190736"
+  },
+  {
+    "query": "water pollution",
+    "id": "183344",
+    "storyId": "17936",
+    "autoRank": "0.40214354962625176"
+  },
+  {
+    "query": "water pollution",
+    "id": "114767",
+    "storyId": "15389",
+    "autoRank": "0.40149193467421951"
+  },
+  {
+    "query": "water pollution",
+    "id": "114769",
+    "storyId": "15389",
+    "autoRank": "0.40123143888641633"
+  },
+  {
+    "query": "water pollution",
+    "id": "184405",
+    "storyId": "17975",
+    "autoRank": "0.40121357580256806"
+  },
+  {
+    "query": "water pollution",
+    "id": "114764",
+    "storyId": "15389",
+    "autoRank": "0.4001416827827674"
+  },
+  {
+    "query": "water pollution",
+    "id": "72794",
+    "storyId": "13539",
+    "autoRank": "0.39902403545615905"
+  }
+]

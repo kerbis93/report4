@@ -1,0 +1,62 @@
+[
+  {
+    "query": "plant growing",
+    "id": "378701",
+    "storyId": "24181",
+    "autoRank": "0.43340140583567327"
+  },
+  {
+    "query": "plant growing",
+    "id": "378702",
+    "storyId": "24181",
+    "autoRank": "0.42930468618161677"
+  },
+  {
+    "query": "plant growing",
+    "id": "373121",
+    "storyId": "23994",
+    "autoRank": "0.42296777206148589"
+  },
+  {
+    "query": "plant growing",
+    "id": "137007",
+    "storyId": "16306",
+    "autoRank": "0.42263416585822056"
+  },
+  {
+    "query": "plant growing",
+    "id": "52033",
+    "storyId": "12270",
+    "autoRank": "0.4217943647586832"
+  },
+  {
+    "query": "plant growing",
+    "id": "378699",
+    "storyId": "24181",
+    "autoRank": "0.4214646766754585"
+  },
+  {
+    "query": "plant growing",
+    "id": "378700",
+    "storyId": "24181",
+    "autoRank": "0.41645880542601"
+  },
+  {
+    "query": "plant growing",
+    "id": "378905",
+    "storyId": "24187",
+    "autoRank": "0.41634300845452277"
+  },
+  {
+    "query": "plant growing",
+    "id": "58897",
+    "storyId": "12677",
+    "autoRank": "0.41620995961509372"
+  },
+  {
+    "query": "plant growing",
+    "id": "137005",
+    "storyId": "16306",
+    "autoRank": "0.41564923195704767"
+  }
+]

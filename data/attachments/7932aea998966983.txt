@@ -1,0 +1,62 @@
+[
+  {
+    "query": "research",
+    "id": "335554",
+    "storyId": "22784",
+    "autoRank": "0.40592428739195252"
+  },
+  {
+    "query": "research",
+    "id": "335553",
+    "storyId": "22784",
+    "autoRank": "0.40514082417479341"
+  },
+  {
+    "query": "research",
+    "id": "288086",
+    "storyId": "21351",
+    "autoRank": "0.4048987275421963"
+  },
+  {
+    "query": "research",
+    "id": "508171",
+    "storyId": "28399",
+    "autoRank": "0.40410083633914984"
+  },
+  {
+    "query": "research",
+    "id": "114514",
+    "storyId": "15371",
+    "autoRank": "0.40370247268106746"
+  },
+  {
+    "query": "research",
+    "id": "508188",
+    "storyId": "28399",
+    "autoRank": "0.4024863856886004"
+  },
+  {
+    "query": "research",
+    "id": "114508",
+    "storyId": "15371",
+    "autoRank": "0.40241719699514461"
+  },
+  {
+    "query": "research",
+    "id": "114507",
+    "storyId": "15371",
+    "autoRank": "0.40209710879137284"
+  },
+  {
+    "query": "research",
+    "id": "508168",
+    "storyId": "28399",
+    "autoRank": "0.40131586473588721"
+  },
+  {
+    "query": "research",
+    "id": "508173",
+    "storyId": "28399",
+    "autoRank": "0.40095359647297663"
+  }
+]

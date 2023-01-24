@@ -1,0 +1,62 @@
+[
+  {
+    "query": "self driving car",
+    "id": "72891",
+    "storyId": "13544",
+    "autoRank": "0.37689666594683308"
+  },
+  {
+    "query": "self driving car",
+    "id": "72892",
+    "storyId": "13544",
+    "autoRank": "0.37290061939913455"
+  },
+  {
+    "query": "self driving car",
+    "id": "331165",
+    "storyId": "22654",
+    "autoRank": "0.37192439591974408"
+  },
+  {
+    "query": "self driving car",
+    "id": "72893",
+    "storyId": "13544",
+    "autoRank": "0.37187648445991073"
+  },
+  {
+    "query": "self driving car",
+    "id": "72896",
+    "storyId": "13544",
+    "autoRank": "0.37116275555452383"
+  },
+  {
+    "query": "self driving car",
+    "id": "72898",
+    "storyId": "13544",
+    "autoRank": "0.36989566721513933"
+  },
+  {
+    "query": "self driving car",
+    "id": "72895",
+    "storyId": "13544",
+    "autoRank": "0.36501996347526888"
+  },
+  {
+    "query": "self driving car",
+    "id": "72890",
+    "storyId": "13544",
+    "autoRank": "0.36387068209222634"
+  },
+  {
+    "query": "self driving car",
+    "id": "72897",
+    "storyId": "13544",
+    "autoRank": "0.36214331262394306"
+  },
+  {
+    "query": "self driving car",
+    "id": "72894",
+    "storyId": "13544",
+    "autoRank": "0.34758391880170103"
+  }
+]

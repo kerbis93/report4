@@ -1,0 +1,62 @@
+[
+  {
+    "query": "global warming",
+    "id": "437275",
+    "storyId": "26131",
+    "autoRank": "0.41267575560391678"
+  },
+  {
+    "query": "global warming",
+    "id": "348641",
+    "storyId": "23215",
+    "autoRank": "0.38903927946550476"
+  },
+  {
+    "query": "global warming",
+    "id": "134062",
+    "storyId": "16212",
+    "autoRank": "0.38808412161623262"
+  },
+  {
+    "query": "global warming",
+    "id": "167999",
+    "storyId": "17427",
+    "autoRank": "0.38771387072431585"
+  },
+  {
+    "query": "global warming",
+    "id": "437276",
+    "storyId": "26131",
+    "autoRank": "0.38590800973373507"
+  },
+  {
+    "query": "global warming",
+    "id": "105809",
+    "storyId": "14978",
+    "autoRank": "0.38488004716156066"
+  },
+  {
+    "query": "global warming",
+    "id": "178344",
+    "storyId": "17779",
+    "autoRank": "0.38443784217507404"
+  },
+  {
+    "query": "global warming",
+    "id": "437287",
+    "storyId": "26131",
+    "autoRank": "0.38267510607605426"
+  },
+  {
+    "query": "global warming",
+    "id": "105772",
+    "storyId": "14978",
+    "autoRank": "0.379982648752648"
+  },
+  {
+    "query": "global warming",
+    "id": "484171",
+    "storyId": "27658",
+    "autoRank": "0.37958576373495734"
+  }
+]

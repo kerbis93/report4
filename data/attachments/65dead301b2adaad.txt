@@ -1,0 +1,62 @@
+[
+  {
+    "query": "watching movie projector",
+    "id": "374320",
+    "storyId": "24336",
+    "autoRank": "0.36482828752274865"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "374347",
+    "storyId": "24336",
+    "autoRank": "0.36456639457784668"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "178815",
+    "storyId": "17802",
+    "autoRank": "0.36123273603969125"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "178808",
+    "storyId": "17802",
+    "autoRank": "0.35597516230110149"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "57994",
+    "storyId": "12609",
+    "autoRank": "0.355654814382585"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "57992",
+    "storyId": "12609",
+    "autoRank": "0.35281508607889933"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "178818",
+    "storyId": "17802",
+    "autoRank": "0.35229209439712778"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "178834",
+    "storyId": "17802",
+    "autoRank": "0.3522140519426421"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "57991",
+    "storyId": "12609",
+    "autoRank": "0.35188991088788218"
+  },
+  {
+    "query": "watching movie projector",
+    "id": "178816",
+    "storyId": "17802",
+    "autoRank": "0.35177542090657815"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "query": "diversity",
+    "id": "192140",
+    "storyId": "18170",
+    "autoRank": "0.37279358149248426"
+  },
+  {
+    "query": "diversity",
+    "id": "192156",
+    "storyId": "18170",
+    "autoRank": "0.37092231129868236"
+  },
+  {
+    "query": "diversity",
+    "id": "192159",
+    "storyId": "18170",
+    "autoRank": "0.3702907113663183"
+  },
+  {
+    "query": "diversity",
+    "id": "192143",
+    "storyId": "18170",
+    "autoRank": "0.367455318562643"
+  },
+  {
+    "query": "diversity",
+    "id": "192148",
+    "storyId": "18170",
+    "autoRank": "0.365547822153287"
+  },
+  {
+    "query": "diversity",
+    "id": "192141",
+    "storyId": "18170",
+    "autoRank": "0.36427538525511732"
+  },
+  {
+    "query": "diversity",
+    "id": "192147",
+    "storyId": "18170",
+    "autoRank": "0.36335040691070136"
+  },
+  {
+    "query": "diversity",
+    "id": "192166",
+    "storyId": "18170",
+    "autoRank": "0.361707389814089"
+  },
+  {
+    "query": "diversity",
+    "id": "192161",
+    "storyId": "18170",
+    "autoRank": "0.36059828144375194"
+  },
+  {
+    "query": "diversity",
+    "id": "192157",
+    "storyId": "18170",
+    "autoRank": "0.3581671308079275"
+  }
+]

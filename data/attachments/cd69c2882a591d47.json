@@ -1,0 +1,3040 @@
+{
+  "16mm": [
+    {
+      "query": "16mm",
+      "id": "178834",
+      "storyId": "17802",
+      "autoRank": "0.41068705939088229"
+    },
+    {
+      "query": "16mm",
+      "id": "178815",
+      "storyId": "17802",
+      "autoRank": "0.3995169004223153"
+    },
+    {
+      "query": "16mm",
+      "id": "178826",
+      "storyId": "17802",
+      "autoRank": "0.39059291612852309"
+    },
+    {
+      "query": "16mm",
+      "id": "202363",
+      "storyId": "18481",
+      "autoRank": "0.39040759986989049"
+    },
+    {
+      "query": "16mm",
+      "id": "236855",
+      "storyId": "19696",
+      "autoRank": "0.39010079050414664"
+    },
+    {
+      "query": "16mm",
+      "id": "17499",
+      "storyId": "10833",
+      "autoRank": "0.38875740274160026"
+    },
+    {
+      "query": "16mm",
+      "id": "236856",
+      "storyId": "19696",
+      "autoRank": "0.38474385218267476"
+    },
+    {
+      "query": "16mm",
+      "id": "236840",
+      "storyId": "19696",
+      "autoRank": "0.38474385218267476"
+    },
+    {
+      "query": "16mm",
+      "id": "120213",
+      "storyId": "15622",
+      "autoRank": "0.38397636627141662"
+    },
+    {
+      "query": "16mm",
+      "id": "202352",
+      "storyId": "18481",
+      "autoRank": "0.38277332667930736"
+    }
+  ],
+  "3d printer": [
+    {
+      "query": "3d printer",
+      "id": "404823",
+      "storyId": "25087",
+      "autoRank": "0.42379248459586139"
+    },
+    {
+      "query": "3d printer",
+      "id": "383778",
+      "storyId": "24367",
+      "autoRank": "0.41774880701878775"
+    },
+    {
+      "query": "3d printer",
+      "id": "383802",
+      "storyId": "24585",
+      "autoRank": "0.41759323536306331"
+    },
+    {
+      "query": "3d printer",
+      "id": "149701",
+      "storyId": "16754",
+      "autoRank": "0.41615538841202537"
+    },
+    {
+      "query": "3d printer",
+      "id": "383825",
+      "storyId": "24585",
+      "autoRank": "0.41476190076481129"
+    },
+    {
+      "query": "3d printer",
+      "id": "149729",
+      "storyId": "16754",
+      "autoRank": "0.41354635971296833"
+    },
+    {
+      "query": "3d printer",
+      "id": "383823",
+      "storyId": "24585",
+      "autoRank": "0.41190742968950961"
+    },
+    {
+      "query": "3d printer",
+      "id": "267997",
+      "storyId": "20727",
+      "autoRank": "0.41073107631793238"
+    },
+    {
+      "query": "3d printer",
+      "id": "383773",
+      "storyId": "24367",
+      "autoRank": "0.41042222466238465"
+    },
+    {
+      "query": "3d printer",
+      "id": "383772",
+      "storyId": "24367",
+      "autoRank": "0.41006741829342591"
+    }
+  ],
+  "adventure": [
+    {
+      "query": "adventure",
+      "id": "502837",
+      "storyId": "28244",
+      "autoRank": "0.38702715821190536"
+    },
+    {
+      "query": "adventure",
+      "id": "573583",
+      "storyId": "30726",
+      "autoRank": "0.3862335584910091"
+    },
+    {
+      "query": "adventure",
+      "id": "232819",
+      "storyId": "19547",
+      "autoRank": "0.38463212135881086"
+    },
+    {
+      "query": "adventure",
+      "id": "502826",
+      "storyId": "28244",
+      "autoRank": "0.38454006717637657"
+    },
+    {
+      "query": "adventure",
+      "id": "375580",
+      "storyId": "24085",
+      "autoRank": "0.38043553498775606"
+    },
+    {
+      "query": "adventure",
+      "id": "239591",
+      "storyId": "19799",
+      "autoRank": "0.37890094038541366"
+    },
+    {
+      "query": "adventure",
+      "id": "162621",
+      "storyId": "17192",
+      "autoRank": "0.37739233620072932"
+    },
+    {
+      "query": "adventure",
+      "id": "232804",
+      "storyId": "19547",
+      "autoRank": "0.37730649595242571"
+    },
+    {
+      "query": "adventure",
+      "id": "232820",
+      "storyId": "19547",
+      "autoRank": "0.37726160435139122"
+    },
+    {
+      "query": "adventure",
+      "id": "98623",
+      "storyId": "14692",
+      "autoRank": "0.37711486024343732"
+    }
+  ],
+  "anarchy gang violence teenagers balaclava riot fight": [
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "230164",
+      "storyId": "19438",
+      "autoRank": "0.33678931410892876"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "117667",
+      "storyId": "15516",
+      "autoRank": "0.33485342814302466"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "573882",
+      "storyId": "30735",
+      "autoRank": "0.33387599124997436"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "230143",
+      "storyId": "19438",
+      "autoRank": "0.33045541791091088"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "230145",
+      "storyId": "19438",
+      "autoRank": "0.3303710040676075"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "230160",
+      "storyId": "19438",
+      "autoRank": "0.32986818581740085"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "230103",
+      "storyId": "19438",
+      "autoRank": "0.32981530514899088"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "573881",
+      "storyId": "30735",
+      "autoRank": "0.32954601707946679"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "230035",
+      "storyId": "19438",
+      "autoRank": "0.32671263472920148"
+    },
+    {
+      "query": "anarchy gang violence teenagers balaclava riot fight",
+      "id": "230144",
+      "storyId": "19438",
+      "autoRank": "0.32589334979812157"
+    }
+  ],
+  "artificial intelligence": [
+    {
+      "query": "artificial intelligence",
+      "id": "210027",
+      "storyId": "18754",
+      "autoRank": "0.37094318830805795"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "210026",
+      "storyId": "18754",
+      "autoRank": "0.37008444331406087"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "210030",
+      "storyId": "18754",
+      "autoRank": "0.3678932434034789"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "210028",
+      "storyId": "18754",
+      "autoRank": "0.36290090471611486"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "200813",
+      "storyId": "18428",
+      "autoRank": "0.36289989037426973"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "210023",
+      "storyId": "18754",
+      "autoRank": "0.36150595920138856"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "210080",
+      "storyId": "18754",
+      "autoRank": "0.35848309313967497"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "210025",
+      "storyId": "18754",
+      "autoRank": "0.35427545933277654"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "210018",
+      "storyId": "18754",
+      "autoRank": "0.35374713692403931"
+    },
+    {
+      "query": "artificial intelligence",
+      "id": "210034",
+      "storyId": "18754",
+      "autoRank": "0.34526967291915195"
+    }
+  ],
+  "color explosion": [
+    {
+      "query": "color explosion",
+      "id": "462764",
+      "storyId": "26928",
+      "autoRank": "0.43826441570748842"
+    },
+    {
+      "query": "color explosion",
+      "id": "462791",
+      "storyId": "26928",
+      "autoRank": "0.42727587512642007"
+    },
+    {
+      "query": "color explosion",
+      "id": "462770",
+      "storyId": "26928",
+      "autoRank": "0.42563482280131226"
+    },
+    {
+      "query": "color explosion",
+      "id": "462760",
+      "storyId": "26928",
+      "autoRank": "0.42528043362420587"
+    },
+    {
+      "query": "color explosion",
+      "id": "462771",
+      "storyId": "26928",
+      "autoRank": "0.41486087092272628"
+    },
+    {
+      "query": "color explosion",
+      "id": "462763",
+      "storyId": "26928",
+      "autoRank": "0.39866886222060605"
+    },
+    {
+      "query": "color explosion",
+      "id": "462789",
+      "storyId": "26928",
+      "autoRank": "0.39769297631374168"
+    },
+    {
+      "query": "color explosion",
+      "id": "462783",
+      "storyId": "26928",
+      "autoRank": "0.39348321305393735"
+    },
+    {
+      "query": "color explosion",
+      "id": "462785",
+      "storyId": "26928",
+      "autoRank": "0.390876357778718"
+    },
+    {
+      "query": "color explosion",
+      "id": "462749",
+      "storyId": "26928",
+      "autoRank": "0.39074357253731951"
+    }
+  ],
+  "community": [
+    {
+      "query": "community",
+      "id": "248850",
+      "storyId": "20144",
+      "autoRank": "0.40225642864402578"
+    },
+    {
+      "query": "community",
+      "id": "248843",
+      "storyId": "20144",
+      "autoRank": "0.40170934890455712"
+    },
+    {
+      "query": "community",
+      "id": "248870",
+      "storyId": "20144",
+      "autoRank": "0.40142532343047488"
+    },
+    {
+      "query": "community",
+      "id": "287316",
+      "storyId": "21338",
+      "autoRank": "0.40119211151186784"
+    },
+    {
+      "query": "community",
+      "id": "248822",
+      "storyId": "20144",
+      "autoRank": "0.4003599036726716"
+    },
+    {
+      "query": "community",
+      "id": "248834",
+      "storyId": "20144",
+      "autoRank": "0.39630719888328714"
+    },
+    {
+      "query": "community",
+      "id": "221811",
+      "storyId": "19142",
+      "autoRank": "0.39564941879236082"
+    },
+    {
+      "query": "community",
+      "id": "248821",
+      "storyId": "20144",
+      "autoRank": "0.39400339480860724"
+    },
+    {
+      "query": "community",
+      "id": "248878",
+      "storyId": "20144",
+      "autoRank": "0.39393554955464638"
+    },
+    {
+      "query": "community",
+      "id": "55434",
+      "storyId": "12415",
+      "autoRank": "0.39237006295374521"
+    }
+  ],
+  "conspiracy": [
+    {
+      "query": "conspiracy",
+      "id": "407887",
+      "storyId": "25175",
+      "autoRank": "0.32816651678185421"
+    },
+    {
+      "query": "conspiracy",
+      "id": "113366",
+      "storyId": "15323",
+      "autoRank": "0.32497842957087741"
+    },
+    {
+      "query": "conspiracy",
+      "id": "266643",
+      "storyId": "20679",
+      "autoRank": "0.32274577524563652"
+    },
+    {
+      "query": "conspiracy",
+      "id": "32518",
+      "storyId": "11256",
+      "autoRank": "0.32226419614893126"
+    },
+    {
+      "query": "conspiracy",
+      "id": "407864",
+      "storyId": "25175",
+      "autoRank": "0.32194839287256355"
+    },
+    {
+      "query": "conspiracy",
+      "id": "266637",
+      "storyId": "20679",
+      "autoRank": "0.32095362876696082"
+    },
+    {
+      "query": "conspiracy",
+      "id": "337264",
+      "storyId": "22867",
+      "autoRank": "0.319863650610497"
+    },
+    {
+      "query": "conspiracy",
+      "id": "437272",
+      "storyId": "26131",
+      "autoRank": "0.31851969466919727"
+    },
+    {
+      "query": "conspiracy",
+      "id": "97702",
+      "storyId": "14653",
+      "autoRank": "0.31843787024239523"
+    },
+    {
+      "query": "conspiracy",
+      "id": "111728",
+      "storyId": "15253",
+      "autoRank": "0.31832224070685167"
+    }
+  ],
+  "consumerism": [
+    {
+      "query": "consumerism",
+      "id": "383203",
+      "storyId": "24343",
+      "autoRank": "0.38741950765611122"
+    },
+    {
+      "query": "consumerism",
+      "id": "383215",
+      "storyId": "24343",
+      "autoRank": "0.3849983781364717"
+    },
+    {
+      "query": "consumerism",
+      "id": "383207",
+      "storyId": "24343",
+      "autoRank": "0.37903061165367424"
+    },
+    {
+      "query": "consumerism",
+      "id": "383222",
+      "storyId": "24343",
+      "autoRank": "0.37868715691814708"
+    },
+    {
+      "query": "consumerism",
+      "id": "383185",
+      "storyId": "24343",
+      "autoRank": "0.37712877079999324"
+    },
+    {
+      "query": "consumerism",
+      "id": "383196",
+      "storyId": "24343",
+      "autoRank": "0.37483566607687763"
+    },
+    {
+      "query": "consumerism",
+      "id": "383195",
+      "storyId": "24343",
+      "autoRank": "0.3723090671088114"
+    },
+    {
+      "query": "consumerism",
+      "id": "383198",
+      "storyId": "24343",
+      "autoRank": "0.37129532625370087"
+    },
+    {
+      "query": "consumerism",
+      "id": "383200",
+      "storyId": "24343",
+      "autoRank": "0.37084223316355786"
+    },
+    {
+      "query": "consumerism",
+      "id": "383210",
+      "storyId": "24343",
+      "autoRank": "0.37012121443232748"
+    }
+  ],
+  "crowd music street": [
+    {
+      "query": "crowd music street",
+      "id": "47660",
+      "storyId": "11993",
+      "autoRank": "0.32563844523832586"
+    },
+    {
+      "query": "crowd music street",
+      "id": "72759",
+      "storyId": "13537",
+      "autoRank": "0.32354468193578884"
+    },
+    {
+      "query": "crowd music street",
+      "id": "72767",
+      "storyId": "13537",
+      "autoRank": "0.32135164910563108"
+    },
+    {
+      "query": "crowd music street",
+      "id": "57861",
+      "storyId": "12601",
+      "autoRank": "0.32133142075728188"
+    },
+    {
+      "query": "crowd music street",
+      "id": "72763",
+      "storyId": "13537",
+      "autoRank": "0.32112963838944875"
+    },
+    {
+      "query": "crowd music street",
+      "id": "192297",
+      "storyId": "18173",
+      "autoRank": "0.32042048085818292"
+    },
+    {
+      "query": "crowd music street",
+      "id": "57780",
+      "storyId": "12601",
+      "autoRank": "0.31717141400575311"
+    },
+    {
+      "query": "crowd music street",
+      "id": "98792",
+      "storyId": "14696",
+      "autoRank": "0.3166379182053623"
+    },
+    {
+      "query": "crowd music street",
+      "id": "57831",
+      "storyId": "12601",
+      "autoRank": "0.31558131078722462"
+    },
+    {
+      "query": "crowd music street",
+      "id": "192413",
+      "storyId": "18175",
+      "autoRank": "0.31505008196593004"
+    }
+  ],
+  "discussion between husband and wife": [
+    {
+      "query": "discussion between husband and wife",
+      "id": "52868",
+      "storyId": "12312",
+      "autoRank": "0.35275585549829436"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "495115",
+      "storyId": "27971",
+      "autoRank": "0.34616160860862272"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "574256",
+      "storyId": "30759",
+      "autoRank": "0.34612167217683437"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "110765",
+      "storyId": "15215",
+      "autoRank": "0.34608638759303695"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "520132",
+      "storyId": "28830",
+      "autoRank": "0.34143148652356264"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "428870",
+      "storyId": "25873",
+      "autoRank": "0.34102752360798289"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "290849",
+      "storyId": "21453",
+      "autoRank": "0.340930870375445"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "115987",
+      "storyId": "15444",
+      "autoRank": "0.33996043966474482"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "398667",
+      "storyId": "24885",
+      "autoRank": "0.33985133001895534"
+    },
+    {
+      "query": "discussion between husband and wife",
+      "id": "105602",
+      "storyId": "14967",
+      "autoRank": "0.33939765674283207"
+    }
+  ],
+  "diversity": [
+    {
+      "query": "diversity",
+      "id": "192140",
+      "storyId": "18170",
+      "autoRank": "0.37279358149248426"
+    },
+    {
+      "query": "diversity",
+      "id": "192156",
+      "storyId": "18170",
+      "autoRank": "0.37092231129868236"
+    },
+    {
+      "query": "diversity",
+      "id": "192159",
+      "storyId": "18170",
+      "autoRank": "0.3702907113663183"
+    },
+    {
+      "query": "diversity",
+      "id": "192143",
+      "storyId": "18170",
+      "autoRank": "0.367455318562643"
+    },
+    {
+      "query": "diversity",
+      "id": "192148",
+      "storyId": "18170",
+      "autoRank": "0.365547822153287"
+    },
+    {
+      "query": "diversity",
+      "id": "192141",
+      "storyId": "18170",
+      "autoRank": "0.36427538525511732"
+    },
+    {
+      "query": "diversity",
+      "id": "192147",
+      "storyId": "18170",
+      "autoRank": "0.36335040691070136"
+    },
+    {
+      "query": "diversity",
+      "id": "192166",
+      "storyId": "18170",
+      "autoRank": "0.361707389814089"
+    },
+    {
+      "query": "diversity",
+      "id": "192161",
+      "storyId": "18170",
+      "autoRank": "0.36059828144375194"
+    },
+    {
+      "query": "diversity",
+      "id": "192157",
+      "storyId": "18170",
+      "autoRank": "0.3581671308079275"
+    }
+  ],
+  "dust particles": [
+    {
+      "query": "dust particles",
+      "id": "547207",
+      "storyId": "29801",
+      "autoRank": "0.44247830104885427"
+    },
+    {
+      "query": "dust particles",
+      "id": "547185",
+      "storyId": "29801",
+      "autoRank": "0.43992192880203046"
+    },
+    {
+      "query": "dust particles",
+      "id": "435364",
+      "storyId": "26071",
+      "autoRank": "0.43865019176591669"
+    },
+    {
+      "query": "dust particles",
+      "id": "547184",
+      "storyId": "29801",
+      "autoRank": "0.4348773082129353"
+    },
+    {
+      "query": "dust particles",
+      "id": "97087",
+      "storyId": "14637",
+      "autoRank": "0.43269200312873224"
+    },
+    {
+      "query": "dust particles",
+      "id": "547215",
+      "storyId": "29801",
+      "autoRank": "0.43255798239241311"
+    },
+    {
+      "query": "dust particles",
+      "id": "547182",
+      "storyId": "29801",
+      "autoRank": "0.43009578503454132"
+    },
+    {
+      "query": "dust particles",
+      "id": "547216",
+      "storyId": "29801",
+      "autoRank": "0.42970988900476309"
+    },
+    {
+      "query": "dust particles",
+      "id": "547223",
+      "storyId": "29801",
+      "autoRank": "0.42746878195178689"
+    },
+    {
+      "query": "dust particles",
+      "id": "547224",
+      "storyId": "29801",
+      "autoRank": "0.42727687235814243"
+    }
+  ],
+  "ego": [
+    {
+      "query": "ego",
+      "id": "573864",
+      "storyId": "30735",
+      "autoRank": "0.32975245950602422"
+    },
+    {
+      "query": "ego",
+      "id": "255627",
+      "storyId": "20364",
+      "autoRank": "0.32574957908178892"
+    },
+    {
+      "query": "ego",
+      "id": "255629",
+      "storyId": "20364",
+      "autoRank": "0.32460900366207668"
+    },
+    {
+      "query": "ego",
+      "id": "255626",
+      "storyId": "20364",
+      "autoRank": "0.32380496113117846"
+    },
+    {
+      "query": "ego",
+      "id": "193905",
+      "storyId": "18216",
+      "autoRank": "0.32267025850821046"
+    },
+    {
+      "query": "ego",
+      "id": "256465",
+      "storyId": "20380",
+      "autoRank": "0.32239062616070369"
+    },
+    {
+      "query": "ego",
+      "id": "105591",
+      "storyId": "14967",
+      "autoRank": "0.32158706958984018"
+    },
+    {
+      "query": "ego",
+      "id": "256644",
+      "storyId": "20383",
+      "autoRank": "0.32140215046996606"
+    },
+    {
+      "query": "ego",
+      "id": "24328",
+      "storyId": "11073",
+      "autoRank": "0.32134417411035709"
+    },
+    {
+      "query": "ego",
+      "id": "256732",
+      "storyId": "20383",
+      "autoRank": "0.32091494544969218"
+    }
+  ],
+  "emotion": [
+    {
+      "query": "emotion",
+      "id": "202474",
+      "storyId": "18484",
+      "autoRank": "0.38646623017032522"
+    },
+    {
+      "query": "emotion",
+      "id": "116127",
+      "storyId": "15449",
+      "autoRank": "0.38584053929368667"
+    },
+    {
+      "query": "emotion",
+      "id": "525364",
+      "storyId": "29037",
+      "autoRank": "0.38465769847271081"
+    },
+    {
+      "query": "emotion",
+      "id": "202476",
+      "storyId": "18484",
+      "autoRank": "0.38357687211704228"
+    },
+    {
+      "query": "emotion",
+      "id": "525368",
+      "storyId": "29037",
+      "autoRank": "0.38166610747161311"
+    },
+    {
+      "query": "emotion",
+      "id": "445913",
+      "storyId": "26552",
+      "autoRank": "0.38117335578176514"
+    },
+    {
+      "query": "emotion",
+      "id": "460476",
+      "storyId": "26859",
+      "autoRank": "0.37954234595402947"
+    },
+    {
+      "query": "emotion",
+      "id": "23356",
+      "storyId": "11047",
+      "autoRank": "0.37924513483045341"
+    },
+    {
+      "query": "emotion",
+      "id": "116125",
+      "storyId": "15449",
+      "autoRank": "0.37891119658415084"
+    },
+    {
+      "query": "emotion",
+      "id": "525363",
+      "storyId": "29037",
+      "autoRank": "0.37843006952828528"
+    }
+  ],
+  "entrepreneurship": [
+    {
+      "query": "entrepreneurship",
+      "id": "452153",
+      "storyId": "26573",
+      "autoRank": "0.31636071066277854"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "520219",
+      "storyId": "28832",
+      "autoRank": "0.31319069814521333"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "452155",
+      "storyId": "26573",
+      "autoRank": "0.31295980319162553"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "235711",
+      "storyId": "19618",
+      "autoRank": "0.31194837044345963"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "520450",
+      "storyId": "28838",
+      "autoRank": "0.31188429281863811"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "520449",
+      "storyId": "28838",
+      "autoRank": "0.31117892996763358"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "452152",
+      "storyId": "26573",
+      "autoRank": "0.31063502934264364"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "520441",
+      "storyId": "28838",
+      "autoRank": "0.31031859582649662"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "304778",
+      "storyId": "21852",
+      "autoRank": "0.30940919808775513"
+    },
+    {
+      "query": "entrepreneurship",
+      "id": "452156",
+      "storyId": "26573",
+      "autoRank": "0.30939583900609308"
+    }
+  ],
+  "explore": [
+    {
+      "query": "explore",
+      "id": "395412",
+      "storyId": "24777",
+      "autoRank": "0.39142355448177013"
+    },
+    {
+      "query": "explore",
+      "id": "395385",
+      "storyId": "24777",
+      "autoRank": "0.39021465617671824"
+    },
+    {
+      "query": "explore",
+      "id": "47640",
+      "storyId": "11993",
+      "autoRank": "0.38847633752700728"
+    },
+    {
+      "query": "explore",
+      "id": "518976",
+      "storyId": "28794",
+      "autoRank": "0.38741510410792335"
+    },
+    {
+      "query": "explore",
+      "id": "64900",
+      "storyId": "13103",
+      "autoRank": "0.38721782263849858"
+    },
+    {
+      "query": "explore",
+      "id": "518972",
+      "storyId": "28794",
+      "autoRank": "0.38431486528894954"
+    },
+    {
+      "query": "explore",
+      "id": "45865",
+      "storyId": "11850",
+      "autoRank": "0.3839729966265798"
+    },
+    {
+      "query": "explore",
+      "id": "395401",
+      "storyId": "24777",
+      "autoRank": "0.38342182869386987"
+    },
+    {
+      "query": "explore",
+      "id": "395403",
+      "storyId": "24777",
+      "autoRank": "0.38288992712399117"
+    },
+    {
+      "query": "explore",
+      "id": "395394",
+      "storyId": "24777",
+      "autoRank": "0.38252229666731086"
+    }
+  ],
+  "film transition": [
+    {
+      "query": "film transition",
+      "id": "578995",
+      "storyId": "30919",
+      "autoRank": "0.38657313136071"
+    },
+    {
+      "query": "film transition",
+      "id": "578988",
+      "storyId": "30919",
+      "autoRank": "0.38300342953673033"
+    },
+    {
+      "query": "film transition",
+      "id": "578989",
+      "storyId": "30919",
+      "autoRank": "0.37534702984567009"
+    },
+    {
+      "query": "film transition",
+      "id": "578990",
+      "storyId": "30919",
+      "autoRank": "0.37311579327557781"
+    },
+    {
+      "query": "film transition",
+      "id": "236779",
+      "storyId": "19696",
+      "autoRank": "0.37260830664430561"
+    },
+    {
+      "query": "film transition",
+      "id": "578987",
+      "storyId": "30919",
+      "autoRank": "0.37111479622751414"
+    },
+    {
+      "query": "film transition",
+      "id": "578991",
+      "storyId": "30919",
+      "autoRank": "0.37094850150094955"
+    },
+    {
+      "query": "film transition",
+      "id": "237045",
+      "storyId": "19699",
+      "autoRank": "0.36844637066147878"
+    },
+    {
+      "query": "film transition",
+      "id": "578996",
+      "storyId": "30919",
+      "autoRank": "0.36751618958400661"
+    },
+    {
+      "query": "film transition",
+      "id": "578992",
+      "storyId": "30919",
+      "autoRank": "0.36737531723153555"
+    }
+  ],
+  "friends in car at night ignition starting": [
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "337238",
+      "storyId": "22866",
+      "autoRank": "0.36157571620387191"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "337239",
+      "storyId": "22866",
+      "autoRank": "0.36026863994019159"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "337222",
+      "storyId": "22866",
+      "autoRank": "0.3596337900203862"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "337226",
+      "storyId": "22866",
+      "autoRank": "0.35911766523388639"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "337245",
+      "storyId": "22866",
+      "autoRank": "0.35862438473693053"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "79781",
+      "storyId": "13843",
+      "autoRank": "0.35761682154334223"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "337225",
+      "storyId": "22866",
+      "autoRank": "0.35686350282667639"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "37742",
+      "storyId": "11508",
+      "autoRank": "0.35496028397281026"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "194963",
+      "storyId": "18244",
+      "autoRank": "0.35429186873116641"
+    },
+    {
+      "query": "friends in car at night ignition starting",
+      "id": "194972",
+      "storyId": "18244",
+      "autoRank": "0.35417399112612608"
+    }
+  ],
+  "funny animals": [
+    {
+      "query": "funny animals",
+      "id": "22677",
+      "storyId": "11028",
+      "autoRank": "0.33887946594973828"
+    },
+    {
+      "query": "funny animals",
+      "id": "564971",
+      "storyId": "30357",
+      "autoRank": "0.32733211306576282"
+    },
+    {
+      "query": "funny animals",
+      "id": "298566",
+      "storyId": "21699",
+      "autoRank": "0.32396184127586958"
+    },
+    {
+      "query": "funny animals",
+      "id": "298560",
+      "storyId": "21699",
+      "autoRank": "0.32394618480589077"
+    },
+    {
+      "query": "funny animals",
+      "id": "294880",
+      "storyId": "21566",
+      "autoRank": "0.32369698063666535"
+    },
+    {
+      "query": "funny animals",
+      "id": "252212",
+      "storyId": "20249",
+      "autoRank": "0.3228027874974253"
+    },
+    {
+      "query": "funny animals",
+      "id": "564977",
+      "storyId": "30357",
+      "autoRank": "0.32215288623534183"
+    },
+    {
+      "query": "funny animals",
+      "id": "40227",
+      "storyId": "11631",
+      "autoRank": "0.31969243403296416"
+    },
+    {
+      "query": "funny animals",
+      "id": "298561",
+      "storyId": "21699",
+      "autoRank": "0.31938292610897284"
+    },
+    {
+      "query": "funny animals",
+      "id": "548870",
+      "storyId": "29875",
+      "autoRank": "0.31864183224178966"
+    }
+  ],
+  "glitch": [
+    {
+      "query": "glitch",
+      "id": "170569",
+      "storyId": "17501",
+      "autoRank": "0.44559395145068592"
+    },
+    {
+      "query": "glitch",
+      "id": "453961",
+      "storyId": "26641",
+      "autoRank": "0.43409166979301372"
+    },
+    {
+      "query": "glitch",
+      "id": "427760",
+      "storyId": "25836",
+      "autoRank": "0.4335719795181594"
+    },
+    {
+      "query": "glitch",
+      "id": "187333",
+      "storyId": "18066",
+      "autoRank": "0.43276221660074321"
+    },
+    {
+      "query": "glitch",
+      "id": "535261",
+      "storyId": "29409",
+      "autoRank": "0.43139576422889792"
+    },
+    {
+      "query": "glitch",
+      "id": "178650",
+      "storyId": "18097",
+      "autoRank": "0.43054668257240225"
+    },
+    {
+      "query": "glitch",
+      "id": "120462",
+      "storyId": "15634",
+      "autoRank": "0.43048026661670535"
+    },
+    {
+      "query": "glitch",
+      "id": "453956",
+      "storyId": "26641",
+      "autoRank": "0.4294475015632786"
+    },
+    {
+      "query": "glitch",
+      "id": "120460",
+      "storyId": "15634",
+      "autoRank": "0.42853639403115174"
+    },
+    {
+      "query": "glitch",
+      "id": "187341",
+      "storyId": "18066",
+      "autoRank": "0.42838984663617352"
+    }
+  ],
+  "global warming": [
+    {
+      "query": "global warming",
+      "id": "437275",
+      "storyId": "26131",
+      "autoRank": "0.41267575560391678"
+    },
+    {
+      "query": "global warming",
+      "id": "348641",
+      "storyId": "23215",
+      "autoRank": "0.38903927946550476"
+    },
+    {
+      "query": "global warming",
+      "id": "134062",
+      "storyId": "16212",
+      "autoRank": "0.38808412161623262"
+    },
+    {
+      "query": "global warming",
+      "id": "167999",
+      "storyId": "17427",
+      "autoRank": "0.38771387072431585"
+    },
+    {
+      "query": "global warming",
+      "id": "437276",
+      "storyId": "26131",
+      "autoRank": "0.38590800973373507"
+    },
+    {
+      "query": "global warming",
+      "id": "105809",
+      "storyId": "14978",
+      "autoRank": "0.38488004716156066"
+    },
+    {
+      "query": "global warming",
+      "id": "178344",
+      "storyId": "17779",
+      "autoRank": "0.38443784217507404"
+    },
+    {
+      "query": "global warming",
+      "id": "437287",
+      "storyId": "26131",
+      "autoRank": "0.38267510607605426"
+    },
+    {
+      "query": "global warming",
+      "id": "105772",
+      "storyId": "14978",
+      "autoRank": "0.379982648752648"
+    },
+    {
+      "query": "global warming",
+      "id": "484171",
+      "storyId": "27658",
+      "autoRank": "0.37958576373495734"
+    }
+  ],
+  "grain": [
+    {
+      "query": "grain",
+      "id": "539340",
+      "storyId": "29558",
+      "autoRank": "0.41468090617304337"
+    },
+    {
+      "query": "grain",
+      "id": "539339",
+      "storyId": "29558",
+      "autoRank": "0.41261409467572435"
+    },
+    {
+      "query": "grain",
+      "id": "575379",
+      "storyId": "30804",
+      "autoRank": "0.41241115337345419"
+    },
+    {
+      "query": "grain",
+      "id": "539319",
+      "storyId": "29558",
+      "autoRank": "0.41197697831843044"
+    },
+    {
+      "query": "grain",
+      "id": "575378",
+      "storyId": "30804",
+      "autoRank": "0.41045578896782392"
+    },
+    {
+      "query": "grain",
+      "id": "539320",
+      "storyId": "29558",
+      "autoRank": "0.40712893059650779"
+    },
+    {
+      "query": "grain",
+      "id": "164317",
+      "storyId": "17278",
+      "autoRank": "0.40617484278549432"
+    },
+    {
+      "query": "grain",
+      "id": "539316",
+      "storyId": "29558",
+      "autoRank": "0.4060157720870482"
+    },
+    {
+      "query": "grain",
+      "id": "539347",
+      "storyId": "29558",
+      "autoRank": "0.40576425508717906"
+    },
+    {
+      "query": "grain",
+      "id": "539337",
+      "storyId": "29558",
+      "autoRank": "0.40518940771570666"
+    }
+  ],
+  "green energy": [
+    {
+      "query": "green energy",
+      "id": "520888",
+      "storyId": "28853",
+      "autoRank": "0.40251107779320405"
+    },
+    {
+      "query": "green energy",
+      "id": "520887",
+      "storyId": "28853",
+      "autoRank": "0.40034304854934533"
+    },
+    {
+      "query": "green energy",
+      "id": "526670",
+      "storyId": "29090",
+      "autoRank": "0.40022226716676845"
+    },
+    {
+      "query": "green energy",
+      "id": "520871",
+      "storyId": "28853",
+      "autoRank": "0.39972226735651384"
+    },
+    {
+      "query": "green energy",
+      "id": "520873",
+      "storyId": "28853",
+      "autoRank": "0.39930967529189876"
+    },
+    {
+      "query": "green energy",
+      "id": "108338",
+      "storyId": "15092",
+      "autoRank": "0.39896619092116636"
+    },
+    {
+      "query": "green energy",
+      "id": "520884",
+      "storyId": "28853",
+      "autoRank": "0.39787548380217264"
+    },
+    {
+      "query": "green energy",
+      "id": "520886",
+      "storyId": "28853",
+      "autoRank": "0.3970078466372865"
+    },
+    {
+      "query": "green energy",
+      "id": "108323",
+      "storyId": "15092",
+      "autoRank": "0.39693790843229471"
+    },
+    {
+      "query": "green energy",
+      "id": "527309",
+      "storyId": "29116",
+      "autoRank": "0.39652588179388448"
+    }
+  ],
+  "horror": [
+    {
+      "query": "horror",
+      "id": "573817",
+      "storyId": "30730",
+      "autoRank": "0.41697821057363943"
+    },
+    {
+      "query": "horror",
+      "id": "573819",
+      "storyId": "30730",
+      "autoRank": "0.41050772655867618"
+    },
+    {
+      "query": "horror",
+      "id": "573818",
+      "storyId": "30730",
+      "autoRank": "0.40837556174829964"
+    },
+    {
+      "query": "horror",
+      "id": "573816",
+      "storyId": "30730",
+      "autoRank": "0.4080755270742043"
+    },
+    {
+      "query": "horror",
+      "id": "573797",
+      "storyId": "30730",
+      "autoRank": "0.40752237906656447"
+    },
+    {
+      "query": "horror",
+      "id": "536983",
+      "storyId": "29480",
+      "autoRank": "0.40437585866729336"
+    },
+    {
+      "query": "horror",
+      "id": "536993",
+      "storyId": "29480",
+      "autoRank": "0.40367403946471625"
+    },
+    {
+      "query": "horror",
+      "id": "573807",
+      "storyId": "30730",
+      "autoRank": "0.40320941074818384"
+    },
+    {
+      "query": "horror",
+      "id": "521617",
+      "storyId": "28893",
+      "autoRank": "0.40288105542940245"
+    },
+    {
+      "query": "horror",
+      "id": "573781",
+      "storyId": "30730",
+      "autoRank": "0.40272085134703006"
+    }
+  ],
+  "joshua tree": [
+    {
+      "query": "joshua tree",
+      "id": "116934",
+      "storyId": "15485",
+      "autoRank": "0.42020009912261164"
+    },
+    {
+      "query": "joshua tree",
+      "id": "240505",
+      "storyId": "19828",
+      "autoRank": "0.41446084285414958"
+    },
+    {
+      "query": "joshua tree",
+      "id": "116935",
+      "storyId": "15485",
+      "autoRank": "0.41213627042301981"
+    },
+    {
+      "query": "joshua tree",
+      "id": "240506",
+      "storyId": "19828",
+      "autoRank": "0.40839743076180435"
+    },
+    {
+      "query": "joshua tree",
+      "id": "360468",
+      "storyId": "23594",
+      "autoRank": "0.40776038055888031"
+    },
+    {
+      "query": "joshua tree",
+      "id": "360477",
+      "storyId": "23594",
+      "autoRank": "0.40748349198548317"
+    },
+    {
+      "query": "joshua tree",
+      "id": "240532",
+      "storyId": "19828",
+      "autoRank": "0.40679320657653428"
+    },
+    {
+      "query": "joshua tree",
+      "id": "240503",
+      "storyId": "19828",
+      "autoRank": "0.40514491686695009"
+    },
+    {
+      "query": "joshua tree",
+      "id": "360471",
+      "storyId": "23594",
+      "autoRank": "0.40495322783937765"
+    },
+    {
+      "query": "joshua tree",
+      "id": "360473",
+      "storyId": "23594",
+      "autoRank": "0.40283189317131163"
+    }
+  ],
+  "knowledge": [
+    {
+      "query": "knowledge",
+      "id": "283055",
+      "storyId": "21207",
+      "autoRank": "0.39456771814607894"
+    },
+    {
+      "query": "knowledge",
+      "id": "283053",
+      "storyId": "21207",
+      "autoRank": "0.39456701541858163"
+    },
+    {
+      "query": "knowledge",
+      "id": "283054",
+      "storyId": "21207",
+      "autoRank": "0.38803364137849383"
+    },
+    {
+      "query": "knowledge",
+      "id": "345890",
+      "storyId": "23141",
+      "autoRank": "0.38788416325228536"
+    },
+    {
+      "query": "knowledge",
+      "id": "56794",
+      "storyId": "12510",
+      "autoRank": "0.38759786579765443"
+    },
+    {
+      "query": "knowledge",
+      "id": "274245",
+      "storyId": "20954",
+      "autoRank": "0.38659814159090344"
+    },
+    {
+      "query": "knowledge",
+      "id": "345905",
+      "storyId": "23141",
+      "autoRank": "0.38388029727521428"
+    },
+    {
+      "query": "knowledge",
+      "id": "345908",
+      "storyId": "23141",
+      "autoRank": "0.38364391198985376"
+    },
+    {
+      "query": "knowledge",
+      "id": "345891",
+      "storyId": "23141",
+      "autoRank": "0.38308712843537457"
+    },
+    {
+      "query": "knowledge",
+      "id": "321385",
+      "storyId": "23159",
+      "autoRank": "0.37966960596197258"
+    }
+  ],
+  "mri procedure contemporary medical center": [
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275306",
+      "storyId": "21004",
+      "autoRank": "0.35718935843638405"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275302",
+      "storyId": "21004",
+      "autoRank": "0.35474399902990855"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275190",
+      "storyId": "21000",
+      "autoRank": "0.35463374022810129"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275311",
+      "storyId": "21004",
+      "autoRank": "0.35445170828223027"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275159",
+      "storyId": "21000",
+      "autoRank": "0.35281828778501317"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275172",
+      "storyId": "21000",
+      "autoRank": "0.35118140948586446"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275378",
+      "storyId": "21004",
+      "autoRank": "0.35059841763739447"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275309",
+      "storyId": "21004",
+      "autoRank": "0.35014739755148139"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275157",
+      "storyId": "21000",
+      "autoRank": "0.3497966338501835"
+    },
+    {
+      "query": "mri procedure contemporary medical center",
+      "id": "275162",
+      "storyId": "21000",
+      "autoRank": "0.349517313553399"
+    }
+  ],
+  "pattern": [
+    {
+      "query": "pattern",
+      "id": "469131",
+      "storyId": "27124",
+      "autoRank": "0.41091462452201721"
+    },
+    {
+      "query": "pattern",
+      "id": "58426",
+      "storyId": "12644",
+      "autoRank": "0.40999292050720537"
+    },
+    {
+      "query": "pattern",
+      "id": "58412",
+      "storyId": "12644",
+      "autoRank": "0.40987330923025966"
+    },
+    {
+      "query": "pattern",
+      "id": "460144",
+      "storyId": "26851",
+      "autoRank": "0.40677559207528213"
+    },
+    {
+      "query": "pattern",
+      "id": "331646",
+      "storyId": "22665",
+      "autoRank": "0.4031159704611943"
+    },
+    {
+      "query": "pattern",
+      "id": "571701",
+      "storyId": "30648",
+      "autoRank": "0.40221462142676473"
+    },
+    {
+      "query": "pattern",
+      "id": "405201",
+      "storyId": "25100",
+      "autoRank": "0.40212255937558194"
+    },
+    {
+      "query": "pattern",
+      "id": "571704",
+      "storyId": "30648",
+      "autoRank": "0.40162524864639776"
+    },
+    {
+      "query": "pattern",
+      "id": "557652",
+      "storyId": "30077",
+      "autoRank": "0.40136760478521927"
+    },
+    {
+      "query": "pattern",
+      "id": "235730",
+      "storyId": "19618",
+      "autoRank": "0.40031591901500851"
+    }
+  ],
+  "plant growing": [
+    {
+      "query": "plant growing",
+      "id": "378701",
+      "storyId": "24181",
+      "autoRank": "0.43340140583567327"
+    },
+    {
+      "query": "plant growing",
+      "id": "378702",
+      "storyId": "24181",
+      "autoRank": "0.42930468618161677"
+    },
+    {
+      "query": "plant growing",
+      "id": "373121",
+      "storyId": "23994",
+      "autoRank": "0.42296777206148589"
+    },
+    {
+      "query": "plant growing",
+      "id": "137007",
+      "storyId": "16306",
+      "autoRank": "0.42263416585822056"
+    },
+    {
+      "query": "plant growing",
+      "id": "52033",
+      "storyId": "12270",
+      "autoRank": "0.4217943647586832"
+    },
+    {
+      "query": "plant growing",
+      "id": "378699",
+      "storyId": "24181",
+      "autoRank": "0.4214646766754585"
+    },
+    {
+      "query": "plant growing",
+      "id": "378700",
+      "storyId": "24181",
+      "autoRank": "0.41645880542601"
+    },
+    {
+      "query": "plant growing",
+      "id": "378905",
+      "storyId": "24187",
+      "autoRank": "0.41634300845452277"
+    },
+    {
+      "query": "plant growing",
+      "id": "58897",
+      "storyId": "12677",
+      "autoRank": "0.41620995961509372"
+    },
+    {
+      "query": "plant growing",
+      "id": "137005",
+      "storyId": "16306",
+      "autoRank": "0.41564923195704767"
+    }
+  ],
+  "plastic waste": [
+    {
+      "query": "plastic waste",
+      "id": "276589",
+      "storyId": "21048",
+      "autoRank": "0.40228598088562073"
+    },
+    {
+      "query": "plastic waste",
+      "id": "52801",
+      "storyId": "12308",
+      "autoRank": "0.3921850398707406"
+    },
+    {
+      "query": "plastic waste",
+      "id": "559207",
+      "storyId": "30136",
+      "autoRank": "0.39207683207773036"
+    },
+    {
+      "query": "plastic waste",
+      "id": "276598",
+      "storyId": "21048",
+      "autoRank": "0.39195370760055825"
+    },
+    {
+      "query": "plastic waste",
+      "id": "559208",
+      "storyId": "30136",
+      "autoRank": "0.39028407312575941"
+    },
+    {
+      "query": "plastic waste",
+      "id": "93694",
+      "storyId": "14536",
+      "autoRank": "0.39005282559004806"
+    },
+    {
+      "query": "plastic waste",
+      "id": "500442",
+      "storyId": "28163",
+      "autoRank": "0.38544920179014486"
+    },
+    {
+      "query": "plastic waste",
+      "id": "276587",
+      "storyId": "21048",
+      "autoRank": "0.38454979553167856"
+    },
+    {
+      "query": "plastic waste",
+      "id": "559206",
+      "storyId": "30136",
+      "autoRank": "0.38362606466146831"
+    },
+    {
+      "query": "plastic waste",
+      "id": "559204",
+      "storyId": "30136",
+      "autoRank": "0.38197300343737806"
+    }
+  ],
+  "problem solving": [
+    {
+      "query": "problem solving",
+      "id": "181328",
+      "storyId": "17902",
+      "autoRank": "0.38668672773418994"
+    },
+    {
+      "query": "problem solving",
+      "id": "290018",
+      "storyId": "21406",
+      "autoRank": "0.33797786879309283"
+    },
+    {
+      "query": "problem solving",
+      "id": "54554",
+      "storyId": "12380",
+      "autoRank": "0.32074334639008267"
+    },
+    {
+      "query": "problem solving",
+      "id": "416529",
+      "storyId": "25509",
+      "autoRank": "0.31955932805701909"
+    },
+    {
+      "query": "problem solving",
+      "id": "46003",
+      "storyId": "11854",
+      "autoRank": "0.31911588956743708"
+    },
+    {
+      "query": "problem solving",
+      "id": "368366",
+      "storyId": "23860",
+      "autoRank": "0.31823493966340571"
+    },
+    {
+      "query": "problem solving",
+      "id": "459804",
+      "storyId": "26844",
+      "autoRank": "0.31644839714198586"
+    },
+    {
+      "query": "problem solving",
+      "id": "209975",
+      "storyId": "18753",
+      "autoRank": "0.31600327916939219"
+    },
+    {
+      "query": "problem solving",
+      "id": "176650",
+      "storyId": "17728",
+      "autoRank": "0.314910178661641"
+    },
+    {
+      "query": "problem solving",
+      "id": "52836",
+      "storyId": "12310",
+      "autoRank": "0.31464067754310904"
+    }
+  ],
+  "rain overlay": [
+    {
+      "query": "rain overlay",
+      "id": "180378",
+      "storyId": "17876",
+      "autoRank": "0.43465663953842593"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180372",
+      "storyId": "17876",
+      "autoRank": "0.42228728192274495"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180384",
+      "storyId": "17876",
+      "autoRank": "0.41129677311462337"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180374",
+      "storyId": "17876",
+      "autoRank": "0.39676062009128754"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180380",
+      "storyId": "17876",
+      "autoRank": "0.39467133861490272"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180365",
+      "storyId": "17876",
+      "autoRank": "0.391870996921165"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180379",
+      "storyId": "17876",
+      "autoRank": "0.39001371857593969"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180367",
+      "storyId": "17876",
+      "autoRank": "0.37978067636035034"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180382",
+      "storyId": "17876",
+      "autoRank": "0.37728986141383131"
+    },
+    {
+      "query": "rain overlay",
+      "id": "180383",
+      "storyId": "17876",
+      "autoRank": "0.37538027638876642"
+    }
+  ],
+  "research": [
+    {
+      "query": "research",
+      "id": "335554",
+      "storyId": "22784",
+      "autoRank": "0.40592428739195252"
+    },
+    {
+      "query": "research",
+      "id": "335553",
+      "storyId": "22784",
+      "autoRank": "0.40514082417479341"
+    },
+    {
+      "query": "research",
+      "id": "288086",
+      "storyId": "21351",
+      "autoRank": "0.4048987275421963"
+    },
+    {
+      "query": "research",
+      "id": "508171",
+      "storyId": "28399",
+      "autoRank": "0.40410083633914984"
+    },
+    {
+      "query": "research",
+      "id": "114514",
+      "storyId": "15371",
+      "autoRank": "0.40370247268106746"
+    },
+    {
+      "query": "research",
+      "id": "508188",
+      "storyId": "28399",
+      "autoRank": "0.4024863856886004"
+    },
+    {
+      "query": "research",
+      "id": "114508",
+      "storyId": "15371",
+      "autoRank": "0.40241719699514461"
+    },
+    {
+      "query": "research",
+      "id": "114507",
+      "storyId": "15371",
+      "autoRank": "0.40209710879137284"
+    },
+    {
+      "query": "research",
+      "id": "508168",
+      "storyId": "28399",
+      "autoRank": "0.40131586473588721"
+    },
+    {
+      "query": "research",
+      "id": "508173",
+      "storyId": "28399",
+      "autoRank": "0.40095359647297663"
+    }
+  ],
+  "screen medical info doctor": [
+    {
+      "query": "screen medical info doctor",
+      "id": "443678",
+      "storyId": "26334",
+      "autoRank": "0.37985999602554288"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "443672",
+      "storyId": "26334",
+      "autoRank": "0.373368385479958"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "443699",
+      "storyId": "26334",
+      "autoRank": "0.37296647331406224"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "443679",
+      "storyId": "26334",
+      "autoRank": "0.36958026596163734"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "570345",
+      "storyId": "30606",
+      "autoRank": "0.34648109518483439"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "503038",
+      "storyId": "28252",
+      "autoRank": "0.34609483002872971"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "291490",
+      "storyId": "21464",
+      "autoRank": "0.34596019820974749"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "503026",
+      "storyId": "28252",
+      "autoRank": "0.3459043588013897"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "190398",
+      "storyId": "18134",
+      "autoRank": "0.34550380774612566"
+    },
+    {
+      "query": "screen medical info doctor",
+      "id": "503027",
+      "storyId": "28252",
+      "autoRank": "0.34461817003712636"
+    }
+  ],
+  "self driving car": [
+    {
+      "query": "self driving car",
+      "id": "72891",
+      "storyId": "13544",
+      "autoRank": "0.37689666594683308"
+    },
+    {
+      "query": "self driving car",
+      "id": "72892",
+      "storyId": "13544",
+      "autoRank": "0.37290061939913455"
+    },
+    {
+      "query": "self driving car",
+      "id": "331165",
+      "storyId": "22654",
+      "autoRank": "0.37192439591974408"
+    },
+    {
+      "query": "self driving car",
+      "id": "72893",
+      "storyId": "13544",
+      "autoRank": "0.37187648445991073"
+    },
+    {
+      "query": "self driving car",
+      "id": "72896",
+      "storyId": "13544",
+      "autoRank": "0.37116275555452383"
+    },
+    {
+      "query": "self driving car",
+      "id": "72898",
+      "storyId": "13544",
+      "autoRank": "0.36989566721513933"
+    },
+    {
+      "query": "self driving car",
+      "id": "72895",
+      "storyId": "13544",
+      "autoRank": "0.36501996347526888"
+    },
+    {
+      "query": "self driving car",
+      "id": "72890",
+      "storyId": "13544",
+      "autoRank": "0.36387068209222634"
+    },
+    {
+      "query": "self driving car",
+      "id": "72897",
+      "storyId": "13544",
+      "autoRank": "0.36214331262394306"
+    },
+    {
+      "query": "self driving car",
+      "id": "72894",
+      "storyId": "13544",
+      "autoRank": "0.34758391880170103"
+    }
+  ],
+  "seoul": [
+    {
+      "query": "seoul",
+      "id": "558757",
+      "storyId": "30121",
+      "autoRank": "0.42675043273758256"
+    },
+    {
+      "query": "seoul",
+      "id": "558754",
+      "storyId": "30121",
+      "autoRank": "0.42500555951710234"
+    },
+    {
+      "query": "seoul",
+      "id": "558762",
+      "storyId": "30121",
+      "autoRank": "0.42283343970165216"
+    },
+    {
+      "query": "seoul",
+      "id": "558756",
+      "storyId": "30121",
+      "autoRank": "0.42250414798181923"
+    },
+    {
+      "query": "seoul",
+      "id": "558750",
+      "storyId": "30121",
+      "autoRank": "0.42125612462822265"
+    },
+    {
+      "query": "seoul",
+      "id": "558753",
+      "storyId": "30121",
+      "autoRank": "0.42078021273227378"
+    },
+    {
+      "query": "seoul",
+      "id": "558752",
+      "storyId": "30121",
+      "autoRank": "0.41891269075457621"
+    },
+    {
+      "query": "seoul",
+      "id": "558735",
+      "storyId": "30121",
+      "autoRank": "0.41838684745396759"
+    },
+    {
+      "query": "seoul",
+      "id": "558776",
+      "storyId": "30121",
+      "autoRank": "0.41837750448027294"
+    },
+    {
+      "query": "seoul",
+      "id": "114941",
+      "storyId": "15399",
+      "autoRank": "0.41788813298456878"
+    }
+  ],
+  "staircase step up": [
+    {
+      "query": "staircase step up",
+      "id": "452861",
+      "storyId": "26596",
+      "autoRank": "0.389225485389592"
+    },
+    {
+      "query": "staircase step up",
+      "id": "455403",
+      "storyId": "26693",
+      "autoRank": "0.34502129392205305"
+    },
+    {
+      "query": "staircase step up",
+      "id": "455402",
+      "storyId": "26693",
+      "autoRank": "0.34285975989771422"
+    },
+    {
+      "query": "staircase step up",
+      "id": "185464",
+      "storyId": "18023",
+      "autoRank": "0.33988803637886278"
+    },
+    {
+      "query": "staircase step up",
+      "id": "33008",
+      "storyId": "11278",
+      "autoRank": "0.33879010407231036"
+    },
+    {
+      "query": "staircase step up",
+      "id": "33024",
+      "storyId": "11278",
+      "autoRank": "0.33813101989882033"
+    },
+    {
+      "query": "staircase step up",
+      "id": "396403",
+      "storyId": "24806",
+      "autoRank": "0.33772991844813371"
+    },
+    {
+      "query": "staircase step up",
+      "id": "33061",
+      "storyId": "11278",
+      "autoRank": "0.33662862102474195"
+    },
+    {
+      "query": "staircase step up",
+      "id": "358332",
+      "storyId": "23497",
+      "autoRank": "0.33577850999514675"
+    },
+    {
+      "query": "staircase step up",
+      "id": "33011",
+      "storyId": "11278",
+      "autoRank": "0.33464691706813993"
+    }
+  ],
+  "strategy": [
+    {
+      "query": "strategy",
+      "id": "160255",
+      "storyId": "17103",
+      "autoRank": "0.41327450135467508"
+    },
+    {
+      "query": "strategy",
+      "id": "439341",
+      "storyId": "26198",
+      "autoRank": "0.41139100019667657"
+    },
+    {
+      "query": "strategy",
+      "id": "160258",
+      "storyId": "17103",
+      "autoRank": "0.40731253083471847"
+    },
+    {
+      "query": "strategy",
+      "id": "160256",
+      "storyId": "17103",
+      "autoRank": "0.40593999988351531"
+    },
+    {
+      "query": "strategy",
+      "id": "439332",
+      "storyId": "26198",
+      "autoRank": "0.40293228106455475"
+    },
+    {
+      "query": "strategy",
+      "id": "439330",
+      "storyId": "26198",
+      "autoRank": "0.39892606325635871"
+    },
+    {
+      "query": "strategy",
+      "id": "439329",
+      "storyId": "26198",
+      "autoRank": "0.39892315332740913"
+    },
+    {
+      "query": "strategy",
+      "id": "439336",
+      "storyId": "26198",
+      "autoRank": "0.39886547750720613"
+    },
+    {
+      "query": "strategy",
+      "id": "160251",
+      "storyId": "17103",
+      "autoRank": "0.39859934901351879"
+    },
+    {
+      "query": "strategy",
+      "id": "160257",
+      "storyId": "17103",
+      "autoRank": "0.39655555088497862"
+    }
+  ],
+  "sun moving out of solar eclipse": [
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "68693",
+      "storyId": "13318",
+      "autoRank": "0.34851820568335917"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "68694",
+      "storyId": "13318",
+      "autoRank": "0.34419690081772181"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "571927",
+      "storyId": "30662",
+      "autoRank": "0.34388219806678144"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "53549",
+      "storyId": "12334",
+      "autoRank": "0.33914990309105075"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "308484",
+      "storyId": "21935",
+      "autoRank": "0.3382249471223141"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "35441",
+      "storyId": "11371",
+      "autoRank": "0.33793800120714435"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "72235",
+      "storyId": "13519",
+      "autoRank": "0.33787460073701259"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "400945",
+      "storyId": "24969",
+      "autoRank": "0.3376499718330328"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "375619",
+      "storyId": "24085",
+      "autoRank": "0.33738424336072848"
+    },
+    {
+      "query": "sun moving out of solar eclipse",
+      "id": "68692",
+      "storyId": "13318",
+      "autoRank": "0.33728058245409431"
+    }
+  ],
+  "supply chain": [
+    {
+      "query": "supply chain",
+      "id": "418669",
+      "storyId": "25573",
+      "autoRank": "0.33143871753239607"
+    },
+    {
+      "query": "supply chain",
+      "id": "138944",
+      "storyId": "18997",
+      "autoRank": "0.33042705032042829"
+    },
+    {
+      "query": "supply chain",
+      "id": "139909",
+      "storyId": "18997",
+      "autoRank": "0.32843791386977078"
+    },
+    {
+      "query": "supply chain",
+      "id": "138934",
+      "storyId": "18997",
+      "autoRank": "0.32655760317475968"
+    },
+    {
+      "query": "supply chain",
+      "id": "418649",
+      "storyId": "25573",
+      "autoRank": "0.32616208532284324"
+    },
+    {
+      "query": "supply chain",
+      "id": "196833",
+      "storyId": "18303",
+      "autoRank": "0.32567643726411477"
+    },
+    {
+      "query": "supply chain",
+      "id": "418657",
+      "storyId": "25573",
+      "autoRank": "0.32553486069715631"
+    },
+    {
+      "query": "supply chain",
+      "id": "30791",
+      "storyId": "11158",
+      "autoRank": "0.3249475208334795"
+    },
+    {
+      "query": "supply chain",
+      "id": "418658",
+      "storyId": "25573",
+      "autoRank": "0.32482298681605842"
+    },
+    {
+      "query": "supply chain",
+      "id": "418663",
+      "storyId": "25573",
+      "autoRank": "0.32476698994333153"
+    }
+  ],
+  "temperature weather data mobile customer": [
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "463733",
+      "storyId": "26957",
+      "autoRank": "0.33323781092023"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "548073",
+      "storyId": "29823",
+      "autoRank": "0.32876606107343082"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "190115",
+      "storyId": "18127",
+      "autoRank": "0.32846649500082969"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "576206",
+      "storyId": "30841",
+      "autoRank": "0.32825314542450729"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "576208",
+      "storyId": "30841",
+      "autoRank": "0.32746894594906273"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "557806",
+      "storyId": "30081",
+      "autoRank": "0.3273136868148232"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "538792",
+      "storyId": "29545",
+      "autoRank": "0.32631883776967691"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "478570",
+      "storyId": "27471",
+      "autoRank": "0.32390945983478436"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "51232",
+      "storyId": "12229",
+      "autoRank": "0.32346106962182586"
+    },
+    {
+      "query": "temperature weather data mobile customer",
+      "id": "286609",
+      "storyId": "21320",
+      "autoRank": "0.32199866744437161"
+    }
+  ],
+  "trippy": [
+    {
+      "query": "trippy",
+      "id": "557652",
+      "storyId": "30077",
+      "autoRank": "0.39599572812428491"
+    },
+    {
+      "query": "trippy",
+      "id": "557657",
+      "storyId": "30077",
+      "autoRank": "0.39582326785912"
+    },
+    {
+      "query": "trippy",
+      "id": "557655",
+      "storyId": "30077",
+      "autoRank": "0.39582119587871867"
+    },
+    {
+      "query": "trippy",
+      "id": "557603",
+      "storyId": "30076",
+      "autoRank": "0.39459425104865858"
+    },
+    {
+      "query": "trippy",
+      "id": "557678",
+      "storyId": "30077",
+      "autoRank": "0.39428999162728767"
+    },
+    {
+      "query": "trippy",
+      "id": "557658",
+      "storyId": "30077",
+      "autoRank": "0.39416474338370333"
+    },
+    {
+      "query": "trippy",
+      "id": "67873",
+      "storyId": "13264",
+      "autoRank": "0.39327485576225729"
+    },
+    {
+      "query": "trippy",
+      "id": "557667",
+      "storyId": "30077",
+      "autoRank": "0.39221452022995723"
+    },
+    {
+      "query": "trippy",
+      "id": "557683",
+      "storyId": "30077",
+      "autoRank": "0.39195822727068386"
+    },
+    {
+      "query": "trippy",
+      "id": "557670",
+      "storyId": "30077",
+      "autoRank": "0.39070822189513371"
+    }
+  ],
+  "vj": [
+    {
+      "query": "vj",
+      "id": "574914",
+      "storyId": "30787",
+      "autoRank": "0.39531257246260137"
+    },
+    {
+      "query": "vj",
+      "id": "578228",
+      "storyId": "30892",
+      "autoRank": "0.39147947252247917"
+    },
+    {
+      "query": "vj",
+      "id": "578232",
+      "storyId": "30892",
+      "autoRank": "0.38998167091925517"
+    },
+    {
+      "query": "vj",
+      "id": "511585",
+      "storyId": "28499",
+      "autoRank": "0.38978213642887505"
+    },
+    {
+      "query": "vj",
+      "id": "528887",
+      "storyId": "29179",
+      "autoRank": "0.3896567081920051"
+    },
+    {
+      "query": "vj",
+      "id": "578224",
+      "storyId": "30892",
+      "autoRank": "0.38879258252405652"
+    },
+    {
+      "query": "vj",
+      "id": "578234",
+      "storyId": "30892",
+      "autoRank": "0.3882180249818491"
+    },
+    {
+      "query": "vj",
+      "id": "574915",
+      "storyId": "30787",
+      "autoRank": "0.38785263038019863"
+    },
+    {
+      "query": "vj",
+      "id": "578222",
+      "storyId": "30892",
+      "autoRank": "0.387240693600572"
+    },
+    {
+      "query": "vj",
+      "id": "510515",
+      "storyId": "28467",
+      "autoRank": "0.38689613912360671"
+    }
+  ],
+  "voice": [
+    {
+      "query": "voice",
+      "id": "330526",
+      "storyId": "22627",
+      "autoRank": "0.40308824756910877"
+    },
+    {
+      "query": "voice",
+      "id": "330527",
+      "storyId": "22627",
+      "autoRank": "0.3807220579816567"
+    },
+    {
+      "query": "voice",
+      "id": "190767",
+      "storyId": "18143",
+      "autoRank": "0.34863411715375114"
+    },
+    {
+      "query": "voice",
+      "id": "33104",
+      "storyId": "11281",
+      "autoRank": "0.34775178862112793"
+    },
+    {
+      "query": "voice",
+      "id": "544506",
+      "storyId": "29713",
+      "autoRank": "0.34693541168302122"
+    },
+    {
+      "query": "voice",
+      "id": "155347",
+      "storyId": "16917",
+      "autoRank": "0.34515000662216355"
+    },
+    {
+      "query": "voice",
+      "id": "33103",
+      "storyId": "11281",
+      "autoRank": "0.34289949463063429"
+    },
+    {
+      "query": "voice",
+      "id": "330514",
+      "storyId": "22627",
+      "autoRank": "0.3410409681189614"
+    },
+    {
+      "query": "voice",
+      "id": "330524",
+      "storyId": "22627",
+      "autoRank": "0.33939132471081973"
+    },
+    {
+      "query": "voice",
+      "id": "574087",
+      "storyId": "30753",
+      "autoRank": "0.33883972258563533"
+    }
+  ],
+  "watching movie projector": [
+    {
+      "query": "watching movie projector",
+      "id": "374320",
+      "storyId": "24336",
+      "autoRank": "0.36482828752274865"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "374347",
+      "storyId": "24336",
+      "autoRank": "0.36456639457784668"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "178815",
+      "storyId": "17802",
+      "autoRank": "0.36123273603969125"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "178808",
+      "storyId": "17802",
+      "autoRank": "0.35597516230110149"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "57994",
+      "storyId": "12609",
+      "autoRank": "0.355654814382585"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "57992",
+      "storyId": "12609",
+      "autoRank": "0.35281508607889933"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "178818",
+      "storyId": "17802",
+      "autoRank": "0.35229209439712778"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "178834",
+      "storyId": "17802",
+      "autoRank": "0.3522140519426421"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "57991",
+      "storyId": "12609",
+      "autoRank": "0.35188991088788218"
+    },
+    {
+      "query": "watching movie projector",
+      "id": "178816",
+      "storyId": "17802",
+      "autoRank": "0.35177542090657815"
+    }
+  ],
+  "water pollution": [
+    {
+      "query": "water pollution",
+      "id": "86554",
+      "storyId": "14194",
+      "autoRank": "0.4151799766592143"
+    },
+    {
+      "query": "water pollution",
+      "id": "164286",
+      "storyId": "17276",
+      "autoRank": "0.4148114835771029"
+    },
+    {
+      "query": "water pollution",
+      "id": "184391",
+      "storyId": "17975",
+      "autoRank": "0.40764447172324597"
+    },
+    {
+      "query": "water pollution",
+      "id": "114765",
+      "storyId": "15389",
+      "autoRank": "0.40496915264190736"
+    },
+    {
+      "query": "water pollution",
+      "id": "183344",
+      "storyId": "17936",
+      "autoRank": "0.40214354962625176"
+    },
+    {
+      "query": "water pollution",
+      "id": "114767",
+      "storyId": "15389",
+      "autoRank": "0.40149193467421951"
+    },
+    {
+      "query": "water pollution",
+      "id": "114769",
+      "storyId": "15389",
+      "autoRank": "0.40123143888641633"
+    },
+    {
+      "query": "water pollution",
+      "id": "184405",
+      "storyId": "17975",
+      "autoRank": "0.40121357580256806"
+    },
+    {
+      "query": "water pollution",
+      "id": "114764",
+      "storyId": "15389",
+      "autoRank": "0.4001416827827674"
+    },
+    {
+      "query": "water pollution",
+      "id": "72794",
+      "storyId": "13539",
+      "autoRank": "0.39902403545615905"
+    }
+  ],
+  "woman dog van": [
+    {
+      "query": "woman dog van",
+      "id": "325614",
+      "storyId": "23236",
+      "autoRank": "0.4112936807238694"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325501",
+      "storyId": "22476",
+      "autoRank": "0.40784338339207432"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325651",
+      "storyId": "23236",
+      "autoRank": "0.40445068407479806"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325654",
+      "storyId": "23236",
+      "autoRank": "0.40411795522687133"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325503",
+      "storyId": "22476",
+      "autoRank": "0.4014229799900112"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325504",
+      "storyId": "22476",
+      "autoRank": "0.39624022787692614"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325574",
+      "storyId": "23236",
+      "autoRank": "0.39617306231002264"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325733",
+      "storyId": "22476",
+      "autoRank": "0.39452958636031921"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325578",
+      "storyId": "23236",
+      "autoRank": "0.39446512641486847"
+    },
+    {
+      "query": "woman dog van",
+      "id": "325657",
+      "storyId": "23236",
+      "autoRank": "0.39263468703818932"
+    }
+  ],
+  "worried diet": [
+    {
+      "query": "worried diet",
+      "id": "543823",
+      "storyId": "29692",
+      "autoRank": "0.42777149842154011"
+    },
+    {
+      "query": "worried diet",
+      "id": "360254",
+      "storyId": "23585",
+      "autoRank": "0.34067915095314932"
+    },
+    {
+      "query": "worried diet",
+      "id": "266675",
+      "storyId": "20681",
+      "autoRank": "0.33939944544400169"
+    },
+    {
+      "query": "worried diet",
+      "id": "433210",
+      "storyId": "26024",
+      "autoRank": "0.33517990183749613"
+    },
+    {
+      "query": "worried diet",
+      "id": "382385",
+      "storyId": "24311",
+      "autoRank": "0.330863081820048"
+    },
+    {
+      "query": "worried diet",
+      "id": "360251",
+      "storyId": "23585",
+      "autoRank": "0.33071407167089023"
+    },
+    {
+      "query": "worried diet",
+      "id": "137312",
+      "storyId": "16317",
+      "autoRank": "0.33019431888429746"
+    },
+    {
+      "query": "worried diet",
+      "id": "235983",
+      "storyId": "19623",
+      "autoRank": "0.32776173967876793"
+    },
+    {
+      "query": "worried diet",
+      "id": "30702",
+      "storyId": "11155",
+      "autoRank": "0.32660576777427636"
+    },
+    {
+      "query": "worried diet",
+      "id": "319104",
+      "storyId": "22883",
+      "autoRank": "0.32649940512817627"
+    }
+  ]
+}

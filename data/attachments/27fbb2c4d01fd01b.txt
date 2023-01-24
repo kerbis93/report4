@@ -1,0 +1,2222 @@
+[
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560125",
+    "order": 0
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Machine, Examination",
+    "id": "275172",
+    "order": 1
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Machine, Hospital",
+    "id": "275169",
+    "order": 2
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Patient, Hospital",
+    "id": "275224",
+    "order": 3
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Patient, Scan, Hospital",
+    "id": "275167",
+    "order": 4
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Clinic, Scan, Hospital",
+    "id": "275162",
+    "order": 5
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560130",
+    "order": 6
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Man, Clinic, Patient",
+    "id": "275164",
+    "order": 7
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Technician",
+    "id": "275299",
+    "order": 8
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Man, Patient, Hospital",
+    "id": "275221",
+    "order": 9
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Patient, Clinic, Doctor",
+    "id": "275177",
+    "order": 10
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255609",
+    "order": 11
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Man, Scan, Clinic",
+    "id": "275174",
+    "order": 12
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560128",
+    "order": 13
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560126",
+    "order": 14
+  },
+  {
+    "storyId": 21000,
+    "name": "Elderly, Ct, Machine, Doctor",
+    "id": "275173",
+    "order": 15
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Hospital, Patient, Doctor",
+    "id": "275161",
+    "order": 16
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Clinic, Hospital, Patient",
+    "id": "275163",
+    "order": 17
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Patient, Scan, Hospital",
+    "id": "275205",
+    "order": 18
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Patient, Elderly, Machine",
+    "id": "275190",
+    "order": 19
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Woman",
+    "id": "275364",
+    "order": 20
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Woman",
+    "id": "275334",
+    "order": 21
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560131",
+    "order": 22
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Machine, Clinic, Hospital",
+    "id": "275199",
+    "order": 23
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Patient, Scan, Hospital",
+    "id": "275156",
+    "order": 24
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560139",
+    "order": 25
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Doctor",
+    "id": "275375",
+    "order": 26
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Machine, Medical, Clinic",
+    "id": "275193",
+    "order": 27
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560124",
+    "order": 28
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Clinic, Scan, Doctor",
+    "id": "275158",
+    "order": 29
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Patient, Hospital",
+    "id": "275207",
+    "order": 30
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Staff, Machine, Patient",
+    "id": "275171",
+    "order": 31
+  },
+  {
+    "storyId": 22902,
+    "name": "Xray Machine, Patient, Medical Technician, Putting On",
+    "id": "338538",
+    "order": 32
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Machine, Clinic, Hospital",
+    "id": "275170",
+    "order": 33
+  },
+  {
+    "storyId": 22902,
+    "name": "Doctor, Patient, Clinic, Technician",
+    "id": "351147",
+    "order": 34
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Hospital, Patient",
+    "id": "275242",
+    "order": 35
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Woman",
+    "id": "275338",
+    "order": 36
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560137",
+    "order": 37
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255606",
+    "order": 38
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Child, Patient, Doctor",
+    "id": "275309",
+    "order": 39
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560138",
+    "order": 40
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Doctor",
+    "id": "275327",
+    "order": 41
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Clinic, Hospital, Patient",
+    "id": "275157",
+    "order": 42
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Sterile, Patient, Hospital",
+    "id": "275155",
+    "order": 43
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Doctor, Medical, Scan",
+    "id": "275251",
+    "order": 44
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Patient, Hospital",
+    "id": "275214",
+    "order": 45
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Child, Patient, Doctor",
+    "id": "275369",
+    "order": 46
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Clinic, Staff, Hospital",
+    "id": "275165",
+    "order": 47
+  },
+  {
+    "storyId": 22902,
+    "name": "Doctor, Patient, Clinic, Technician",
+    "id": "351144",
+    "order": 48
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Child, Patient, Doctor",
+    "id": "275316",
+    "order": 49
+  },
+  {
+    "storyId": 22902,
+    "name": "Doctor, Patient, Clinic, Technician",
+    "id": "351148",
+    "order": 50
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255504",
+    "order": 51
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255608",
+    "order": 52
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Doctor",
+    "id": "275378",
+    "order": 53
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Doctor",
+    "id": "275306",
+    "order": 54
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Facility, Hospital",
+    "id": "275266",
+    "order": 55
+  },
+  {
+    "storyId": 20364,
+    "name": "Clinic, Client, Chair, White-Lamps",
+    "id": "255509",
+    "order": 56
+  },
+  {
+    "storyId": 21000,
+    "name": "Doctor, Clinic, Man, Hospital",
+    "id": "275182",
+    "order": 57
+  },
+  {
+    "storyId": 20364,
+    "name": "Clinic, Client, Chair, White-Lamps",
+    "id": "255513",
+    "order": 58
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Hospital, Patient, Doctor",
+    "id": "275181",
+    "order": 59
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Patient, Scan, Lying",
+    "id": "275202",
+    "order": 60
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Patient, Facemask, Hospital",
+    "id": "275159",
+    "order": 61
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Child, Patient, Doctor",
+    "id": "275311",
+    "order": 62
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255603",
+    "order": 63
+  },
+  {
+    "storyId": 20364,
+    "name": "Clinic, Client, Chair, White-Lamps",
+    "id": "255508",
+    "order": 64
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Patient, Machine",
+    "id": "275166",
+    "order": 65
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255505",
+    "order": 66
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Patient, Machine, Scan",
+    "id": "275195",
+    "order": 67
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Man, Patient",
+    "id": "275168",
+    "order": 68
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255607",
+    "order": 69
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Child, Patient, Doctor",
+    "id": "275366",
+    "order": 70
+  },
+  {
+    "storyId": 21474,
+    "name": "Composite Animation, Cgi, Ct, Imaging",
+    "id": "291856",
+    "order": 71
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255605",
+    "order": 72
+  },
+  {
+    "storyId": 22902,
+    "name": "Doctor, Patient, Clinic, Technician",
+    "id": "351149",
+    "order": 73
+  },
+  {
+    "storyId": 26310,
+    "name": "Dentist, Dental Clinic, Dentistry, Tools",
+    "id": "443084",
+    "order": 74
+  },
+  {
+    "storyId": 21004,
+    "name": "Woman, Technician, Cleaning, Alcohol",
+    "id": "275330",
+    "order": 75
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560003",
+    "order": 76
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255516",
+    "order": 77
+  },
+  {
+    "storyId": 26772,
+    "name": "Physiotherapy, Physiotherapist, Patient, Knee Stabilizer",
+    "id": "457625",
+    "order": 78
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255602",
+    "order": 79
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Doctor",
+    "id": "275320",
+    "order": 80
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Doctor, Patient, Scan",
+    "id": "275233",
+    "order": 81
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Examination, Hospital, Patient",
+    "id": "275175",
+    "order": 82
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255604",
+    "order": 83
+  },
+  {
+    "storyId": 30293,
+    "name": "Technician, Mri, Scan, Portrait",
+    "id": "560132",
+    "order": 84
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Doctor",
+    "id": "275372",
+    "order": 85
+  },
+  {
+    "storyId": 22902,
+    "name": "Radiologist, Patient, Xray, Explaining",
+    "id": "338543",
+    "order": 86
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255515",
+    "order": 87
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255517",
+    "order": 88
+  },
+  {
+    "storyId": 21873,
+    "name": "Xray, Roentgen, Diagnosis, Doctor",
+    "id": "305820",
+    "order": 89
+  },
+  {
+    "storyId": 22902,
+    "name": "Doctor, Patient, Clinic, Technician",
+    "id": "351150",
+    "order": 90
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255555",
+    "order": 91
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Hospital, Elderly, Patient",
+    "id": "275160",
+    "order": 92
+  },
+  {
+    "storyId": 21873,
+    "name": "Xray, Roentgen, Diagnosis, Doctor",
+    "id": "305821",
+    "order": 93
+  },
+  {
+    "storyId": 21459,
+    "name": "Surgeon, Doctor, Lamp, Lighting",
+    "id": "291151",
+    "order": 94
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570346",
+    "order": 95
+  },
+  {
+    "storyId": 30293,
+    "name": "Technician, Mri, Scan, Portrait",
+    "id": "560141",
+    "order": 96
+  },
+  {
+    "storyId": 24592,
+    "name": "Ambulance, Defibrillator, Pulse, Patient",
+    "id": "387791",
+    "order": 97
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Hospital, Patient, Doctor",
+    "id": "275259",
+    "order": 98
+  },
+  {
+    "storyId": 16566,
+    "name": "Ultrasound, Heartbeat, Anatomy, Fetus",
+    "id": "144145",
+    "order": 99
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Cooperation, Radiologist, Clinic",
+    "id": "245143",
+    "order": 100
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Button, Hospital, Medical",
+    "id": "275431",
+    "order": 101
+  },
+  {
+    "storyId": 21472,
+    "name": "Hospital, Doctors, Clipboard, Corridor",
+    "id": "291790",
+    "order": 102
+  },
+  {
+    "storyId": 21004,
+    "name": "Doctor, Radiologist, Explaining, Man",
+    "id": "275393",
+    "order": 103
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Looking At Camera, Hospital",
+    "id": "570352",
+    "order": 104
+  },
+  {
+    "storyId": 22902,
+    "name": "Xray Machine, Patient, Medical Technician, Turning On",
+    "id": "338532",
+    "order": 105
+  },
+  {
+    "storyId": 20364,
+    "name": "Clinic, Client, Chair, White-Lamps",
+    "id": "255510",
+    "order": 106
+  },
+  {
+    "storyId": 21004,
+    "name": "Doctor, Radiologist, Explaining, Man",
+    "id": "275387",
+    "order": 107
+  },
+  {
+    "storyId": 26310,
+    "name": "Dental Clinic, Medical Equipment, Tools, Dentistry",
+    "id": "443085",
+    "order": 108
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, 3D Ultrasound, Examination, Technition",
+    "id": "560007",
+    "order": 109
+  },
+  {
+    "storyId": 16392,
+    "name": "man looking through ophthalmological  equipment",
+    "id": "139140",
+    "order": 110
+  },
+  {
+    "storyId": 20634,
+    "name": "Dentist, Patient, Doctor, Dental-Clinic",
+    "id": "264964",
+    "order": 111
+  },
+  {
+    "storyId": 21459,
+    "name": "Surgery, Surgeon, Lighting, Lamp",
+    "id": "291132",
+    "order": 112
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Doctor",
+    "id": "275302",
+    "order": 113
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Check Up, Hospital",
+    "id": "516865",
+    "order": 114
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "559997",
+    "order": 115
+  },
+  {
+    "storyId": 20634,
+    "name": "Dentist, Patient, Screen, X-Ray",
+    "id": "264965",
+    "order": 116
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516870",
+    "order": 117
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Ultrasound",
+    "id": "516752",
+    "order": 118
+  },
+  {
+    "storyId": 21472,
+    "name": "Doctor, Exhausted, Sitting, Hospital",
+    "id": "291795",
+    "order": 119
+  },
+  {
+    "storyId": 21873,
+    "name": "Xray, Roentgen, Diagnosis, Doctor",
+    "id": "305823",
+    "order": 120
+  },
+  {
+    "storyId": 14567,
+    "name": "scientist looking into a microscope at a lab",
+    "id": "94907",
+    "order": 121
+  },
+  {
+    "storyId": 13739,
+    "name": "woman getting a professional facial massage at the clinic ",
+    "id": "77159",
+    "order": 122
+  },
+  {
+    "storyId": 24284,
+    "name": "Doctor, Technician, Imaging, Consultation",
+    "id": "381151",
+    "order": 123
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255559",
+    "order": 124
+  },
+  {
+    "storyId": 13739,
+    "name": "woman turning on the lights at the clinic ",
+    "id": "77193",
+    "order": 125
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Woman",
+    "id": "275361",
+    "order": 126
+  },
+  {
+    "storyId": 24285,
+    "name": "Hospital, Doctor, Patient, Oxygen Balloon",
+    "id": "381157",
+    "order": 127
+  },
+  {
+    "storyId": 21474,
+    "name": "Composite Animation, Scan, Cgi, Doctor",
+    "id": "291857",
+    "order": 128
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Doctor, Man, Scan",
+    "id": "275229",
+    "order": 129
+  },
+  {
+    "storyId": 24284,
+    "name": "Technician, Woman, Imaging, Screen",
+    "id": "381152",
+    "order": 130
+  },
+  {
+    "storyId": 14533,
+    "name": "Examination room at a medical clinic",
+    "id": "93636",
+    "order": 131
+  },
+  {
+    "storyId": 22902,
+    "name": "Xray Machine, Patient, Medical Technician, Turning On",
+    "id": "338531",
+    "order": 132
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Ultrasound, Scan",
+    "id": "516764",
+    "order": 133
+  },
+  {
+    "storyId": 21472,
+    "name": "Emergency, Hospital, Doctor, Running",
+    "id": "291792",
+    "order": 134
+  },
+  {
+    "storyId": 21496,
+    "name": "Facial, Woman, Spa, Beauty Treatment",
+    "id": "292565",
+    "order": 135
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516854",
+    "order": 136
+  },
+  {
+    "storyId": 26310,
+    "name": "Dentist, Medical Equipment, Clinic, Turn On",
+    "id": "443087",
+    "order": 137
+  },
+  {
+    "storyId": 21472,
+    "name": "Doctor, Hospital, Patient, Clinic",
+    "id": "291782",
+    "order": 138
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Microscope, Tools, Nurse",
+    "id": "493609",
+    "order": 139
+  },
+  {
+    "storyId": 21472,
+    "name": "Tired, Doctor, Exhausted, Hospital",
+    "id": "291793",
+    "order": 140
+  },
+  {
+    "storyId": 16392,
+    "name": "surgeon removing a medical mask",
+    "id": "139149",
+    "order": 141
+  },
+  {
+    "storyId": 16566,
+    "name": "Ultrasound, Scan, Clinic, Pregnant",
+    "id": "144136",
+    "order": 142
+  },
+  {
+    "storyId": 21474,
+    "name": "MRI_2_HUD",
+    "id": "291858",
+    "order": 143
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Check Up, Hospital",
+    "id": "516868",
+    "order": 144
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Hospital, Expecting",
+    "id": "516842",
+    "order": 145
+  },
+  {
+    "storyId": 22902,
+    "name": "Xray, Doctor, Patient, Explaining",
+    "id": "338544",
+    "order": 146
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Clinic, Hospital, Patient",
+    "id": "275255",
+    "order": 147
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Scan, Machine, Clinic",
+    "id": "275247",
+    "order": 148
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Face Mask, Portrait, Dentistry",
+    "id": "493559",
+    "order": 149
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Hospital, Pregnant, Expecting",
+    "id": "516861",
+    "order": 150
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516877",
+    "order": 151
+  },
+  {
+    "storyId": 16392,
+    "name": "doctors performing eye surgery",
+    "id": "139146",
+    "order": 152
+  },
+  {
+    "storyId": 28814,
+    "name": "Sonogram, Screen, Us Scan, Medical Equipment",
+    "id": "519535",
+    "order": 153
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Woman",
+    "id": "275347",
+    "order": 154
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Breathing, Hospital",
+    "id": "516851",
+    "order": 155
+  },
+  {
+    "storyId": 30172,
+    "name": "Ambu Bag, Cpr, Emergency, Procedure",
+    "id": "560102",
+    "order": 156
+  },
+  {
+    "storyId": 21468,
+    "name": "Hospital, Corona, Patient, Sick",
+    "id": "291683",
+    "order": 157
+  },
+  {
+    "storyId": 21496,
+    "name": "Woman, Facial, Spa, Beauty Treatment",
+    "id": "292577",
+    "order": 158
+  },
+  {
+    "storyId": 19626,
+    "name": "Hospital, Research, Virus, Laboratory",
+    "id": "236057",
+    "order": 159
+  },
+  {
+    "storyId": 21938,
+    "name": "Nurse, Physiotherapy, Exercise, Patient",
+    "id": "308596",
+    "order": 160
+  },
+  {
+    "storyId": 21472,
+    "name": "Wheelchair, Injury, Hospital, Doctor",
+    "id": "291810",
+    "order": 161
+  },
+  {
+    "storyId": 21873,
+    "name": "Xray, Roentgen, Diagnosis, Doctor",
+    "id": "305819",
+    "order": 162
+  },
+  {
+    "storyId": 14780,
+    "name": "doctor holding up and looking at an arm x-ray in a clinic",
+    "id": "100999",
+    "order": 163
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Child, Patient, Doctor",
+    "id": "275353",
+    "order": 164
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, 3D Ultrasound, Examination, Technition",
+    "id": "560002",
+    "order": 165
+  },
+  {
+    "storyId": 26705,
+    "name": "Patient, Nurse, Hospital, Lying",
+    "id": "447532",
+    "order": 166
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560011",
+    "order": 167
+  },
+  {
+    "storyId": 21938,
+    "name": "Rehabilitation, Physiotherapist, Therapy, Wheelchair",
+    "id": "308576",
+    "order": 168
+  },
+  {
+    "storyId": 28694,
+    "name": "Doctor, Pregnancy, Hospital Bed, Maternity",
+    "id": "516824",
+    "order": 169
+  },
+  {
+    "storyId": 24592,
+    "name": "Ambulance, Defibrillator, Medical Equipment, Emergency",
+    "id": "387838",
+    "order": 170
+  },
+  {
+    "storyId": 21472,
+    "name": "Doctor, Patient, Talking, Walking",
+    "id": "291775",
+    "order": 171
+  },
+  {
+    "storyId": 26310,
+    "name": "Dentist, Portrait, Clinic, Man",
+    "id": "443070",
+    "order": 172
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570347",
+    "order": 173
+  },
+  {
+    "storyId": 16566,
+    "name": "Ultrasound, Scan, Pregnancy, Fetus",
+    "id": "144150",
+    "order": 174
+  },
+  {
+    "storyId": 26310,
+    "name": "Clinic, Healthcare, Medical Equipment, Dental Chair",
+    "id": "443083",
+    "order": 175
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Fetal Monitor, Check Up",
+    "id": "516856",
+    "order": 176
+  },
+  {
+    "storyId": 11532,
+    "name": "doctor looking at brain scan on screen",
+    "id": "38177",
+    "order": 177
+  },
+  {
+    "storyId": 27247,
+    "name": "Infusion, Dog, Veterinarian, Clinic",
+    "id": "472259",
+    "order": 178
+  },
+  {
+    "storyId": 21938,
+    "name": "Physiotherapist, Patient, Clinic, Therapy",
+    "id": "308604",
+    "order": 179
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Clinic, Client, Sitting",
+    "id": "255553",
+    "order": 180
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Microscope, Surgery, Dentistry",
+    "id": "493597",
+    "order": 181
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Hospital, Office",
+    "id": "570351",
+    "order": 182
+  },
+  {
+    "storyId": 19552,
+    "name": "Hospital, Operation, Surgeon, Patient",
+    "id": "233099",
+    "order": 183
+  },
+  {
+    "storyId": 26310,
+    "name": "Dentist, Clinic, Tools, Dentistry",
+    "id": "443086",
+    "order": 184
+  },
+  {
+    "storyId": 22902,
+    "name": "Patient, Chest, Xray, Medical Technician",
+    "id": "338539",
+    "order": 185
+  },
+  {
+    "storyId": 28694,
+    "name": "Pregnant, Woman, Examining, Doctor",
+    "id": "516834",
+    "order": 186
+  },
+  {
+    "storyId": 20364,
+    "name": "Clinic, Client, Chair, White-Lamps",
+    "id": "255511",
+    "order": 187
+  },
+  {
+    "storyId": 15412,
+    "name": "laboratory equipment operating",
+    "id": "115203",
+    "order": 188
+  },
+  {
+    "storyId": 28814,
+    "name": "Sonogram, Ultrasound, Screen, Medical Equipment",
+    "id": "519545",
+    "order": 189
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Ultrasound, Scan",
+    "id": "516766",
+    "order": 190
+  },
+  {
+    "storyId": 16392,
+    "name": "eye surgeons performing eye surgery",
+    "id": "139147",
+    "order": 191
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Portrait, Nurse, Patient",
+    "id": "493558",
+    "order": 192
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560129",
+    "order": 193
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560009",
+    "order": 194
+  },
+  {
+    "storyId": 19997,
+    "name": "Doctor, Patient, Radiologist, Health",
+    "id": "245106",
+    "order": 195
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Dental Clinic, Nurse, Dentistry",
+    "id": "493536",
+    "order": 196
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Hospital, Expecting",
+    "id": "516843",
+    "order": 197
+  },
+  {
+    "storyId": 21939,
+    "name": "Man, Physical Therapy, Rehabilitation Robotics, Stepping",
+    "id": "308581",
+    "order": 198
+  },
+  {
+    "storyId": 15412,
+    "name": "two women opening a secured door while wearing scrubs and facemasks",
+    "id": "115191",
+    "order": 199
+  },
+  {
+    "storyId": 18674,
+    "name": "Doctor, Surgeon, Consultant, Hospital",
+    "id": "207250",
+    "order": 200
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Ultrasound",
+    "id": "516754",
+    "order": 201
+  },
+  {
+    "storyId": 30172,
+    "name": "Ambu Bag, Cpr, Emergency, Procedure",
+    "id": "560101",
+    "order": 202
+  },
+  {
+    "storyId": 21468,
+    "name": "Sick, Hospital, Patient, Corona",
+    "id": "291651",
+    "order": 203
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255528",
+    "order": 204
+  },
+  {
+    "storyId": 27926,
+    "name": "Surgery, Patient, Dental Clinic, Nurse",
+    "id": "493554",
+    "order": 205
+  },
+  {
+    "storyId": 24285,
+    "name": "Hospital, Doctor, Patient, Infusion",
+    "id": "381158",
+    "order": 206
+  },
+  {
+    "storyId": 16392,
+    "name": "eye displayed on a screen of ophthalmological equipment",
+    "id": "139138",
+    "order": 207
+  },
+  {
+    "storyId": 13739,
+    "name": "cosmetologist preparing a high frequency machine for her client",
+    "id": "77184",
+    "order": 208
+  },
+  {
+    "storyId": 26419,
+    "name": "Patient, Sick, Nurse, Examining",
+    "id": "447462",
+    "order": 209
+  },
+  {
+    "storyId": 19997,
+    "name": "Medical, Doctor, Xray, Assistant",
+    "id": "245148",
+    "order": 210
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Ultrasound",
+    "id": "516757",
+    "order": 211
+  },
+  {
+    "storyId": 21468,
+    "name": "Patient, Sick, Hospital, Covid",
+    "id": "291650",
+    "order": 212
+  },
+  {
+    "storyId": 22902,
+    "name": "Xray, Doctor, Patient, Explaining",
+    "id": "338545",
+    "order": 213
+  },
+  {
+    "storyId": 22902,
+    "name": "Doctor, Patient, Technician, X Ray",
+    "id": "351143",
+    "order": 214
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Expecting, Breathing",
+    "id": "516859",
+    "order": 215
+  },
+  {
+    "storyId": 16566,
+    "name": "Ultrasound, Pregnant, Abdomen, Scan",
+    "id": "144143",
+    "order": 216
+  },
+  {
+    "storyId": 21961,
+    "name": "Cpr Dummy, Cardiac Massage, Cpr Training, Simulation",
+    "id": "309067",
+    "order": 217
+  },
+  {
+    "storyId": 21472,
+    "name": "Doctor, Clipboard, Walking, Corridor",
+    "id": "291786",
+    "order": 218
+  },
+  {
+    "storyId": 29118,
+    "name": "Patient, Muslim, Looking At Camera, Clinic",
+    "id": "527431",
+    "order": 219
+  },
+  {
+    "storyId": 29118,
+    "name": "Dentist, Clinic, Medical Equipment, Doctor",
+    "id": "527395",
+    "order": 220
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255532",
+    "order": 221
+  },
+  {
+    "storyId": 22902,
+    "name": "Radiologist, Xray, Explaining, Patient",
+    "id": "338547",
+    "order": 222
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Hospital, Doctor, Patient",
+    "id": "275262",
+    "order": 223
+  },
+  {
+    "storyId": 20364,
+    "name": "Clinic, Client, Chair, White-Lamps",
+    "id": "255512",
+    "order": 224
+  },
+  {
+    "storyId": 21004,
+    "name": "Mri, Man, Patient, Doctor",
+    "id": "275358",
+    "order": 225
+  },
+  {
+    "storyId": 16566,
+    "name": "Ultrasound, Scan, Pregnant, Excited",
+    "id": "144139",
+    "order": 226
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255590",
+    "order": 227
+  },
+  {
+    "storyId": 28814,
+    "name": "Sonogram, Medical Equipment, Medical Procedure, Ultrasound",
+    "id": "519533",
+    "order": 228
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Breathing, Hospital, Pregnant",
+    "id": "516853",
+    "order": 229
+  },
+  {
+    "storyId": 13739,
+    "name": "cosmetologist preparing a machine for her client",
+    "id": "77185",
+    "order": 230
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Check Up, Hospital",
+    "id": "516863",
+    "order": 231
+  },
+  {
+    "storyId": 30374,
+    "name": "Gastroscopy, Doctor, Patient, Medical Technician",
+    "id": "559995",
+    "order": 232
+  },
+  {
+    "storyId": 18674,
+    "name": "Doctor, General, Practitioner, Gp",
+    "id": "207240",
+    "order": 233
+  },
+  {
+    "storyId": 29118,
+    "name": "Dentist, Clinic, Girl, Patient",
+    "id": "527429",
+    "order": 234
+  },
+  {
+    "storyId": 14702,
+    "name": "veterinarian checking a dog while a woman and boy watches",
+    "id": "98875",
+    "order": 235
+  },
+  {
+    "storyId": 24285,
+    "name": "Hospital, Doctor, Patient, Nurse",
+    "id": "381156",
+    "order": 236
+  },
+  {
+    "storyId": 21468,
+    "name": "Covid, Hospital, Corona, Ward",
+    "id": "291639",
+    "order": 237
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Nurse, Looking, Portrait",
+    "id": "291521",
+    "order": 238
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Ultrasound",
+    "id": "516753",
+    "order": 239
+  },
+  {
+    "storyId": 21472,
+    "name": "Doctor, Tired, Hospital, Sitting",
+    "id": "291800",
+    "order": 240
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Doctor",
+    "id": "516741",
+    "order": 241
+  },
+  {
+    "storyId": 28694,
+    "name": "Medical Equipment, Hospital Bed, Examining, Doctor",
+    "id": "516831",
+    "order": 242
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Dental Clinic, Patient, Surgery",
+    "id": "493606",
+    "order": 243
+  },
+  {
+    "storyId": 27926,
+    "name": "Nurse, Computer Keyboard, Dentist, Dental Clinic",
+    "id": "493614",
+    "order": 244
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Check Up, Hospital",
+    "id": "516864",
+    "order": 245
+  },
+  {
+    "storyId": 18674,
+    "name": "Doctor, Surgeon, Nurse, Consultant",
+    "id": "207226",
+    "order": 246
+  },
+  {
+    "storyId": 16566,
+    "name": "Clinic, Pregnant, Hospital, Ultrasound",
+    "id": "144123",
+    "order": 247
+  },
+  {
+    "storyId": 16566,
+    "name": "Doctor, Ultrasound, Scan, Pregnant",
+    "id": "144140",
+    "order": 248
+  },
+  {
+    "storyId": 20364,
+    "name": "Clinic, White-Lamps, White-Environment, Indoors",
+    "id": "255573",
+    "order": 249
+  },
+  {
+    "storyId": 24592,
+    "name": "Ambulance, Paramedics, Patient, Emergency",
+    "id": "387804",
+    "order": 250
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Fetal Monitor, Check Up",
+    "id": "516858",
+    "order": 251
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516878",
+    "order": 252
+  },
+  {
+    "storyId": 30606,
+    "name": "Doctor, Clinic, Looking At Camera, Hospital",
+    "id": "570366",
+    "order": 253
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255534",
+    "order": 254
+  },
+  {
+    "storyId": 21468,
+    "name": "Sick, Corona, Hospital, Doctors",
+    "id": "291660",
+    "order": 255
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentistry, Tools, Patient, Dentist",
+    "id": "493535",
+    "order": 256
+  },
+  {
+    "storyId": 23855,
+    "name": "Doctor, Visit, Muslim, Xray",
+    "id": "368102",
+    "order": 257
+  },
+  {
+    "storyId": 21496,
+    "name": "Facial, Woman, Beauty Treatment, Photo Therapy",
+    "id": "292581",
+    "order": 258
+  },
+  {
+    "storyId": 13436,
+    "name": "vet stitching dog on table in office",
+    "id": "70147",
+    "order": 259
+  },
+  {
+    "storyId": 22338,
+    "name": "Doctor, Colleague, Talking, Office",
+    "id": "321480",
+    "order": 260
+  },
+  {
+    "storyId": 26772,
+    "name": "Physiotherapy, Physiotherapist, Patient, Knee Stabilizer",
+    "id": "457627",
+    "order": 261
+  },
+  {
+    "storyId": 27980,
+    "name": "Patient, Healthcare, Hospital Bed, Sick",
+    "id": "495463",
+    "order": 262
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Doctor",
+    "id": "516747",
+    "order": 263
+  },
+  {
+    "storyId": 19552,
+    "name": "Hospital, Operation, Surgeon, Patient",
+    "id": "233065",
+    "order": 264
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Monitor, Doctor, Hospital",
+    "id": "275273",
+    "order": 265
+  },
+  {
+    "storyId": 19552,
+    "name": "Hospital, Operation, Surgeon, Patient",
+    "id": "233066",
+    "order": 266
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516873",
+    "order": 267
+  },
+  {
+    "storyId": 30293,
+    "name": "Mri, Scan, Technician, Patient",
+    "id": "560123",
+    "order": 268
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516876",
+    "order": 269
+  },
+  {
+    "storyId": 28695,
+    "name": "Pregnant, Woman, Hospital, Expecting",
+    "id": "516848",
+    "order": 270
+  },
+  {
+    "storyId": 27719,
+    "name": "Man, Old, Patient, Hospital",
+    "id": "486096",
+    "order": 271
+  },
+  {
+    "storyId": 13739,
+    "name": "Cosmetologist looking straight at the camera while doing a facial laser treatment",
+    "id": "77143",
+    "order": 272
+  },
+  {
+    "storyId": 26310,
+    "name": "Dentist, Medical Equipment, Dental Surgery, Patient",
+    "id": "443038",
+    "order": 273
+  },
+  {
+    "storyId": 30172,
+    "name": "Ambu Bag, Cpr, Emergency, Procedure",
+    "id": "560105",
+    "order": 274
+  },
+  {
+    "storyId": 14780,
+    "name": "doctor showing a spine x-ray to a woman indoors",
+    "id": "101013",
+    "order": 275
+  },
+  {
+    "storyId": 27719,
+    "name": "Patient, Man, Lying, Hospital Bed",
+    "id": "486121",
+    "order": 276
+  },
+  {
+    "storyId": 28694,
+    "name": "Hospital Bed, Pregnant, Examining, Pregnancy",
+    "id": "516833",
+    "order": 277
+  },
+  {
+    "storyId": 21468,
+    "name": "Hospital, Isolation, Patient, Corona",
+    "id": "291682",
+    "order": 278
+  },
+  {
+    "storyId": 15412,
+    "name": "people in scrubs washing their hands",
+    "id": "115193",
+    "order": 279
+  },
+  {
+    "storyId": 14702,
+    "name": "doctor looking at a slide from a microscope and working",
+    "id": "98845",
+    "order": 280
+  },
+  {
+    "storyId": 20634,
+    "name": "Dentist, Patient, Dental-Devices, Explaining",
+    "id": "264959",
+    "order": 281
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Stethoscope",
+    "id": "516760",
+    "order": 282
+  },
+  {
+    "storyId": 29118,
+    "name": "Dentist, Patient, Clinic, Women",
+    "id": "527397",
+    "order": 283
+  },
+  {
+    "storyId": 21938,
+    "name": "Wheelchair, Disabled, Succeed, Walking",
+    "id": "308613",
+    "order": 284
+  },
+  {
+    "storyId": 21472,
+    "name": "Hospital, Corridor, Doctors, Tired",
+    "id": "291801",
+    "order": 285
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516874",
+    "order": 286
+  },
+  {
+    "storyId": 28694,
+    "name": "Doctor, Pregnant, Ultrasound, Hospital Bed",
+    "id": "516828",
+    "order": 287
+  },
+  {
+    "storyId": 19552,
+    "name": "Hospital, Operation, Surgeon, Patient",
+    "id": "233112",
+    "order": 288
+  },
+  {
+    "storyId": 28695,
+    "name": "Hands, Holding, Woman, Man",
+    "id": "516872",
+    "order": 289
+  },
+  {
+    "storyId": 21472,
+    "name": "Tired, Doctors, Hospital, Sitting",
+    "id": "291797",
+    "order": 290
+  },
+  {
+    "storyId": 18674,
+    "name": "Waiting, Room, Medical, Health",
+    "id": "207215",
+    "order": 291
+  },
+  {
+    "storyId": 13436,
+    "name": "vet with mask operating on dog on table",
+    "id": "70140",
+    "order": 292
+  },
+  {
+    "storyId": 13436,
+    "name": "vet and assistant talking while operating on dog on table",
+    "id": "70150",
+    "order": 293
+  },
+  {
+    "storyId": 21938,
+    "name": "Patient, Physical Exercise, Nurse, Clinic",
+    "id": "308605",
+    "order": 294
+  },
+  {
+    "storyId": 14544,
+    "name": "person looking at x-rays on a tablet",
+    "id": "93929",
+    "order": 295
+  },
+  {
+    "storyId": 21472,
+    "name": "Doctors, Tired, Hospital, Sitting",
+    "id": "291803",
+    "order": 296
+  },
+  {
+    "storyId": 21459,
+    "name": "Doctor, Surgeon, Surgery, Preparation",
+    "id": "291158",
+    "order": 297
+  },
+  {
+    "storyId": 28694,
+    "name": "Doctor, Diagnosing, Pregnancy, Ultrasound",
+    "id": "516827",
+    "order": 298
+  },
+  {
+    "storyId": 21938,
+    "name": "Rehabilitation, Physiotherapist, Therapy, Wheelchair",
+    "id": "308582",
+    "order": 299
+  },
+  {
+    "storyId": 21938,
+    "name": "Rehabilitation, Physiotherapist, Therapy, Wheelchair",
+    "id": "308584",
+    "order": 300
+  },
+  {
+    "storyId": 26310,
+    "name": "Dentist, Clinic, Medical Equipment, Woman",
+    "id": "443037",
+    "order": 301
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Man, Hospital, Patient",
+    "id": "275217",
+    "order": 302
+  },
+  {
+    "storyId": 21873,
+    "name": "Xray, Roentgen, Diagnosis, Doctor",
+    "id": "305824",
+    "order": 303
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Breathing, Hospital, Pregnant",
+    "id": "516862",
+    "order": 304
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560010",
+    "order": 305
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560012",
+    "order": 306
+  },
+  {
+    "storyId": 14544,
+    "name": "nurse using a tablet as part of a medical exam",
+    "id": "93931",
+    "order": 307
+  },
+  {
+    "storyId": 21468,
+    "name": "Sick, Covid, Hospital, Doctors",
+    "id": "291685",
+    "order": 308
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Microscope, Face Mask, Surgery",
+    "id": "493599",
+    "order": 309
+  },
+  {
+    "storyId": 18674,
+    "name": "Doctor, General, Practitioner, Gp",
+    "id": "207239",
+    "order": 310
+  },
+  {
+    "storyId": 24285,
+    "name": "Hospital, Doctor, Patient, Face Mask",
+    "id": "381160",
+    "order": 311
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255610",
+    "order": 312
+  },
+  {
+    "storyId": 11173,
+    "name": "medical staff working on a patient in surgery ",
+    "id": "31331",
+    "order": 313
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Dental Clinic, Nurse, Surgery",
+    "id": "493540",
+    "order": 314
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Clinic, Video Call, Explaining",
+    "id": "291490",
+    "order": 315
+  },
+  {
+    "storyId": 24285,
+    "name": "Hospital, Doctor, Patient, Face Mask",
+    "id": "381159",
+    "order": 316
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Doctor",
+    "id": "516745",
+    "order": 317
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516839",
+    "order": 318
+  },
+  {
+    "storyId": 19552,
+    "name": "Hospital, Operation, Surgeon, Patient",
+    "id": "233069",
+    "order": 319
+  },
+  {
+    "storyId": 16566,
+    "name": "Ultrasound, Scan, Screen, Clinic",
+    "id": "144152",
+    "order": 320
+  },
+  {
+    "storyId": 29118,
+    "name": "Dentist, Patient, Clinic, Women",
+    "id": "527397",
+    "order": 350
+  },
+  {
+    "storyId": 21938,
+    "name": "Wheelchair, Disabled, Succeed, Walking",
+    "id": "308613",
+    "order": 351
+  },
+  {
+    "storyId": 21472,
+    "name": "Hospital, Corridor, Doctors, Tired",
+    "id": "291801",
+    "order": 352
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516874",
+    "order": 353
+  },
+  {
+    "storyId": 28694,
+    "name": "Doctor, Pregnant, Ultrasound, Hospital Bed",
+    "id": "516828",
+    "order": 354
+  },
+  {
+    "storyId": 19552,
+    "name": "Hospital, Operation, Surgeon, Patient",
+    "id": "233112",
+    "order": 355
+  },
+  {
+    "storyId": 21497,
+    "name": "Hairdresser, Profession, Woman, Hair",
+    "id": "292580",
+    "order": 356
+  },
+  {
+    "storyId": 28695,
+    "name": "Hands, Holding, Woman, Man",
+    "id": "516872",
+    "order": 357
+  },
+  {
+    "storyId": 21472,
+    "name": "Tired, Doctors, Hospital, Sitting",
+    "id": "291797",
+    "order": 358
+  },
+  {
+    "storyId": 18674,
+    "name": "Waiting, Room, Medical, Health",
+    "id": "207215",
+    "order": 359
+  },
+  {
+    "storyId": 21456,
+    "name": "Woman, Pregnant, Home, Relaxing",
+    "id": "291118",
+    "order": 360
+  },
+  {
+    "storyId": 17863,
+    "name": "light on black background ",
+    "id": "179770",
+    "order": 361
+  },
+  {
+    "storyId": 13436,
+    "name": "vet with mask operating on dog on table",
+    "id": "70140",
+    "order": 362
+  },
+  {
+    "storyId": 13436,
+    "name": "vet and assistant talking while operating on dog on table",
+    "id": "70150",
+    "order": 363
+  },
+  {
+    "storyId": 21938,
+    "name": "Patient, Physical Exercise, Nurse, Clinic",
+    "id": "308605",
+    "order": 364
+  },
+  {
+    "storyId": 14544,
+    "name": "person looking at x-rays on a tablet",
+    "id": "93929",
+    "order": 365
+  },
+  {
+    "storyId": 21472,
+    "name": "Doctors, Tired, Hospital, Sitting",
+    "id": "291803",
+    "order": 366
+  },
+  {
+    "storyId": 20469,
+    "name": "Man, Patient, Hospital, Cancer",
+    "id": "259868",
+    "order": 367
+  },
+  {
+    "storyId": 16876,
+    "name": "hospital staff walking down a corridor in a hospital while discussing a tablet display",
+    "id": "154091",
+    "order": 368
+  },
+  {
+    "storyId": 21459,
+    "name": "Doctor, Surgeon, Surgery, Preparation",
+    "id": "291158",
+    "order": 369
+  },
+  {
+    "storyId": 28694,
+    "name": "Doctor, Diagnosing, Pregnancy, Ultrasound",
+    "id": "516827",
+    "order": 370
+  },
+  {
+    "storyId": 21938,
+    "name": "Rehabilitation, Physiotherapist, Therapy, Wheelchair",
+    "id": "308582",
+    "order": 371
+  },
+  {
+    "storyId": 16876,
+    "name": "hospital staff walking down a hallway in a hospital while discussing a tablet display",
+    "id": "154090",
+    "order": 372
+  },
+  {
+    "storyId": 21938,
+    "name": "Rehabilitation, Physiotherapist, Therapy, Wheelchair",
+    "id": "308584",
+    "order": 373
+  },
+  {
+    "storyId": 26310,
+    "name": "Dentist, Clinic, Medical Equipment, Woman",
+    "id": "443037",
+    "order": 374
+  },
+  {
+    "storyId": 11538,
+    "name": "large cooking pot drawer in kitchen slides shut",
+    "id": "38268",
+    "order": 375
+  },
+  {
+    "storyId": 21000,
+    "name": "Ct, Man, Hospital, Patient",
+    "id": "275217",
+    "order": 376
+  },
+  {
+    "storyId": 21873,
+    "name": "Xray, Roentgen, Diagnosis, Doctor",
+    "id": "305824",
+    "order": 377
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Breathing, Hospital, Pregnant",
+    "id": "516862",
+    "order": 378
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560010",
+    "order": 379
+  },
+  {
+    "storyId": 30321,
+    "name": "Pregnancy Ultrasound, Examination, Technition, Pregnancy",
+    "id": "560012",
+    "order": 380
+  },
+  {
+    "storyId": 14544,
+    "name": "nurse using a tablet as part of a medical exam",
+    "id": "93931",
+    "order": 381
+  },
+  {
+    "storyId": 21468,
+    "name": "Sick, Covid, Hospital, Doctors",
+    "id": "291685",
+    "order": 382
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Microscope, Face Mask, Surgery",
+    "id": "493599",
+    "order": 383
+  },
+  {
+    "storyId": 18674,
+    "name": "Doctor, General, Practitioner, Gp",
+    "id": "207239",
+    "order": 384
+  },
+  {
+    "storyId": 24285,
+    "name": "Hospital, Doctor, Patient, Face Mask",
+    "id": "381160",
+    "order": 385
+  },
+  {
+    "storyId": 20364,
+    "name": "Woman, Man, Doctor, Clinic",
+    "id": "255610",
+    "order": 386
+  },
+  {
+    "storyId": 11173,
+    "name": "medical staff working on a patient in surgery ",
+    "id": "31331",
+    "order": 387
+  },
+  {
+    "storyId": 27926,
+    "name": "Dentist, Dental Clinic, Nurse, Surgery",
+    "id": "493540",
+    "order": 388
+  },
+  {
+    "storyId": 21464,
+    "name": "Doctor, Clinic, Video Call, Explaining",
+    "id": "291490",
+    "order": 389
+  },
+  {
+    "storyId": 15452,
+    "name": "person looking into a microscope while wearing protective gear ",
+    "id": "116183",
+    "order": 390
+  },
+  {
+    "storyId": 24285,
+    "name": "Hospital, Doctor, Patient, Face Mask",
+    "id": "381159",
+    "order": 391
+  },
+  {
+    "storyId": 18030,
+    "name": "doctor holding an x-ray to a patient",
+    "id": "185919",
+    "order": 392
+  },
+  {
+    "storyId": 28690,
+    "name": "Clinic, Pregnant, Gynecologist, Doctor",
+    "id": "516745",
+    "order": 393
+  },
+  {
+    "storyId": 19205,
+    "name": "gy_2",
+    "id": "223974",
+    "order": 394
+  },
+  {
+    "storyId": 16038,
+    "name": "welder wearing a face-mask while welding ",
+    "id": "129422",
+    "order": 395
+  },
+  {
+    "storyId": 28695,
+    "name": "Woman, Pregnant, Expecting, Hospital",
+    "id": "516839",
+    "order": 396
+  },
+  {
+    "storyId": 19552,
+    "name": "Hospital, Operation, Surgeon, Patient",
+    "id": "233069",
+    "order": 397
+  },
+  {
+    "storyId": 16566,
+    "name": "Ultrasound, Scan, Screen, Clinic",
+    "id": "144152",
+    "order": 398
+  }
+]

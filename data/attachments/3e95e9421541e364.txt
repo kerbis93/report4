@@ -1,0 +1,62 @@
+[
+  {
+    "query": "discussion between husband and wife",
+    "id": "52868",
+    "storyId": "12312",
+    "autoRank": "0.35275585549829436"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "495115",
+    "storyId": "27971",
+    "autoRank": "0.34616160860862272"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "574256",
+    "storyId": "30759",
+    "autoRank": "0.34612167217683437"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "110765",
+    "storyId": "15215",
+    "autoRank": "0.34608638759303695"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "520132",
+    "storyId": "28830",
+    "autoRank": "0.34143148652356264"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "428870",
+    "storyId": "25873",
+    "autoRank": "0.34102752360798289"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "290849",
+    "storyId": "21453",
+    "autoRank": "0.340930870375445"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "115987",
+    "storyId": "15444",
+    "autoRank": "0.33996043966474482"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "398667",
+    "storyId": "24885",
+    "autoRank": "0.33985133001895534"
+  },
+  {
+    "query": "discussion between husband and wife",
+    "id": "105602",
+    "storyId": "14967",
+    "autoRank": "0.33939765674283207"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "query": "conspiracy",
+    "id": "407887",
+    "storyId": "25175",
+    "autoRank": "0.32816651678185421"
+  },
+  {
+    "query": "conspiracy",
+    "id": "113366",
+    "storyId": "15323",
+    "autoRank": "0.32497842957087741"
+  },
+  {
+    "query": "conspiracy",
+    "id": "266643",
+    "storyId": "20679",
+    "autoRank": "0.32274577524563652"
+  },
+  {
+    "query": "conspiracy",
+    "id": "32518",
+    "storyId": "11256",
+    "autoRank": "0.32226419614893126"
+  },
+  {
+    "query": "conspiracy",
+    "id": "407864",
+    "storyId": "25175",
+    "autoRank": "0.32194839287256355"
+  },
+  {
+    "query": "conspiracy",
+    "id": "266637",
+    "storyId": "20679",
+    "autoRank": "0.32095362876696082"
+  },
+  {
+    "query": "conspiracy",
+    "id": "337264",
+    "storyId": "22867",
+    "autoRank": "0.319863650610497"
+  },
+  {
+    "query": "conspiracy",
+    "id": "437272",
+    "storyId": "26131",
+    "autoRank": "0.31851969466919727"
+  },
+  {
+    "query": "conspiracy",
+    "id": "97702",
+    "storyId": "14653",
+    "autoRank": "0.31843787024239523"
+  },
+  {
+    "query": "conspiracy",
+    "id": "111728",
+    "storyId": "15253",
+    "autoRank": "0.31832224070685167"
+  }
+]

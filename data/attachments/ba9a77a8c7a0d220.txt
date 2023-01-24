@@ -1,0 +1,62 @@
+[
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "230164",
+    "storyId": "19438",
+    "autoRank": "0.33678931410892876"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "117667",
+    "storyId": "15516",
+    "autoRank": "0.33485342814302466"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "573882",
+    "storyId": "30735",
+    "autoRank": "0.33387599124997436"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "230143",
+    "storyId": "19438",
+    "autoRank": "0.33045541791091088"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "230145",
+    "storyId": "19438",
+    "autoRank": "0.3303710040676075"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "230160",
+    "storyId": "19438",
+    "autoRank": "0.32986818581740085"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "230103",
+    "storyId": "19438",
+    "autoRank": "0.32981530514899088"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "573881",
+    "storyId": "30735",
+    "autoRank": "0.32954601707946679"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "230035",
+    "storyId": "19438",
+    "autoRank": "0.32671263472920148"
+  },
+  {
+    "query": "anarchy gang violence teenagers balaclava riot fight",
+    "id": "230144",
+    "storyId": "19438",
+    "autoRank": "0.32589334979812157"
+  }
+]

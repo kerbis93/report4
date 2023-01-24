@@ -1,0 +1,8 @@
+[
+  {
+    "query": "staircase step up",
+    "id": "33061",
+    "storyId": "11278",
+    "autoRank": "0.33662862102474195"
+  }
+]

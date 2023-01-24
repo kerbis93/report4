@@ -1,0 +1,62 @@
+[
+  {
+    "query": "pattern",
+    "id": "469131",
+    "storyId": "27124",
+    "autoRank": "0.41091462452201721"
+  },
+  {
+    "query": "pattern",
+    "id": "58426",
+    "storyId": "12644",
+    "autoRank": "0.40999292050720537"
+  },
+  {
+    "query": "pattern",
+    "id": "58412",
+    "storyId": "12644",
+    "autoRank": "0.40987330923025966"
+  },
+  {
+    "query": "pattern",
+    "id": "460144",
+    "storyId": "26851",
+    "autoRank": "0.40677559207528213"
+  },
+  {
+    "query": "pattern",
+    "id": "331646",
+    "storyId": "22665",
+    "autoRank": "0.4031159704611943"
+  },
+  {
+    "query": "pattern",
+    "id": "571701",
+    "storyId": "30648",
+    "autoRank": "0.40221462142676473"
+  },
+  {
+    "query": "pattern",
+    "id": "405201",
+    "storyId": "25100",
+    "autoRank": "0.40212255937558194"
+  },
+  {
+    "query": "pattern",
+    "id": "571704",
+    "storyId": "30648",
+    "autoRank": "0.40162524864639776"
+  },
+  {
+    "query": "pattern",
+    "id": "557652",
+    "storyId": "30077",
+    "autoRank": "0.40136760478521927"
+  },
+  {
+    "query": "pattern",
+    "id": "235730",
+    "storyId": "19618",
+    "autoRank": "0.40031591901500851"
+  }
+]
