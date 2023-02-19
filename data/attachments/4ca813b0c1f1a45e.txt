@@ -1,0 +1,26 @@
+[
+  {
+    "query": "entrepreneurship",
+    "id": "520219",
+    "storyId": "28832",
+    "autoRank": "0.31319069814521333"
+  },
+  {
+    "query": "entrepreneurship",
+    "id": "520450",
+    "storyId": "28838",
+    "autoRank": "0.31188429281863811"
+  },
+  {
+    "query": "entrepreneurship",
+    "id": "520449",
+    "storyId": "28838",
+    "autoRank": "0.31117892996763358"
+  },
+  {
+    "query": "entrepreneurship",
+    "id": "520441",
+    "storyId": "28838",
+    "autoRank": "0.31031859582649662"
+  }
+]

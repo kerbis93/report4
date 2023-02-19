@@ -1,8 +1,0 @@
-[
-  {
-    "query": "screen medical info doctor",
-    "id": "570345",
-    "storyId": "30606",
-    "autoRank": "0.34648109518483439"
-  }
-]

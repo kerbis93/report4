@@ -1,0 +1,32 @@
+[
+  {
+    "query": "temperature weather data mobile customer",
+    "id": "548073",
+    "storyId": "29823",
+    "autoRank": "0.32876606107343082"
+  },
+  {
+    "query": "temperature weather data mobile customer",
+    "id": "576206",
+    "storyId": "30841",
+    "autoRank": "0.32825314542450729"
+  },
+  {
+    "query": "temperature weather data mobile customer",
+    "id": "576208",
+    "storyId": "30841",
+    "autoRank": "0.32746894594906273"
+  },
+  {
+    "query": "temperature weather data mobile customer",
+    "id": "557806",
+    "storyId": "30081",
+    "autoRank": "0.3273136868148232"
+  },
+  {
+    "query": "temperature weather data mobile customer",
+    "id": "538792",
+    "storyId": "29545",
+    "autoRank": "0.32631883776967691"
+  }
+]

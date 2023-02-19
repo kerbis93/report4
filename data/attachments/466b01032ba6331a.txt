@@ -1,0 +1,2402 @@
+[
+  {
+    "storyId": 17501,
+    "name": "quick moving glitch effect",
+    "id": "170569",
+    "order": 0
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427760",
+    "order": 1
+  },
+  {
+    "storyId": 18066,
+    "name": "circle flashing on a broken screen ",
+    "id": "187333",
+    "order": 2
+  },
+  {
+    "storyId": 18097,
+    "name": "rapid images and colors ",
+    "id": "178650",
+    "order": 3
+  },
+  {
+    "storyId": 15634,
+    "name": "distorted colorful images coming from a broken screen ",
+    "id": "120462",
+    "order": 4
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453956",
+    "order": 5
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453961",
+    "order": 6
+  },
+  {
+    "storyId": 18066,
+    "name": "grid flashing on a screen ",
+    "id": "187341",
+    "order": 7
+  },
+  {
+    "storyId": 15634,
+    "name": "distorted images coming from a broken screen with lines ",
+    "id": "120461",
+    "order": 8
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Vhs",
+    "id": "427718",
+    "order": 9
+  },
+  {
+    "storyId": 15634,
+    "name": "distorted images coming from a broken screen",
+    "id": "120460",
+    "order": 10
+  },
+  {
+    "storyId": 18066,
+    "name": "picture of a man flashing on a glitchy screen ",
+    "id": "187352",
+    "order": 11
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234982",
+    "order": 12
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427719",
+    "order": 13
+  },
+  {
+    "storyId": 17796,
+    "name": "light and colors flashing on a broken screen ",
+    "id": "178619",
+    "order": 14
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331799",
+    "order": 15
+  },
+  {
+    "storyId": 17794,
+    "name": "grid flashing on a broken screen ",
+    "id": "178508",
+    "order": 16
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427789",
+    "order": 17
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427746",
+    "order": 18
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212038",
+    "order": 19
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427797",
+    "order": 20
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453960",
+    "order": 21
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453954",
+    "order": 22
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331801",
+    "order": 23
+  },
+  {
+    "storyId": 22870,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "337329",
+    "order": 24
+  },
+  {
+    "storyId": 18066,
+    "name": "colorful waves on a cracked screen ",
+    "id": "187329",
+    "order": 25
+  },
+  {
+    "storyId": 18066,
+    "name": "broken screen flashing images ",
+    "id": "187334",
+    "order": 26
+  },
+  {
+    "storyId": 18066,
+    "name": "colorful patterns on a screen ",
+    "id": "187325",
+    "order": 27
+  },
+  {
+    "storyId": 18065,
+    "name": "the word \"play\" distorted on a broken screen ",
+    "id": "187311",
+    "order": 28
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427776",
+    "order": 29
+  },
+  {
+    "storyId": 22870,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "337332",
+    "order": 30
+  },
+  {
+    "storyId": 18066,
+    "name": "circle and static flashing on a screen ",
+    "id": "187332",
+    "order": 31
+  },
+  {
+    "storyId": 18066,
+    "name": "white and black images on a screen ",
+    "id": "187361",
+    "order": 32
+  },
+  {
+    "storyId": 18097,
+    "name": "broken screen images ",
+    "id": "178635",
+    "order": 33
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476171",
+    "order": 34
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331791",
+    "order": 35
+  },
+  {
+    "storyId": 18066,
+    "name": "circle expanding on a screen ",
+    "id": "187348",
+    "order": 36
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234986",
+    "order": 37
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416904",
+    "order": 38
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427721",
+    "order": 39
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234977",
+    "order": 40
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427757",
+    "order": 41
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Vhs",
+    "id": "427711",
+    "order": 42
+  },
+  {
+    "storyId": 17501,
+    "name": "static glitch effect moving left to right",
+    "id": "170559",
+    "order": 43
+  },
+  {
+    "storyId": 18066,
+    "name": "cracked screen ",
+    "id": "187328",
+    "order": 44
+  },
+  {
+    "storyId": 18066,
+    "name": "patterns and colors flashing on a screen",
+    "id": "187323",
+    "order": 45
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236894",
+    "order": 46
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209276",
+    "order": 47
+  },
+  {
+    "storyId": 15634,
+    "name": "broken screen showing lines ",
+    "id": "120459",
+    "order": 48
+  },
+  {
+    "storyId": 18097,
+    "name": "broken screen with colorful images ",
+    "id": "178642",
+    "order": 49
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Shapes",
+    "id": "427788",
+    "order": 50
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453953",
+    "order": 51
+  },
+  {
+    "storyId": 18097,
+    "name": "broken screen ",
+    "id": "178621",
+    "order": 52
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427777",
+    "order": 53
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427753",
+    "order": 54
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427726",
+    "order": 55
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Vhs",
+    "id": "427709",
+    "order": 56
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427744",
+    "order": 57
+  },
+  {
+    "storyId": 18066,
+    "name": "patterns flashing on a screen ",
+    "id": "187359",
+    "order": 58
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209272",
+    "order": 59
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted shapes flashing ",
+    "id": "178666",
+    "order": 60
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427765",
+    "order": 61
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337285",
+    "order": 62
+  },
+  {
+    "storyId": 15634,
+    "name": "broken screen with images distorted in the background",
+    "id": "120457",
+    "order": 63
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453951",
+    "order": 64
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427770",
+    "order": 65
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476170",
+    "order": 66
+  },
+  {
+    "storyId": 17501,
+    "name": "fast moving glitch effect",
+    "id": "170571",
+    "order": 67
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212012",
+    "order": 68
+  },
+  {
+    "storyId": 17794,
+    "name": "ball flashing on a broken screen ",
+    "id": "178501",
+    "order": 69
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427723",
+    "order": 70
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212039",
+    "order": 71
+  },
+  {
+    "storyId": 18066,
+    "name": "broken screen ",
+    "id": "187362",
+    "order": 72
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212037",
+    "order": 73
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453955",
+    "order": 74
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, White",
+    "id": "427706",
+    "order": 75
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427749",
+    "order": 76
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212041",
+    "order": 77
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234987",
+    "order": 78
+  },
+  {
+    "storyId": 18066,
+    "name": "colorful images on a broken screen ",
+    "id": "187330",
+    "order": 79
+  },
+  {
+    "storyId": 18066,
+    "name": "green boxes and shapes flashing on a broken screen ",
+    "id": "187358",
+    "order": 80
+  },
+  {
+    "storyId": 18066,
+    "name": "black and green lines on a screen ",
+    "id": "187343",
+    "order": 81
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427773",
+    "order": 82
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427740",
+    "order": 83
+  },
+  {
+    "storyId": 18066,
+    "name": "purple and black grid flashing on a screen ",
+    "id": "187337",
+    "order": 84
+  },
+  {
+    "storyId": 17796,
+    "name": "static and lines on a screen ",
+    "id": "178605",
+    "order": 85
+  },
+  {
+    "storyId": 18097,
+    "name": "broken screen with glitches ",
+    "id": "178646",
+    "order": 86
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331802",
+    "order": 87
+  },
+  {
+    "storyId": 15634,
+    "name": "broken screen with lines ",
+    "id": "120455",
+    "order": 88
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337279",
+    "order": 89
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted images on a screen ",
+    "id": "178638",
+    "order": 90
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337282",
+    "order": 91
+  },
+  {
+    "storyId": 18097,
+    "name": "lines and shapes moving on a screen ",
+    "id": "178680",
+    "order": 92
+  },
+  {
+    "storyId": 17796,
+    "name": "lines moving on a broken screen ",
+    "id": "178600",
+    "order": 93
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416907",
+    "order": 94
+  },
+  {
+    "storyId": 17501,
+    "name": "glitch effect moving from left to right",
+    "id": "170557",
+    "order": 95
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427724",
+    "order": 96
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331814",
+    "order": 97
+  },
+  {
+    "storyId": 17794,
+    "name": "the words \"danger\" and \"covid-19\" flashing on a screen",
+    "id": "178492",
+    "order": 98
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337284",
+    "order": 99
+  },
+  {
+    "storyId": 17794,
+    "name": "flashing images on a broken screen ",
+    "id": "178548",
+    "order": 100
+  },
+  {
+    "storyId": 15634,
+    "name": "broken screen with distorted images ",
+    "id": "120456",
+    "order": 101
+  },
+  {
+    "storyId": 18097,
+    "name": "static appearing on a glitchy screen ",
+    "id": "178631",
+    "order": 102
+  },
+  {
+    "storyId": 17794,
+    "name": "\"danger\" flashing on a screen ",
+    "id": "178483",
+    "order": 103
+  },
+  {
+    "storyId": 17501,
+    "name": "quick moving glitch effect",
+    "id": "170551",
+    "order": 104
+  },
+  {
+    "storyId": 18097,
+    "name": "flashing colors and shapes ",
+    "id": "178653",
+    "order": 105
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427766",
+    "order": 106
+  },
+  {
+    "storyId": 18097,
+    "name": "broken screen with glitches ",
+    "id": "178623",
+    "order": 107
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416901",
+    "order": 108
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416917",
+    "order": 109
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212007",
+    "order": 110
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427775",
+    "order": 111
+  },
+  {
+    "storyId": 15634,
+    "name": "broken screen showing distorted images ",
+    "id": "120458",
+    "order": 112
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453958",
+    "order": 113
+  },
+  {
+    "storyId": 18066,
+    "name": "patterns flashing on a screen ",
+    "id": "187317",
+    "order": 114
+  },
+  {
+    "storyId": 17794,
+    "name": "images flashing on a screen ",
+    "id": "178476",
+    "order": 115
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453952",
+    "order": 116
+  },
+  {
+    "storyId": 18066,
+    "name": "colors and images flashing on a screen ",
+    "id": "187363",
+    "order": 117
+  },
+  {
+    "storyId": 18066,
+    "name": "patterns and shapes moving on a screen ",
+    "id": "187355",
+    "order": 118
+  },
+  {
+    "storyId": 17794,
+    "name": "ball of light on a broken screen ",
+    "id": "178499",
+    "order": 119
+  },
+  {
+    "storyId": 17501,
+    "name": "quick moving static noise glitch effect",
+    "id": "170556",
+    "order": 120
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427771",
+    "order": 121
+  },
+  {
+    "storyId": 18097,
+    "name": "damaged and broken screen ",
+    "id": "178625",
+    "order": 122
+  },
+  {
+    "storyId": 18097,
+    "name": "colorful lights flashing on a broken screen ",
+    "id": "178672",
+    "order": 123
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476167",
+    "order": 124
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212009",
+    "order": 125
+  },
+  {
+    "storyId": 17501,
+    "name": "glitch effect",
+    "id": "170537",
+    "order": 126
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234984",
+    "order": 127
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331789",
+    "order": 128
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted colorful shapes flashing ",
+    "id": "178662",
+    "order": 129
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453957",
+    "order": 130
+  },
+  {
+    "storyId": 22870,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "337335",
+    "order": 131
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337281",
+    "order": 132
+  },
+  {
+    "storyId": 18066,
+    "name": "static and interference on a screen ",
+    "id": "187353",
+    "order": 133
+  },
+  {
+    "storyId": 18066,
+    "name": "picture of a man on a screen",
+    "id": "187350",
+    "order": 134
+  },
+  {
+    "storyId": 17794,
+    "name": "the word \"loading\" flashing on a grid on a broken screen ",
+    "id": "178515",
+    "order": 135
+  },
+  {
+    "storyId": 17794,
+    "name": "ball moving on a broken screen ",
+    "id": "178500",
+    "order": 136
+  },
+  {
+    "storyId": 18097,
+    "name": "repeating glitchy images on a broken screen ",
+    "id": "178640",
+    "order": 137
+  },
+  {
+    "storyId": 18066,
+    "name": "patterns flashing on a broken screen ",
+    "id": "187318",
+    "order": 138
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476166",
+    "order": 139
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234978",
+    "order": 140
+  },
+  {
+    "storyId": 17501,
+    "name": "static glitch effect",
+    "id": "170547",
+    "order": 141
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337272",
+    "order": 142
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427790",
+    "order": 143
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234980",
+    "order": 144
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427755",
+    "order": 145
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212018",
+    "order": 146
+  },
+  {
+    "storyId": 18097,
+    "name": "colorful lines moving and flashing on a screen ",
+    "id": "178679",
+    "order": 147
+  },
+  {
+    "storyId": 17796,
+    "name": "purple shapes moving on a screen ",
+    "id": "178583",
+    "order": 148
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427743",
+    "order": 149
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476168",
+    "order": 150
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427758",
+    "order": 151
+  },
+  {
+    "storyId": 17796,
+    "name": "colorful lines moving ",
+    "id": "178602",
+    "order": 152
+  },
+  {
+    "storyId": 17501,
+    "name": "fast moving glitch effect from right to left",
+    "id": "170563",
+    "order": 153
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337278",
+    "order": 154
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427802",
+    "order": 155
+  },
+  {
+    "storyId": 17796,
+    "name": "glitchy screen with moving shapes ",
+    "id": "178591",
+    "order": 156
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212042",
+    "order": 157
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331792",
+    "order": 158
+  },
+  {
+    "storyId": 18140,
+    "name": "Words, Texture, Glitch, Text",
+    "id": "190645",
+    "order": 159
+  },
+  {
+    "storyId": 18150,
+    "name": "Words, Text, Font, Written",
+    "id": "192101",
+    "order": 160
+  },
+  {
+    "storyId": 17796,
+    "name": "red and green light flashing ",
+    "id": "178612",
+    "order": 161
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337277",
+    "order": 162
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427752",
+    "order": 163
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416910",
+    "order": 164
+  },
+  {
+    "storyId": 18097,
+    "name": "shapes flashing on a screen ",
+    "id": "178656",
+    "order": 165
+  },
+  {
+    "storyId": 18097,
+    "name": "glitchy broken screen ",
+    "id": "178622",
+    "order": 166
+  },
+  {
+    "storyId": 22869,
+    "name": "Light, Flash, Blue, Quick",
+    "id": "337295",
+    "order": 167
+  },
+  {
+    "storyId": 26641,
+    "name": "Noise, Glitch, Tv Noise, Interference",
+    "id": "453959",
+    "order": 168
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427763",
+    "order": 169
+  },
+  {
+    "storyId": 18066,
+    "name": "circle flashing on a screen ",
+    "id": "187331",
+    "order": 170
+  },
+  {
+    "storyId": 17501,
+    "name": "lined glitch effect",
+    "id": "170549",
+    "order": 171
+  },
+  {
+    "storyId": 18097,
+    "name": "glitchy patterns on a screen ",
+    "id": "178627",
+    "order": 172
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416902",
+    "order": 173
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212024",
+    "order": 174
+  },
+  {
+    "storyId": 18066,
+    "name": "pink and black grid flashing on a screen ",
+    "id": "187342",
+    "order": 175
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476176",
+    "order": 176
+  },
+  {
+    "storyId": 17796,
+    "name": "blue screen of doom ",
+    "id": "178598",
+    "order": 177
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Circle",
+    "id": "427801",
+    "order": 178
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427772",
+    "order": 179
+  },
+  {
+    "storyId": 18066,
+    "name": "colors flashing on a screen",
+    "id": "187345",
+    "order": 180
+  },
+  {
+    "storyId": 17501,
+    "name": "fat moving glitch effect",
+    "id": "170565",
+    "order": 181
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234988",
+    "order": 182
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234983",
+    "order": 183
+  },
+  {
+    "storyId": 18066,
+    "name": "flashing patterns on a broken screen ",
+    "id": "187322",
+    "order": 184
+  },
+  {
+    "storyId": 18097,
+    "name": "rapidly changing images ",
+    "id": "178649",
+    "order": 185
+  },
+  {
+    "storyId": 17796,
+    "name": "red light expanding on a screen ",
+    "id": "178618",
+    "order": 186
+  },
+  {
+    "storyId": 17796,
+    "name": "black and white light flashing on a screen ",
+    "id": "178614",
+    "order": 187
+  },
+  {
+    "storyId": 18097,
+    "name": "static on a damaged screen ",
+    "id": "178633",
+    "order": 188
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236891",
+    "order": 189
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416934",
+    "order": 190
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427792",
+    "order": 191
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427791",
+    "order": 192
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427728",
+    "order": 193
+  },
+  {
+    "storyId": 18097,
+    "name": "broken and damaged screen ",
+    "id": "178626",
+    "order": 194
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331819",
+    "order": 195
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212035",
+    "order": 196
+  },
+  {
+    "storyId": 18066,
+    "name": "lines moving on a screen ",
+    "id": "187320",
+    "order": 197
+  },
+  {
+    "storyId": 17794,
+    "name": "warped and broken screen",
+    "id": "178543",
+    "order": 198
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212006",
+    "order": 199
+  },
+  {
+    "storyId": 18066,
+    "name": "patterns moving on a screen ",
+    "id": "187319",
+    "order": 200
+  },
+  {
+    "storyId": 17501,
+    "name": "strobe glitch effect ",
+    "id": "170548",
+    "order": 201
+  },
+  {
+    "storyId": 18066,
+    "name": "grid and circle flashing on a screen",
+    "id": "187346",
+    "order": 202
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331820",
+    "order": 203
+  },
+  {
+    "storyId": 17796,
+    "name": "boxes moving on a screen ",
+    "id": "178595",
+    "order": 204
+  },
+  {
+    "storyId": 18097,
+    "name": "repetitive flashing colors ",
+    "id": "178651",
+    "order": 205
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212019",
+    "order": 206
+  },
+  {
+    "storyId": 18097,
+    "name": "lines moving on a screen ",
+    "id": "178676",
+    "order": 207
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212043",
+    "order": 208
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331822",
+    "order": 209
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416924",
+    "order": 210
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416921",
+    "order": 211
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212017",
+    "order": 212
+  },
+  {
+    "storyId": 18066,
+    "name": "colorful patterns flashing on a screen ",
+    "id": "187326",
+    "order": 213
+  },
+  {
+    "storyId": 17796,
+    "name": "picture moving around on a broken screen ",
+    "id": "178617",
+    "order": 214
+  },
+  {
+    "storyId": 18097,
+    "name": "broken screen ",
+    "id": "178634",
+    "order": 215
+  },
+  {
+    "storyId": 22870,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "337336",
+    "order": 216
+  },
+  {
+    "storyId": 17796,
+    "name": "wavy lines on a screen ",
+    "id": "178586",
+    "order": 217
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted colorful shapes flashing on a screen ",
+    "id": "178661",
+    "order": 218
+  },
+  {
+    "storyId": 17794,
+    "name": "grid on a broken screen ",
+    "id": "178507",
+    "order": 219
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Circle",
+    "id": "427796",
+    "order": 220
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427798",
+    "order": 221
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212027",
+    "order": 222
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209278",
+    "order": 223
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Vhs",
+    "id": "427729",
+    "order": 224
+  },
+  {
+    "storyId": 17796,
+    "name": "colorful boxes on a screen ",
+    "id": "178596",
+    "order": 225
+  },
+  {
+    "storyId": 22869,
+    "name": "Light, Flash, Blue, Quick",
+    "id": "337320",
+    "order": 226
+  },
+  {
+    "storyId": 17501,
+    "name": "snowy glitch effect",
+    "id": "170553",
+    "order": 227
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212008",
+    "order": 228
+  },
+  {
+    "storyId": 17794,
+    "name": "illustration of a person inside of a flashing circle and then warning signs on a broken screen ",
+    "id": "178556",
+    "order": 229
+  },
+  {
+    "storyId": 19696,
+    "name": "Overlay, Effect, Film, Glitch",
+    "id": "236828",
+    "order": 230
+  },
+  {
+    "storyId": 18097,
+    "name": "rainbow lights flashing ",
+    "id": "178673",
+    "order": 231
+  },
+  {
+    "storyId": 17794,
+    "name": "\"loading\" flashing on a glitchy screen ",
+    "id": "178510",
+    "order": 232
+  },
+  {
+    "storyId": 17794,
+    "name": "\"play\" flashing on a broken screen ",
+    "id": "178533",
+    "order": 233
+  },
+  {
+    "storyId": 17796,
+    "name": "shapes moving on a screen ",
+    "id": "178582",
+    "order": 234
+  },
+  {
+    "storyId": 18066,
+    "name": "colors flashing on a screen ",
+    "id": "187351",
+    "order": 235
+  },
+  {
+    "storyId": 27664,
+    "name": "Noise, Screen, Distortion, Glitch",
+    "id": "484406",
+    "order": 236
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212020",
+    "order": 237
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209274",
+    "order": 238
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236892",
+    "order": 239
+  },
+  {
+    "storyId": 18066,
+    "name": "colorful lines moving on a broken screen ",
+    "id": "187354",
+    "order": 240
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted shapes flashing ",
+    "id": "178658",
+    "order": 241
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476175",
+    "order": 242
+  },
+  {
+    "storyId": 27402,
+    "name": "Light Leak, Glitch, Multi Color, Circles",
+    "id": "476522",
+    "order": 243
+  },
+  {
+    "storyId": 18066,
+    "name": "lines moving and flashing on a screen ",
+    "id": "187321",
+    "order": 244
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427714",
+    "order": 245
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337280",
+    "order": 246
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331817",
+    "order": 247
+  },
+  {
+    "storyId": 22869,
+    "name": "Light, Flash, Blue, Quick",
+    "id": "337305",
+    "order": 248
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427756",
+    "order": 249
+  },
+  {
+    "storyId": 17796,
+    "name": "colorful line moving on a screen",
+    "id": "178610",
+    "order": 250
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427738",
+    "order": 251
+  },
+  {
+    "storyId": 18097,
+    "name": "broken screen with distorted images ",
+    "id": "178643",
+    "order": 252
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337269",
+    "order": 253
+  },
+  {
+    "storyId": 22869,
+    "name": "Light, Flash, Blue, Quick",
+    "id": "337293",
+    "order": 254
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212036",
+    "order": 255
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212040",
+    "order": 256
+  },
+  {
+    "storyId": 18097,
+    "name": "images flashing on a broken screen ",
+    "id": "178652",
+    "order": 257
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Vhs",
+    "id": "427715",
+    "order": 258
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416925",
+    "order": 259
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331816",
+    "order": 260
+  },
+  {
+    "storyId": 17501,
+    "name": "glitch effect moving quickly",
+    "id": "170545",
+    "order": 261
+  },
+  {
+    "storyId": 17794,
+    "name": "\"love\" on a glitchy screen ",
+    "id": "178527",
+    "order": 262
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331811",
+    "order": 263
+  },
+  {
+    "storyId": 18097,
+    "name": "damaged screen ",
+    "id": "178624",
+    "order": 264
+  },
+  {
+    "storyId": 17794,
+    "name": "colorful grid on a broken screen ",
+    "id": "178503",
+    "order": 265
+  },
+  {
+    "storyId": 17796,
+    "name": "black and white glitchy screen ",
+    "id": "178580",
+    "order": 266
+  },
+  {
+    "storyId": 18066,
+    "name": "grid flashing on a broken screen ",
+    "id": "187336",
+    "order": 267
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416928",
+    "order": 268
+  },
+  {
+    "storyId": 17794,
+    "name": "illustration of a man inside of a ball on a glitchy screen ",
+    "id": "178553",
+    "order": 269
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427799",
+    "order": 270
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212011",
+    "order": 271
+  },
+  {
+    "storyId": 18097,
+    "name": "colors and lines moving on a screen ",
+    "id": "178677",
+    "order": 272
+  },
+  {
+    "storyId": 17796,
+    "name": "broken screen showing colorful images ",
+    "id": "178599",
+    "order": 273
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427764",
+    "order": 274
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427762",
+    "order": 275
+  },
+  {
+    "storyId": 18097,
+    "name": "strange shapes flashing on a screen ",
+    "id": "178657",
+    "order": 276
+  },
+  {
+    "storyId": 17796,
+    "name": "colorful lights flashing on a screen ",
+    "id": "178613",
+    "order": 277
+  },
+  {
+    "storyId": 18150,
+    "name": "Words, Text, Write, Keyboard",
+    "id": "191245",
+    "order": 278
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209271",
+    "order": 279
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236899",
+    "order": 280
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212031",
+    "order": 281
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416908",
+    "order": 282
+  },
+  {
+    "storyId": 18097,
+    "name": "broken screen images ",
+    "id": "178639",
+    "order": 283
+  },
+  {
+    "storyId": 26812,
+    "name": "Lines, Flickering, Glitch, Colorful",
+    "id": "458953",
+    "order": 284
+  },
+  {
+    "storyId": 18066,
+    "name": "patterns on a broken screen ",
+    "id": "187324",
+    "order": 285
+  },
+  {
+    "storyId": 17501,
+    "name": "static noise glitch effect",
+    "id": "170554",
+    "order": 286
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427716",
+    "order": 287
+  },
+  {
+    "storyId": 18097,
+    "name": "images on a damaged screen ",
+    "id": "178636",
+    "order": 288
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427779",
+    "order": 289
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427754",
+    "order": 290
+  },
+  {
+    "storyId": 17796,
+    "name": "shapes moving on a broken screen ",
+    "id": "178616",
+    "order": 291
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331825",
+    "order": 292
+  },
+  {
+    "storyId": 17501,
+    "name": "flashing glitch effect",
+    "id": "170564",
+    "order": 293
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212033",
+    "order": 294
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331793",
+    "order": 295
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Transition",
+    "id": "427784",
+    "order": 296
+  },
+  {
+    "storyId": 26812,
+    "name": "Lines, Flickering, Glitch, Colorful",
+    "id": "458950",
+    "order": 297
+  },
+  {
+    "storyId": 17501,
+    "name": "very fast glitch effect",
+    "id": "170568",
+    "order": 298
+  },
+  {
+    "storyId": 17794,
+    "name": "shapes flashing on a broken screen ",
+    "id": "178486",
+    "order": 299
+  },
+  {
+    "storyId": 17794,
+    "name": "ball moving around on a broken screen ",
+    "id": "178502",
+    "order": 300
+  },
+  {
+    "storyId": 18140,
+    "name": "Words, Text, Screen, Computer",
+    "id": "190649",
+    "order": 301
+  },
+  {
+    "storyId": 18097,
+    "name": "patterns forming on a glitchy screeen ",
+    "id": "178628",
+    "order": 302
+  },
+  {
+    "storyId": 18097,
+    "name": "colorful lights flashing ",
+    "id": "178675",
+    "order": 303
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236893",
+    "order": 304
+  },
+  {
+    "storyId": 27402,
+    "name": "Light Leak, Glitch, Multi Color, Circles",
+    "id": "476534",
+    "order": 305
+  },
+  {
+    "storyId": 17794,
+    "name": "warning sign flashing on a broken screen ",
+    "id": "178559",
+    "order": 306
+  },
+  {
+    "storyId": 18150,
+    "name": "Words, Glitch, Text, Vintage",
+    "id": "191253",
+    "order": 307
+  },
+  {
+    "storyId": 17501,
+    "name": "fast moving glitch effect",
+    "id": "170538",
+    "order": 308
+  },
+  {
+    "storyId": 25990,
+    "name": "Glitch, TV, Noise, Signal",
+    "id": "432431",
+    "order": 309
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427702",
+    "order": 310
+  },
+  {
+    "storyId": 17796,
+    "name": "circle on a screen ",
+    "id": "178604",
+    "order": 311
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212016",
+    "order": 312
+  },
+  {
+    "storyId": 17796,
+    "name": "static flashing on a screen ",
+    "id": "178578",
+    "order": 313
+  },
+  {
+    "storyId": 18097,
+    "name": "shapes and colors flashing on a screen ",
+    "id": "178654",
+    "order": 314
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427767",
+    "order": 315
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted lines on a screen ",
+    "id": "178682",
+    "order": 316
+  },
+  {
+    "storyId": 17794,
+    "name": "shapes on a broken screen ",
+    "id": "178487",
+    "order": 317
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427759",
+    "order": 318
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212013",
+    "order": 319
+  },
+  {
+    "storyId": 22869,
+    "name": "Light, Flash, Blue, Quick",
+    "id": "337291",
+    "order": 320
+  },
+  {
+    "storyId": 18097,
+    "name": "slow images appearing on a glitchy screen ",
+    "id": "178647",
+    "order": 321
+  },
+  {
+    "storyId": 27402,
+    "name": "Light Leak, Glitch, Multi Color, Circles",
+    "id": "476498",
+    "order": 322
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427750",
+    "order": 323
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427736",
+    "order": 324
+  },
+  {
+    "storyId": 22869,
+    "name": "Light, Flash, Blue, Quick",
+    "id": "337298",
+    "order": 325
+  },
+  {
+    "storyId": 27402,
+    "name": "Light Leak, Glitch, Multi Color, Circles",
+    "id": "476537",
+    "order": 326
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427710",
+    "order": 327
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427774",
+    "order": 328
+  },
+  {
+    "storyId": 17501,
+    "name": "quick moving glitch effect",
+    "id": "170566",
+    "order": 329
+  },
+  {
+    "storyId": 18066,
+    "name": "picture of a man in a circle flashing on a screen ",
+    "id": "187349",
+    "order": 330
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416932",
+    "order": 331
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427742",
+    "order": 332
+  },
+  {
+    "storyId": 27402,
+    "name": "Light Leak, Glitch, Multi Color, Circles",
+    "id": "476518",
+    "order": 333
+  },
+  {
+    "storyId": 18097,
+    "name": "flashing colorful shapes on a broken screen ",
+    "id": "178664",
+    "order": 334
+  },
+  {
+    "storyId": 17794,
+    "name": "glitchy \"love\" flashing on a screen ",
+    "id": "178528",
+    "order": 335
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476174",
+    "order": 336
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236896",
+    "order": 337
+  },
+  {
+    "storyId": 17794,
+    "name": "colorful glitches on a broken screen ",
+    "id": "178505",
+    "order": 338
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212022",
+    "order": 339
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427734",
+    "order": 340
+  },
+  {
+    "storyId": 22868,
+    "name": "Glitch, Effects, Woosh, Screen",
+    "id": "337270",
+    "order": 341
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236889",
+    "order": 342
+  },
+  {
+    "storyId": 27387,
+    "name": "Glitch, Transition, Flickering, Noise",
+    "id": "476169",
+    "order": 343
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212044",
+    "order": 344
+  },
+  {
+    "storyId": 19603,
+    "name": "Words, Glitch, Titles, Animation",
+    "id": "234979",
+    "order": 345
+  },
+  {
+    "storyId": 18150,
+    "name": "Console, Words, Text, Keyboard",
+    "id": "191249",
+    "order": 346
+  },
+  {
+    "storyId": 18150,
+    "name": "Words, Text, Vintage, Glitch",
+    "id": "191258",
+    "order": 347
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted images on a screen ",
+    "id": "178644",
+    "order": 348
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416911",
+    "order": 349
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416926",
+    "order": 350
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209283",
+    "order": 351
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209277",
+    "order": 352
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236884",
+    "order": 353
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212021",
+    "order": 354
+  },
+  {
+    "storyId": 26812,
+    "name": "Lines, Flickering, Glitch, Colorful",
+    "id": "458955",
+    "order": 355
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212014",
+    "order": 356
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331800",
+    "order": 357
+  },
+  {
+    "storyId": 25836,
+    "name": "Glitch, Transition, Tv Noise, Damaged Video",
+    "id": "427761",
+    "order": 358
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209273",
+    "order": 359
+  },
+  {
+    "storyId": 17794,
+    "name": "picture of a man on a grid on a broken screen  ",
+    "id": "178549",
+    "order": 360
+  },
+  {
+    "storyId": 18097,
+    "name": "black and white static images ",
+    "id": "178671",
+    "order": 361
+  },
+  {
+    "storyId": 17796,
+    "name": "yellow and blue changing screens ",
+    "id": "178570",
+    "order": 362
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted shapes flashing on a screen",
+    "id": "178667",
+    "order": 363
+  },
+  {
+    "storyId": 19604,
+    "name": "Hate, Font, Words, Overlay",
+    "id": "235143",
+    "order": 364
+  },
+  {
+    "storyId": 17501,
+    "name": "quick moving glitch effect",
+    "id": "170562",
+    "order": 365
+  },
+  {
+    "storyId": 17794,
+    "name": "\n\"loading\" flashing on a grid ",
+    "id": "178511",
+    "order": 366
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209282",
+    "order": 367
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212004",
+    "order": 368
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236888",
+    "order": 369
+  },
+  {
+    "storyId": 17796,
+    "name": "shapes moving on a broken screen",
+    "id": "178574",
+    "order": 370
+  },
+  {
+    "storyId": 17794,
+    "name": "circle and grid flashing on a screen ",
+    "id": "178539",
+    "order": 371
+  },
+  {
+    "storyId": 22869,
+    "name": "Light, Flash, Blue, Quick",
+    "id": "337294",
+    "order": 372
+  },
+  {
+    "storyId": 18066,
+    "name": "circle and grid flashing on a broken screen ",
+    "id": "187347",
+    "order": 373
+  },
+  {
+    "storyId": 18835,
+    "name": "Glitches, Glitch, Affection, Layer",
+    "id": "212030",
+    "order": 374
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416929",
+    "order": 375
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Flickering",
+    "id": "416905",
+    "order": 376
+  },
+  {
+    "storyId": 22870,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "337330",
+    "order": 377
+  },
+  {
+    "storyId": 18097,
+    "name": "static on a broken screen ",
+    "id": "178632",
+    "order": 378
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427704",
+    "order": 379
+  },
+  {
+    "storyId": 18140,
+    "name": "Text, Words, Glitch, Computer",
+    "id": "190654",
+    "order": 380
+  },
+  {
+    "storyId": 25844,
+    "name": "Tv Noise, Glitch, Animated, 2D",
+    "id": "427919",
+    "order": 381
+  },
+  {
+    "storyId": 17501,
+    "name": "fast moving glitch effect",
+    "id": "170570",
+    "order": 382
+  },
+  {
+    "storyId": 19683,
+    "name": "Glitch, Effect, Transition, Layer",
+    "id": "236885",
+    "order": 383
+  },
+  {
+    "storyId": 18738,
+    "name": "Glitch, Effect, Layer, Glitchy",
+    "id": "209279",
+    "order": 384
+  },
+  {
+    "storyId": 25835,
+    "name": "Glitch, Effect, Transition, Signal",
+    "id": "427712",
+    "order": 385
+  },
+  {
+    "storyId": 27402,
+    "name": "Light Leak, Glitch, Multi Color, Circles",
+    "id": "476524",
+    "order": 386
+  },
+  {
+    "storyId": 18066,
+    "name": "colors flashing on a screen ",
+    "id": "187344",
+    "order": 387
+  },
+  {
+    "storyId": 26812,
+    "name": "Lines, Flickering, Glitch, Colorful",
+    "id": "458954",
+    "order": 388
+  },
+  {
+    "storyId": 17501,
+    "name": "static glitch effect moving right to left",
+    "id": "170560",
+    "order": 389
+  },
+  {
+    "storyId": 25837,
+    "name": "Glitch, Effect, Fast, Shapes",
+    "id": "427793",
+    "order": 390
+  },
+  {
+    "storyId": 25524,
+    "name": "Glitch, Effect, Transition, Noise",
+    "id": "416922",
+    "order": 391
+  },
+  {
+    "storyId": 19604,
+    "name": "Fuckyou, Font, Words, Overlay",
+    "id": "235165",
+    "order": 392
+  },
+  {
+    "storyId": 17501,
+    "name": "quick moving glitch effect",
+    "id": "170567",
+    "order": 393
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted colorful shapes flashing ",
+    "id": "178660",
+    "order": 394
+  },
+  {
+    "storyId": 22869,
+    "name": "Light, Flash, Blue, Quick",
+    "id": "337314",
+    "order": 395
+  },
+  {
+    "storyId": 18150,
+    "name": "Console, Words, Text, Glitch",
+    "id": "191214",
+    "order": 396
+  },
+  {
+    "storyId": 18097,
+    "name": "distorted colorful shapes flashing on a broken screen ",
+    "id": "178663",
+    "order": 397
+  },
+  {
+    "storyId": 22674,
+    "name": "Screen, Monitor, Glitch, Noise",
+    "id": "331807",
+    "order": 398
+  },
+  {
+    "storyId": 17501,
+    "name": "fast moving glitch effect",
+    "id": "170546",
+    "order": 399
+  }
+]

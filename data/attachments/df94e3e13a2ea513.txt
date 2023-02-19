@@ -1,0 +1,32 @@
+[
+  {
+    "query": "screen medical info doctor",
+    "id": "443678",
+    "storyId": "26334",
+    "autoRank": "0.37985999602554288"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "443672",
+    "storyId": "26334",
+    "autoRank": "0.373368385479958"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "443699",
+    "storyId": "26334",
+    "autoRank": "0.37296647331406224"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "443679",
+    "storyId": "26334",
+    "autoRank": "0.36958026596163734"
+  },
+  {
+    "query": "screen medical info doctor",
+    "id": "570345",
+    "storyId": "30606",
+    "autoRank": "0.34648109518483439"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "query": "green energy",
+    "id": "520888",
+    "storyId": "28853",
+    "autoRank": "0.40251107779320405"
+  },
+  {
+    "query": "green energy",
+    "id": "520887",
+    "storyId": "28853",
+    "autoRank": "0.40034304854934533"
+  },
+  {
+    "query": "green energy",
+    "id": "526670",
+    "storyId": "29090",
+    "autoRank": "0.40022226716676845"
+  },
+  {
+    "query": "green energy",
+    "id": "520871",
+    "storyId": "28853",
+    "autoRank": "0.39972226735651384"
+  },
+  {
+    "query": "green energy",
+    "id": "520873",
+    "storyId": "28853",
+    "autoRank": "0.39930967529189876"
+  },
+  {
+    "query": "green energy",
+    "id": "108338",
+    "storyId": "15092",
+    "autoRank": "0.39896619092116636"
+  },
+  {
+    "query": "green energy",
+    "id": "520884",
+    "storyId": "28853",
+    "autoRank": "0.39787548380217264"
+  },
+  {
+    "query": "green energy",
+    "id": "520886",
+    "storyId": "28853",
+    "autoRank": "0.3970078466372865"
+  },
+  {
+    "query": "green energy",
+    "id": "108323",
+    "storyId": "15092",
+    "autoRank": "0.39693790843229471"
+  },
+  {
+    "query": "green energy",
+    "id": "527309",
+    "storyId": "29116",
+    "autoRank": "0.39652588179388448"
+  }
+]

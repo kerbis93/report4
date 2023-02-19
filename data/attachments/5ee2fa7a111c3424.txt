@@ -1,0 +1,2402 @@
+[
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439341",
+    "order": 0
+  },
+  {
+    "storyId": 17103,
+    "name": "Person, Playing, Chess, Game",
+    "id": "160255",
+    "order": 1
+  },
+  {
+    "storyId": 17103,
+    "name": "Person, Playing, Chess, Game",
+    "id": "160258",
+    "order": 2
+  },
+  {
+    "storyId": 17103,
+    "name": "Playing, Chess, Game, Strategy",
+    "id": "160256",
+    "order": 3
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439332",
+    "order": 4
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess Timer, Chessboard, Game, Chess",
+    "id": "439336",
+    "order": 5
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160251",
+    "order": 6
+  },
+  {
+    "storyId": 17103,
+    "name": "Playing, Person, Chess, Chessboard",
+    "id": "160257",
+    "order": 7
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160253",
+    "order": 8
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439330",
+    "order": 9
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Game, Strategy",
+    "id": "439329",
+    "order": 10
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Chessboard, Piece",
+    "id": "299029",
+    "order": 11
+  },
+  {
+    "storyId": 17103,
+    "name": "Playing, Chess, Game, Strategy",
+    "id": "160246",
+    "order": 12
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Chessboard, Player, Game",
+    "id": "298996",
+    "order": 13
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Chessboard, Piece, Wooden",
+    "id": "299026",
+    "order": 14
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Chessboard, Player",
+    "id": "299025",
+    "order": 15
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160261",
+    "order": 16
+  },
+  {
+    "storyId": 21707,
+    "name": "Chessboard, Chess, Piece, Strategy",
+    "id": "299027",
+    "order": 17
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Player, Chessboard",
+    "id": "299024",
+    "order": 18
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Chessboard, Player",
+    "id": "298926",
+    "order": 19
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Writing, Chessboard",
+    "id": "299005",
+    "order": 20
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Book, Chessboard, Strategy",
+    "id": "298976",
+    "order": 21
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Competition, Game, Chessboard",
+    "id": "299033",
+    "order": 22
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Chessboard, Game, Piece",
+    "id": "299028",
+    "order": 23
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160243",
+    "order": 24
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Office, Playing, Chess",
+    "id": "160241",
+    "order": 25
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160245",
+    "order": 26
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160244",
+    "order": 27
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Book, Reading, Learning",
+    "id": "298974",
+    "order": 28
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Commander, Map, Strategy",
+    "id": "504159",
+    "order": 29
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Commander, Map, Strategy",
+    "id": "504160",
+    "order": 30
+  },
+  {
+    "storyId": 28282,
+    "name": "Second World War, Commander, Map, Strategy",
+    "id": "504161",
+    "order": 31
+  },
+  {
+    "storyId": 25276,
+    "name": "Computer Games, Team, Strategy, Esport",
+    "id": "404773",
+    "order": 32
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Timer",
+    "id": "299047",
+    "order": 33
+  },
+  {
+    "storyId": 12306,
+    "name": "woman losing chess game by dropping king piece on chessboard",
+    "id": "52754",
+    "order": 34
+  },
+  {
+    "storyId": 12306,
+    "name": "man removing bishop chess piece from board",
+    "id": "52752",
+    "order": 35
+  },
+  {
+    "storyId": 12306,
+    "name": "man and woman re-stacking chess pieces on chessboard",
+    "id": "52755",
+    "order": 36
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160242",
+    "order": 37
+  },
+  {
+    "storyId": 17103,
+    "name": "Caucasian, Man, Thinking, 20'S",
+    "id": "160248",
+    "order": 38
+  },
+  {
+    "storyId": 12306,
+    "name": "woman playing chess and moving knight to opposing bishop on chessboard",
+    "id": "52751",
+    "order": 39
+  },
+  {
+    "storyId": 10931,
+    "name": "Moving king on chessboard ",
+    "id": "20042",
+    "order": 40
+  },
+  {
+    "storyId": 12306,
+    "name": "man playing chess and moving bishop on chessboard",
+    "id": "52744",
+    "order": 41
+  },
+  {
+    "storyId": 12306,
+    "name": "woman placing king on side in chess game",
+    "id": "52753",
+    "order": 42
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160252",
+    "order": 43
+  },
+  {
+    "storyId": 10931,
+    "name": "Bishop knocking knight on chessboard",
+    "id": "20051",
+    "order": 44
+  },
+  {
+    "storyId": 10932,
+    "name": "Checkmate with the queen on chessboard",
+    "id": "20062",
+    "order": 45
+  },
+  {
+    "storyId": 10932,
+    "name": "person moving white chess piece towards black piece",
+    "id": "20060",
+    "order": 46
+  },
+  {
+    "storyId": 10931,
+    "name": "Knight moving on chessboard",
+    "id": "20047",
+    "order": 47
+  },
+  {
+    "storyId": 10932,
+    "name": "person knocks over king in chess on chessboard",
+    "id": "20063",
+    "order": 48
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Strategy, Caucasian, 20'S",
+    "id": "160249",
+    "order": 49
+  },
+  {
+    "storyId": 10931,
+    "name": "Black bishop knocking knight on chessboard ",
+    "id": "20052",
+    "order": 50
+  },
+  {
+    "storyId": 10931,
+    "name": "Black bishop captures knight on chessboard ",
+    "id": "20053",
+    "order": 51
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160254",
+    "order": 52
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Strategy, Play",
+    "id": "160250",
+    "order": 53
+  },
+  {
+    "storyId": 10931,
+    "name": "Moving knight on chessboard ",
+    "id": "20050",
+    "order": 54
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Strike, Playing",
+    "id": "493855",
+    "order": 55
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Hand, Strike, Move",
+    "id": "493854",
+    "order": 56
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439334",
+    "order": 57
+  },
+  {
+    "storyId": 12306,
+    "name": "woman playing chess and moving pawn forward",
+    "id": "52743",
+    "order": 58
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Chessboard, Game, Checkmate",
+    "id": "298953",
+    "order": 59
+  },
+  {
+    "storyId": 10931,
+    "name": "Focused knight on chessboard",
+    "id": "20048",
+    "order": 60
+  },
+  {
+    "storyId": 17103,
+    "name": "Man, Playing, Chess, Game",
+    "id": "160260",
+    "order": 61
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439333",
+    "order": 62
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Strike, Playing",
+    "id": "493853",
+    "order": 63
+  },
+  {
+    "storyId": 10931,
+    "name": "Checkmate queen and king",
+    "id": "20043",
+    "order": 64
+  },
+  {
+    "storyId": 10932,
+    "name": "chess pieces on chessboard",
+    "id": "20054",
+    "order": 65
+  },
+  {
+    "storyId": 10931,
+    "name": "Moving the black queen forward on chessboard",
+    "id": "20046",
+    "order": 66
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Strike, Playing",
+    "id": "493893",
+    "order": 67
+  },
+  {
+    "storyId": 17103,
+    "name": "Playing, Chess, Game, Chessboard",
+    "id": "160259",
+    "order": 68
+  },
+  {
+    "storyId": 13013,
+    "name": "white chess pieces facing black chess pieces on board ",
+    "id": "63322",
+    "order": 69
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493795",
+    "order": 70
+  },
+  {
+    "storyId": 13013,
+    "name": "black and white chess pieces face each other on chess board ",
+    "id": "63325",
+    "order": 71
+  },
+  {
+    "storyId": 10932,
+    "name": "Hand moves black chess piece on chessboard",
+    "id": "20059",
+    "order": 72
+  },
+  {
+    "storyId": 26753,
+    "name": "Chess, King, Pawn, Piece",
+    "id": "456984",
+    "order": 73
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Chessboard, Player",
+    "id": "299007",
+    "order": 74
+  },
+  {
+    "storyId": 10931,
+    "name": "Moving black pawn forward on chessboard",
+    "id": "20045",
+    "order": 75
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493786",
+    "order": 76
+  },
+  {
+    "storyId": 10931,
+    "name": "Focus change on chessboard",
+    "id": "20049",
+    "order": 77
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493802",
+    "order": 78
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439331",
+    "order": 79
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess Timer, Checkerboard, Game, Chess",
+    "id": "439335",
+    "order": 80
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493797",
+    "order": 81
+  },
+  {
+    "storyId": 10932,
+    "name": "White chess pieces on chessboard",
+    "id": "20055",
+    "order": 82
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Playing, Move",
+    "id": "493857",
+    "order": 83
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Strike, Playing",
+    "id": "493850",
+    "order": 84
+  },
+  {
+    "storyId": 19957,
+    "name": "Old Age, Retirement, Elderly, Community",
+    "id": "243943",
+    "order": 85
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Winner, Checkmate",
+    "id": "298952",
+    "order": 86
+  },
+  {
+    "storyId": 10932,
+    "name": "White pieces of chessboard",
+    "id": "20057",
+    "order": 87
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Playing, Move",
+    "id": "493892",
+    "order": 88
+  },
+  {
+    "storyId": 27934,
+    "name": "Man, Playing, Chess, Library",
+    "id": "493889",
+    "order": 89
+  },
+  {
+    "storyId": 18862,
+    "name": "People, Lifestyles, Togetherness, Men",
+    "id": "212638",
+    "order": 90
+  },
+  {
+    "storyId": 27459,
+    "name": "Chess, Board Game, Pawns, Chess Board",
+    "id": "478177",
+    "order": 91
+  },
+  {
+    "storyId": 10931,
+    "name": "Moving black pawn on chessboard ",
+    "id": "20044",
+    "order": 92
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chess Pieces, Game, King",
+    "id": "439342",
+    "order": 93
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Strike, Playing",
+    "id": "493906",
+    "order": 94
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess Board, Handshake, Chess, Game",
+    "id": "385015",
+    "order": 95
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439340",
+    "order": 96
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Strike, Playing",
+    "id": "493856",
+    "order": 97
+  },
+  {
+    "storyId": 10932,
+    "name": "White chess pieces on board",
+    "id": "20056",
+    "order": 98
+  },
+  {
+    "storyId": 27934,
+    "name": "Man, Woman, Playing, Chess",
+    "id": "493869",
+    "order": 99
+  },
+  {
+    "storyId": 10932,
+    "name": "person moving white chess piece on chessboard",
+    "id": "20058",
+    "order": 100
+  },
+  {
+    "storyId": 12306,
+    "name": "woman placing rook on chessboard",
+    "id": "52756",
+    "order": 101
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Playing, Chessboard",
+    "id": "299006",
+    "order": 102
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439337",
+    "order": 103
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Competition, Game, Timer",
+    "id": "298945",
+    "order": 104
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers pointing at maps closeup",
+    "id": "21897",
+    "order": 105
+  },
+  {
+    "storyId": 10929,
+    "name": "Man stacks a checker piece to make a king",
+    "id": "20036",
+    "order": 106
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493803",
+    "order": 107
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493798",
+    "order": 108
+  },
+  {
+    "storyId": 10932,
+    "name": "person moving king chess piece on chessboard",
+    "id": "20061",
+    "order": 109
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Chess Board, Chess Pieces, Knight",
+    "id": "385010",
+    "order": 110
+  },
+  {
+    "storyId": 27934,
+    "name": "Man, Playing, Chess, Library",
+    "id": "493891",
+    "order": 111
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Knight, Black, Chess Board",
+    "id": "385048",
+    "order": 112
+  },
+  {
+    "storyId": 10931,
+    "name": "Moving pawn on chessboard ",
+    "id": "20041",
+    "order": 113
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439339",
+    "order": 114
+  },
+  {
+    "storyId": 17728,
+    "name": "Forecast, Graph, Chart, Office",
+    "id": "176650",
+    "order": 115
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493793",
+    "order": 116
+  },
+  {
+    "storyId": 27459,
+    "name": "Chess, Board Game, Pawns, Chess Board",
+    "id": "478176",
+    "order": 117
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493787",
+    "order": 118
+  },
+  {
+    "storyId": 26844,
+    "name": "Businesswomen, Talking, Tablet, Window",
+    "id": "459806",
+    "order": 119
+  },
+  {
+    "storyId": 27934,
+    "name": "Man, Woman, Playing, Chess",
+    "id": "493870",
+    "order": 120
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Bishop, White, Chess Board",
+    "id": "385037",
+    "order": 121
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Bishop, Black, Knight",
+    "id": "385052",
+    "order": 122
+  },
+  {
+    "storyId": 26844,
+    "name": "Man, Woman, Writing, Sticky Notes",
+    "id": "459804",
+    "order": 123
+  },
+  {
+    "storyId": 18158,
+    "name": "College, Writing, Working, Notes",
+    "id": "191472",
+    "order": 124
+  },
+  {
+    "storyId": 27459,
+    "name": "Chess, Board Game, Pawns, Chess Board",
+    "id": "478175",
+    "order": 125
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Rook, Move, Chess Board",
+    "id": "385013",
+    "order": 126
+  },
+  {
+    "storyId": 16892,
+    "name": "children playing a chess game near a window indoors",
+    "id": "154557",
+    "order": 127
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493800",
+    "order": 128
+  },
+  {
+    "storyId": 27459,
+    "name": "Chess, Board Game, Pawns, Chess Board",
+    "id": "478178",
+    "order": 129
+  },
+  {
+    "storyId": 11854,
+    "name": "woman leaning on a table while having a business meeting ",
+    "id": "46003",
+    "order": 130
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Queen, Chess Board, White",
+    "id": "385038",
+    "order": 131
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, King, Dropping, Black",
+    "id": "385040",
+    "order": 132
+  },
+  {
+    "storyId": 12310,
+    "name": "Woman giving playing cards to people sitting on couch",
+    "id": "52836",
+    "order": 133
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Competition, Chessboard, Game",
+    "id": "299019",
+    "order": 134
+  },
+  {
+    "storyId": 13013,
+    "name": "two people move chess pieces on chess board while playing",
+    "id": "63329",
+    "order": 135
+  },
+  {
+    "storyId": 27934,
+    "name": "Man, Playing, Chess, Board",
+    "id": "493882",
+    "order": 136
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, King, Black, Dropping",
+    "id": "385039",
+    "order": 137
+  },
+  {
+    "storyId": 27934,
+    "name": "Woman, Playing, Chess, Library",
+    "id": "493852",
+    "order": 138
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Chess Board, Chess Pieces, Knight",
+    "id": "385011",
+    "order": 139
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493784",
+    "order": 140
+  },
+  {
+    "storyId": 27934,
+    "name": "Man, Woman, Playing, Chess",
+    "id": "493871",
+    "order": 141
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493794",
+    "order": 142
+  },
+  {
+    "storyId": 20722,
+    "name": "Board Game, Mind Game, Checkers Board, Men",
+    "id": "267801",
+    "order": 143
+  },
+  {
+    "storyId": 26753,
+    "name": "Chess, King, Piece, Wood",
+    "id": "456988",
+    "order": 144
+  },
+  {
+    "storyId": 10930,
+    "name": "Checker pieces on a board",
+    "id": "20038",
+    "order": 145
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493788",
+    "order": 146
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Notes",
+    "id": "488119",
+    "order": 147
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Pawn, Black, Chess Board",
+    "id": "385033",
+    "order": 148
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Queen, Chess Board, Chess Pieces",
+    "id": "385036",
+    "order": 149
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Chessboard, Competition",
+    "id": "299044",
+    "order": 150
+  },
+  {
+    "storyId": 10924,
+    "name": "Dice thrown on backgammon board ",
+    "id": "19855",
+    "order": 151
+  },
+  {
+    "storyId": 21852,
+    "name": "Architects, Office, Colleagues, Working",
+    "id": "304750",
+    "order": 152
+  },
+  {
+    "storyId": 26198,
+    "name": "Chess, Chessboard, Chess Pieces, Checkerboard",
+    "id": "439338",
+    "order": 153
+  },
+  {
+    "storyId": 27932,
+    "name": "Chess, Chess Board, Board Game, Chess Pieces",
+    "id": "493799",
+    "order": 154
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Meeting",
+    "id": "488110",
+    "order": 155
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Players",
+    "id": "299021",
+    "order": 156
+  },
+  {
+    "storyId": 11854,
+    "name": "woman making a work presentation in front of three men",
+    "id": "45981",
+    "order": 157
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Chess Board, Chess Pieces, Board Game",
+    "id": "385014",
+    "order": 158
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Meeting",
+    "id": "488136",
+    "order": 159
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Chessboard, Competition",
+    "id": "299008",
+    "order": 160
+  },
+  {
+    "storyId": 11854,
+    "name": "woman making a presentation and talking at a meeting",
+    "id": "45980",
+    "order": 161
+  },
+  {
+    "storyId": 20722,
+    "name": "Man, Playing, Board Game, Checkers Board",
+    "id": "267804",
+    "order": 162
+  },
+  {
+    "storyId": 26844,
+    "name": "Women, Writing, Office, Window",
+    "id": "459808",
+    "order": 163
+  },
+  {
+    "storyId": 11854,
+    "name": "woman making a presentation while using a whiteboard at a meeting",
+    "id": "45982",
+    "order": 164
+  },
+  {
+    "storyId": 10931,
+    "name": "Pawn moving on chessboard",
+    "id": "20040",
+    "order": 165
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Pawn, Chess Board, Chess Pieces",
+    "id": "385047",
+    "order": 166
+  },
+  {
+    "storyId": 21852,
+    "name": "Woman, Man, Office, Work",
+    "id": "304716",
+    "order": 167
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186229",
+    "order": 168
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, King, White, Dropping",
+    "id": "385041",
+    "order": 169
+  },
+  {
+    "storyId": 27934,
+    "name": "Chess Pieces, Board, Strike, Playing",
+    "id": "493847",
+    "order": 170
+  },
+  {
+    "storyId": 10925,
+    "name": "Hands reach and grab white backgammon piece",
+    "id": "19873",
+    "order": 171
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Meeting",
+    "id": "488114",
+    "order": 172
+  },
+  {
+    "storyId": 26844,
+    "name": "Businesswomen, Planning, Sticky Notes, Writing",
+    "id": "459805",
+    "order": 173
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Chess Board, Game, Chess Pieces",
+    "id": "385019",
+    "order": 174
+  },
+  {
+    "storyId": 19204,
+    "name": "Co-Workers, Flowchart, Mask, Partners",
+    "id": "223900",
+    "order": 175
+  },
+  {
+    "storyId": 19204,
+    "name": "Co-Workers, Company, Whiteboard, Firm",
+    "id": "223908",
+    "order": 176
+  },
+  {
+    "storyId": 19928,
+    "name": "Creative, Office, Women, Business",
+    "id": "243231",
+    "order": 177
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Chess Board, Pawn, Hand",
+    "id": "385032",
+    "order": 178
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Chessboard",
+    "id": "298992",
+    "order": 179
+  },
+  {
+    "storyId": 18692,
+    "name": "Four People, Adults Only, Young Adult, Young Men",
+    "id": "208197",
+    "order": 180
+  },
+  {
+    "storyId": 11854,
+    "name": "woman and man in a meeting in an office ",
+    "id": "45931",
+    "order": 181
+  },
+  {
+    "storyId": 10925,
+    "name": "Die spins on a backgammon board",
+    "id": "19864",
+    "order": 182
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Timer",
+    "id": "298949",
+    "order": 183
+  },
+  {
+    "storyId": 16892,
+    "name": "three children playing cards while sitting on the floor indoors",
+    "id": "154560",
+    "order": 184
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Learning, Practicing, Notebook",
+    "id": "298975",
+    "order": 185
+  },
+  {
+    "storyId": 19204,
+    "name": "Co-Workers, Company, Whiteboard, Firm",
+    "id": "223909",
+    "order": 186
+  },
+  {
+    "storyId": 26129,
+    "name": "Detective Board, Map, Red Thread, Docu Crime",
+    "id": "437209",
+    "order": 187
+  },
+  {
+    "storyId": 27991,
+    "name": "Office, Meeting Room, Businessmen, Businesswomen",
+    "id": "494190",
+    "order": 188
+  },
+  {
+    "storyId": 12830,
+    "name": "graph and code written in a notebook ",
+    "id": "60414",
+    "order": 189
+  },
+  {
+    "storyId": 17539,
+    "name": "Man, Urban, Woman, Couple",
+    "id": "171610",
+    "order": 190
+  },
+  {
+    "storyId": 10924,
+    "name": "Moving two pawns on backgammon board ",
+    "id": "19859",
+    "order": 191
+  },
+  {
+    "storyId": 10925,
+    "name": "Die spinning on pale surface",
+    "id": "19868",
+    "order": 192
+  },
+  {
+    "storyId": 17728,
+    "name": "Forecast, Graph, Chart, Office",
+    "id": "176644",
+    "order": 193
+  },
+  {
+    "storyId": 18158,
+    "name": "Group, Students, People, Writing",
+    "id": "191484",
+    "order": 194
+  },
+  {
+    "storyId": 16892,
+    "name": "three children relaxing and playing in a room",
+    "id": "154558",
+    "order": 195
+  },
+  {
+    "storyId": 10955,
+    "name": "Poker player revealing pocket aces ",
+    "id": "20696",
+    "order": 196
+  },
+  {
+    "storyId": 18521,
+    "name": "Child, Father, Young, Modern",
+    "id": "203278",
+    "order": 197
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Competition, Game, Handshake",
+    "id": "299020",
+    "order": 198
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Competition, Game, Playing",
+    "id": "299018",
+    "order": 199
+  },
+  {
+    "storyId": 18340,
+    "name": "Family, Senior, Elderly, Happy",
+    "id": "197925",
+    "order": 200
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Rook, Move, Chess Board",
+    "id": "385002",
+    "order": 201
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Meeting",
+    "id": "488112",
+    "order": 202
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Audience, Chessboard",
+    "id": "298985",
+    "order": 203
+  },
+  {
+    "storyId": 28193,
+    "name": "Hands, Planning, Pointing, Graph",
+    "id": "501618",
+    "order": 204
+  },
+  {
+    "storyId": 11854,
+    "name": "man taking notes in a business meeting",
+    "id": "46006",
+    "order": 205
+  },
+  {
+    "storyId": 25509,
+    "name": "Father, Boy, Playing, Brick Game",
+    "id": "416529",
+    "order": 206
+  },
+  {
+    "storyId": 25378,
+    "name": "Business Meeting, Office, Colleagues, Desk",
+    "id": "413386",
+    "order": 207
+  },
+  {
+    "storyId": 11854,
+    "name": "business meeting at an office in front of a whiteboard ",
+    "id": "46004",
+    "order": 208
+  },
+  {
+    "storyId": 27991,
+    "name": "Office, Meeting Room, Businessmen, Businesswomen",
+    "id": "494191",
+    "order": 209
+  },
+  {
+    "storyId": 26844,
+    "name": "Man, Woman, Planning, Sticky Notes",
+    "id": "459801",
+    "order": 210
+  },
+  {
+    "storyId": 19638,
+    "name": "Notes, Paper, Girl, Woman",
+    "id": "235962",
+    "order": 211
+  },
+  {
+    "storyId": 16892,
+    "name": "three kids playing cards indoors",
+    "id": "154563",
+    "order": 212
+  },
+  {
+    "storyId": 17539,
+    "name": "Man, Urban, Woman, Couple",
+    "id": "171609",
+    "order": 213
+  },
+  {
+    "storyId": 16892,
+    "name": "children sitting and playing a board game indoors",
+    "id": "154555",
+    "order": 214
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers kneeling around map and using laser pointer indoors",
+    "id": "21917",
+    "order": 215
+  },
+  {
+    "storyId": 26844,
+    "name": "Women, Talking, Planning, Sticky Notes",
+    "id": "459807",
+    "order": 216
+  },
+  {
+    "storyId": 26753,
+    "name": "Chess, Pawn, Piece, Wood",
+    "id": "456989",
+    "order": 217
+  },
+  {
+    "storyId": 16892,
+    "name": "two children playing a board game in a room",
+    "id": "154556",
+    "order": 218
+  },
+  {
+    "storyId": 18158,
+    "name": "Group, Students, Standing, Learning",
+    "id": "191486",
+    "order": 219
+  },
+  {
+    "storyId": 11854,
+    "name": "woman standing in front of a whiteboard and making a presentation ",
+    "id": "45929",
+    "order": 220
+  },
+  {
+    "storyId": 20215,
+    "name": "Female Chef, Kitchen, Restaurant, Apron",
+    "id": "251112",
+    "order": 221
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Timer",
+    "id": "298947",
+    "order": 222
+  },
+  {
+    "storyId": 27780,
+    "name": "Man, Presentation, Whiteboard, Workplace",
+    "id": "488135",
+    "order": 223
+  },
+  {
+    "storyId": 11854,
+    "name": "woman making a presentation on a whiteboard at a business meeting at work ",
+    "id": "45985",
+    "order": 224
+  },
+  {
+    "storyId": 10786,
+    "name": "Papers And Sketching Tools",
+    "id": "16575",
+    "order": 225
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Notes",
+    "id": "488127",
+    "order": 226
+  },
+  {
+    "storyId": 21852,
+    "name": "Architects, Office, Colleagues, Working",
+    "id": "304752",
+    "order": 227
+  },
+  {
+    "storyId": 21852,
+    "name": "Woman, Man, Office, Work",
+    "id": "304723",
+    "order": 228
+  },
+  {
+    "storyId": 16049,
+    "name": "man writing on a floor plan hanging on a wall seen through a window",
+    "id": "129558",
+    "order": 229
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Competition, Game, Tense",
+    "id": "299038",
+    "order": 230
+  },
+  {
+    "storyId": 12567,
+    "name": "man pointing at at whiteboard in boardroom",
+    "id": "57365",
+    "order": 231
+  },
+  {
+    "storyId": 28478,
+    "name": "Students, Course, Lecture, Adults",
+    "id": "510910",
+    "order": 232
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Knight, Black, Chess Board",
+    "id": "385035",
+    "order": 233
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Chessboard, Player",
+    "id": "299023",
+    "order": 234
+  },
+  {
+    "storyId": 27780,
+    "name": "Woman, Presentation, Whiteboard, Workplace",
+    "id": "488105",
+    "order": 235
+  },
+  {
+    "storyId": 10883,
+    "name": "Man in front of grey wall with sticky notes",
+    "id": "18689",
+    "order": 236
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, King, White, Dropping",
+    "id": "385042",
+    "order": 237
+  },
+  {
+    "storyId": 19928,
+    "name": "Creative, Office, Business, Art",
+    "id": "243232",
+    "order": 238
+  },
+  {
+    "storyId": 18158,
+    "name": "Group, Students, Office, Workers",
+    "id": "191480",
+    "order": 239
+  },
+  {
+    "storyId": 27934,
+    "name": "Woman, Playing, Chess, Library",
+    "id": "493843",
+    "order": 240
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Timer",
+    "id": "298948",
+    "order": 241
+  },
+  {
+    "storyId": 10925,
+    "name": "Dice tossed onto a backgammon board",
+    "id": "19877",
+    "order": 242
+  },
+  {
+    "storyId": 18692,
+    "name": "Medium Group Of People, Adults Only, Young Adult, Young Men",
+    "id": "208160",
+    "order": 243
+  },
+  {
+    "storyId": 25378,
+    "name": "Business Meeting, Office, Top Shot, Colleagues",
+    "id": "413379",
+    "order": 244
+  },
+  {
+    "storyId": 10925,
+    "name": "Dice falling next to black backgammon pieces",
+    "id": "19878",
+    "order": 245
+  },
+  {
+    "storyId": 24298,
+    "name": "Architects, Working, White Blueprint, Desk",
+    "id": "381622",
+    "order": 246
+  },
+  {
+    "storyId": 10925,
+    "name": "Hand picks up backgammon piece",
+    "id": "19871",
+    "order": 247
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Meeting",
+    "id": "488137",
+    "order": 248
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Pawn, White, Black",
+    "id": "385046",
+    "order": 249
+  },
+  {
+    "storyId": 10925,
+    "name": "Die rolling onto backgammon board",
+    "id": "19875",
+    "order": 250
+  },
+  {
+    "storyId": 16127,
+    "name": "soccer player figures spinning on a foosball table",
+    "id": "131375",
+    "order": 251
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Meeting",
+    "id": "488107",
+    "order": 252
+  },
+  {
+    "storyId": 25378,
+    "name": "Business Meeting, Top Shot, Looking At Camera, Colleagues",
+    "id": "413387",
+    "order": 253
+  },
+  {
+    "storyId": 27780,
+    "name": "Coworkers, Brainstorming, Whiteboard, Meeting",
+    "id": "488129",
+    "order": 254
+  },
+  {
+    "storyId": 23860,
+    "name": "Office, Staff, Workers, Team",
+    "id": "368368",
+    "order": 255
+  },
+  {
+    "storyId": 24463,
+    "name": "Chess, Pawn, Duel, White",
+    "id": "385051",
+    "order": 256
+  },
+  {
+    "storyId": 27780,
+    "name": "Man, Presentation, Whiteboard, Workplace",
+    "id": "488133",
+    "order": 257
+  },
+  {
+    "storyId": 10929,
+    "name": "Woman captures two black checker pieces",
+    "id": "20034",
+    "order": 258
+  },
+  {
+    "storyId": 21852,
+    "name": "Colleagues, Office, Meeting, Notes",
+    "id": "304780",
+    "order": 259
+  },
+  {
+    "storyId": 10929,
+    "name": "Two people playing checkers overhead shot",
+    "id": "20033",
+    "order": 260
+  },
+  {
+    "storyId": 18558,
+    "name": "Businesswoman, Ethiopian, Writing, Note",
+    "id": "204362",
+    "order": 261
+  },
+  {
+    "storyId": 18162,
+    "name": "man looking at a notice board",
+    "id": "191657",
+    "order": 262
+  },
+  {
+    "storyId": 18862,
+    "name": "People, Lifestyles, Domestic Life, Adults Only",
+    "id": "212645",
+    "order": 263
+  },
+  {
+    "storyId": 10954,
+    "name": "colorful sticks on carpet closeup",
+    "id": "20654",
+    "order": 264
+  },
+  {
+    "storyId": 10930,
+    "name": "Advancing a black checker piece",
+    "id": "20039",
+    "order": 265
+  },
+  {
+    "storyId": 18692,
+    "name": "Four People, Adults Only, Young Adult, Young Men",
+    "id": "208196",
+    "order": 266
+  },
+  {
+    "storyId": 16085,
+    "name": "group of people standing around a table looking at a graphic printout in a restaurant",
+    "id": "130476",
+    "order": 267
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier pointing map closeup",
+    "id": "21896",
+    "order": 268
+  },
+  {
+    "storyId": 21263,
+    "name": "Businesspeople, Business, Office, Teamwork",
+    "id": "285021",
+    "order": 269
+  },
+  {
+    "storyId": 10930,
+    "name": "Pushing a white checker piece forward",
+    "id": "20037",
+    "order": 270
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers talking and looking down",
+    "id": "21920",
+    "order": 271
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers point at map closeup",
+    "id": "21899",
+    "order": 272
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Player, Game, Thinking",
+    "id": "298993",
+    "order": 273
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier pointing and team looking",
+    "id": "21901",
+    "order": 274
+  },
+  {
+    "storyId": 19193,
+    "name": "Family, Kids, Eating, Playing",
+    "id": "223032",
+    "order": 275
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers kneeling around map and talking indoors",
+    "id": "21905",
+    "order": 276
+  },
+  {
+    "storyId": 18239,
+    "name": "Muslim, Businesswomen, Meeting, Office",
+    "id": "194695",
+    "order": 277
+  },
+  {
+    "storyId": 17901,
+    "name": "Top view of a business meeting",
+    "id": "181278",
+    "order": 278
+  },
+  {
+    "storyId": 17117,
+    "name": "marble chess table set on a patio",
+    "id": "160809",
+    "order": 279
+  },
+  {
+    "storyId": 18692,
+    "name": "Adults Only, Young Adult, Young Men, Mid Adult",
+    "id": "208198",
+    "order": 280
+  },
+  {
+    "storyId": 16232,
+    "name": "man marking sheet music on a whiteboard with a marker",
+    "id": "134752",
+    "order": 281
+  },
+  {
+    "storyId": 23951,
+    "name": "Office, Meeting, Co Workers, Business",
+    "id": "371014",
+    "order": 282
+  },
+  {
+    "storyId": 16145,
+    "name": "man sitting at a desk wearing a headset, looking at financial charts, seen through a window covered in math formulas",
+    "id": "132051",
+    "order": 283
+  },
+  {
+    "storyId": 16145,
+    "name": "man looking at sheets displaying graphs and charts taped to a window in a highrise office",
+    "id": "132113",
+    "order": 284
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers kneeling around map",
+    "id": "21902",
+    "order": 285
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers checking weapons indoors",
+    "id": "21909",
+    "order": 286
+  },
+  {
+    "storyId": 11000,
+    "name": "gathered soldiers picking up weapons indoors",
+    "id": "21908",
+    "order": 287
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers pointing and speaking about map",
+    "id": "21900",
+    "order": 288
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers kneeling and viewing map",
+    "id": "21895",
+    "order": 289
+  },
+  {
+    "storyId": 16892,
+    "name": "children playing a game in a room",
+    "id": "154551",
+    "order": 290
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers standing around table with weapons and map",
+    "id": "21942",
+    "order": 291
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers talking and pointing while on roof",
+    "id": "21894",
+    "order": 292
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers cleaning weapons on counter",
+    "id": "21926",
+    "order": 293
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers kneeling around map on floor indoors",
+    "id": "21907",
+    "order": 294
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers pointing with laser pointer at map on ground",
+    "id": "21921",
+    "order": 295
+  },
+  {
+    "storyId": 11000,
+    "name": "laser pointer moving on map closeup",
+    "id": "21919",
+    "order": 296
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier adjusting helmet strap extreme closeup",
+    "id": "21935",
+    "order": 297
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers picking up gear on wall indoors",
+    "id": "21915",
+    "order": 298
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers kneeling around map and using laser pointer",
+    "id": "21906",
+    "order": 299
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier putting on vest and gear",
+    "id": "21929",
+    "order": 300
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers standing in row putting on helmets",
+    "id": "21936",
+    "order": 301
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186246",
+    "order": 302
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier putting weapon on wall near gear",
+    "id": "21916",
+    "order": 303
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273404",
+    "order": 304
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186242",
+    "order": 305
+  },
+  {
+    "storyId": 16892,
+    "name": "two children playing a wooden board game indoors\n\n",
+    "id": "154549",
+    "order": 306
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers standing around table in empty warehouse",
+    "id": "21941",
+    "order": 307
+  },
+  {
+    "storyId": 12306,
+    "name": "man focusing while looking forward",
+    "id": "52748",
+    "order": 308
+  },
+  {
+    "storyId": 11000,
+    "name": "army soldiers loading and checking weapons",
+    "id": "21924",
+    "order": 309
+  },
+  {
+    "storyId": 17292,
+    "name": "kids playing a game together on a table",
+    "id": "164616",
+    "order": 310
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier loading pistol and strapping to leg",
+    "id": "21914",
+    "order": 311
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers standing around weapons indoors",
+    "id": "21928",
+    "order": 312
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273412",
+    "order": 313
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers cleaning and checking weapons",
+    "id": "21927",
+    "order": 314
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273409",
+    "order": 315
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers kneeling and looking at map",
+    "id": "21893",
+    "order": 316
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier putting on and strapping helmet",
+    "id": "21947",
+    "order": 317
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273408",
+    "order": 318
+  },
+  {
+    "storyId": 18692,
+    "name": "Medium Group Of People, Adults Only, Young Adult, Young Men",
+    "id": "208185",
+    "order": 319
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273403",
+    "order": 320
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier putting on silencer on weapon closeup",
+    "id": "21910",
+    "order": 321
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273410",
+    "order": 322
+  },
+  {
+    "storyId": 18692,
+    "name": "Three People, Adults Only, Young Adult, Young Men",
+    "id": "208212",
+    "order": 323
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186240",
+    "order": 324
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186253",
+    "order": 325
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier strapping on vest indoors",
+    "id": "21931",
+    "order": 326
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273402",
+    "order": 327
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273405",
+    "order": 328
+  },
+  {
+    "storyId": 11000,
+    "name": "army soldiers picking up gear and weapons",
+    "id": "21922",
+    "order": 329
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186252",
+    "order": 330
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273411",
+    "order": 331
+  },
+  {
+    "storyId": 18692,
+    "name": "Four People, Adults Only, Young Adult, Young Men",
+    "id": "208210",
+    "order": 332
+  },
+  {
+    "storyId": 20387,
+    "name": "Hand, Coin, Toss, Tossing",
+    "id": "256805",
+    "order": 333
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273399",
+    "order": 334
+  },
+  {
+    "storyId": 19192,
+    "name": "T_22",
+    "id": "222960",
+    "order": 335
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers checking gear and weapons in empty warehouse",
+    "id": "21938",
+    "order": 336
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273394",
+    "order": 337
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273407",
+    "order": 338
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers cleaning and checking weapons in empty warehouse",
+    "id": "21937",
+    "order": 339
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186245",
+    "order": 340
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186235",
+    "order": 341
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273397",
+    "order": 342
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273393",
+    "order": 343
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers putting on masks in empty warehouse",
+    "id": "21944",
+    "order": 344
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers standing in line strapping on helmets in warehouse",
+    "id": "21948",
+    "order": 345
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier putting on helmet closeup",
+    "id": "21934",
+    "order": 346
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273392",
+    "order": 347
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186230",
+    "order": 348
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers gathered around and looking at ground",
+    "id": "21918",
+    "order": 349
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier strapping on helmets in warehouse",
+    "id": "21946",
+    "order": 350
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier wearing mask closeup",
+    "id": "21898",
+    "order": 351
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186244",
+    "order": 352
+  },
+  {
+    "storyId": 11000,
+    "name": "soldier checking scope on weapon",
+    "id": "21939",
+    "order": 353
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273401",
+    "order": 354
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186247",
+    "order": 355
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186241",
+    "order": 356
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273398",
+    "order": 357
+  },
+  {
+    "storyId": 20387,
+    "name": "Thumb, Flip, Coin, Fall",
+    "id": "256820",
+    "order": 358
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186256",
+    "order": 359
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Players",
+    "id": "298942",
+    "order": 360
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Players",
+    "id": "298941",
+    "order": 361
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186234",
+    "order": 362
+  },
+  {
+    "storyId": 18692,
+    "name": "Four People, Adults Only, Young Adult, Young Men",
+    "id": "208211",
+    "order": 363
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186238",
+    "order": 364
+  },
+  {
+    "storyId": 19192,
+    "name": "AT_4",
+    "id": "222956",
+    "order": 365
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186236",
+    "order": 366
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers loading weapons closeup",
+    "id": "21940",
+    "order": 367
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273391",
+    "order": 368
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273390",
+    "order": 369
+  },
+  {
+    "storyId": 11000,
+    "name": "army soldiers checking weapons",
+    "id": "21923",
+    "order": 370
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Playing, Audience",
+    "id": "298997",
+    "order": 371
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers putting on vests and gear in empty warehouse",
+    "id": "21943",
+    "order": 372
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Player, Game, Playing",
+    "id": "299051",
+    "order": 373
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186231",
+    "order": 374
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273396",
+    "order": 375
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186248",
+    "order": 376
+  },
+  {
+    "storyId": 18692,
+    "name": "Medium Group Of People, Adults Only, Young Adult, Young Men",
+    "id": "208179",
+    "order": 377
+  },
+  {
+    "storyId": 17292,
+    "name": "boy and girl playing checkers",
+    "id": "164617",
+    "order": 378
+  },
+  {
+    "storyId": 18692,
+    "name": "Medium Group Of People, Adults Only, Young Adult, Young Men",
+    "id": "208186",
+    "order": 379
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273406",
+    "order": 380
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186233",
+    "order": 381
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_4",
+    "id": "222938",
+    "order": 382
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186243",
+    "order": 383
+  },
+  {
+    "storyId": 20897,
+    "name": "Business, Teamwork, Office, Corporate",
+    "id": "273395",
+    "order": 384
+  },
+  {
+    "storyId": 18863,
+    "name": "People, Technology, Laptop, Business",
+    "id": "212731",
+    "order": 385
+  },
+  {
+    "storyId": 11000,
+    "name": "soldiers putting on ski-masks",
+    "id": "21933",
+    "order": 386
+  },
+  {
+    "storyId": 19191,
+    "name": "R2_2",
+    "id": "222921",
+    "order": 387
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186239",
+    "order": 388
+  },
+  {
+    "storyId": 20387,
+    "name": "Coin, Tossed, Hand, Money",
+    "id": "256806",
+    "order": 389
+  },
+  {
+    "storyId": 18692,
+    "name": "Adults Only, Young Adult, One Young Woman Only, Only Women",
+    "id": "208166",
+    "order": 390
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186232",
+    "order": 391
+  },
+  {
+    "storyId": 12306,
+    "name": "woman focusing while looking forward",
+    "id": "52745",
+    "order": 392
+  },
+  {
+    "storyId": 18692,
+    "name": "Medium Group Of People, Adults Only, Young Adult, Young Men",
+    "id": "208180",
+    "order": 393
+  },
+  {
+    "storyId": 18692,
+    "name": "Adults Only, Young Adult, One Young Woman Only, Only Women",
+    "id": "208167",
+    "order": 394
+  },
+  {
+    "storyId": 20387,
+    "name": "Coin, Toss, Head, Face",
+    "id": "256823",
+    "order": 395
+  },
+  {
+    "storyId": 18036,
+    "name": "people in a conference ",
+    "id": "186237",
+    "order": 396
+  },
+  {
+    "storyId": 18863,
+    "name": "Business Person, Entrepreneur, Small Business, New Business",
+    "id": "212735",
+    "order": 397
+  },
+  {
+    "storyId": 21707,
+    "name": "Chess, Game, Competition, Players",
+    "id": "298944",
+    "order": 398
+  },
+  {
+    "storyId": 18692,
+    "name": "Adults Only, Young Adult, One Young Woman Only, Only Women",
+    "id": "208168",
+    "order": 399
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "query": "funny animals",
+    "id": "564971",
+    "storyId": "30357",
+    "autoRank": "0.32733211306576282"
+  },
+  {
+    "query": "funny animals",
+    "id": "564977",
+    "storyId": "30357",
+    "autoRank": "0.32215288623534183"
+  },
+  {
+    "query": "funny animals",
+    "id": "548870",
+    "storyId": "29875",
+    "autoRank": "0.31864183224178966"
+  }
+]

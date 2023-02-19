@@ -1,0 +1,200 @@
+[
+  {
+    "storyId": 11993,
+    "name": "man walking down crowded pavement at night",
+    "id": "47660",
+    "order": 0
+  },
+  {
+    "storyId": 13537,
+    "name": "crowd dancing in festival",
+    "id": "72767",
+    "order": 1
+  },
+  {
+    "storyId": 18173,
+    "name": "people raising their hands in protest",
+    "id": "192297",
+    "order": 2
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience lift hands high and applaud towards live concert stage and light show",
+    "id": "57861",
+    "order": 3
+  },
+  {
+    "storyId": 13537,
+    "name": "DJ playing music for dancing crowd at festival",
+    "id": "72759",
+    "order": 4
+  },
+  {
+    "storyId": 13537,
+    "name": "crowd dancing in festival to flashing lights at night",
+    "id": "72763",
+    "order": 5
+  },
+  {
+    "storyId": 17819,
+    "name": "Cheering, Audience, Fans, Concert",
+    "id": "179112",
+    "order": 6
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members wave their arms and dance during live concert and light show",
+    "id": "57807",
+    "order": 7
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members lifting arms and applauding as red lights dim on stage",
+    "id": "57780",
+    "order": 8
+  },
+  {
+    "storyId": 18175,
+    "name": "Protest, Mask, Hand-Clapping, Resistance",
+    "id": "192413",
+    "order": 9
+  },
+  {
+    "storyId": 12601,
+    "name": "Live concert audience face stage and wave arms as camera jib moves overhead",
+    "id": "57831",
+    "order": 10
+  },
+  {
+    "storyId": 18175,
+    "name": "Protest, People, Drum, Noise",
+    "id": "192378",
+    "order": 11
+  },
+  {
+    "storyId": 12601,
+    "name": "Flashing lights on stage as audience members watch at live concert",
+    "id": "57845",
+    "order": 12
+  },
+  {
+    "storyId": 21402,
+    "name": "Busker, Audience, Performer, Musician",
+    "id": "289932",
+    "order": 13
+  },
+  {
+    "storyId": 12601,
+    "name": "Lively audience at live concert dances and waves arms in the air",
+    "id": "57753",
+    "order": 14
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience member standing still with crowd cheering toward stage at live concert",
+    "id": "57778",
+    "order": 15
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members slowly clapping towards stage during live concert",
+    "id": "57774",
+    "order": 16
+  },
+  {
+    "storyId": 17819,
+    "name": "Concert, Audience, Jumping, Party",
+    "id": "179111",
+    "order": 17
+  },
+  {
+    "storyId": 14173,
+    "name": "people waving their hands in the air in a live concert ",
+    "id": "86108",
+    "order": 18
+  },
+  {
+    "storyId": 13537,
+    "name": "people dancing and bouncing on dusty ground",
+    "id": "72768",
+    "order": 19
+  },
+  {
+    "storyId": 25107,
+    "name": "Band, Instruments, Performance, Apartment",
+    "id": "405498",
+    "order": 20
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience dancing and waving arms as blue stage lighting moves over them",
+    "id": "57862",
+    "order": 21
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience waves arms in the air during live concert and light show",
+    "id": "57791",
+    "order": 22
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members clap at live concert with bright lights",
+    "id": "57772",
+    "order": 23
+  },
+  {
+    "storyId": 19976,
+    "name": "Harvest, Plants, Fresh, Market",
+    "id": "244716",
+    "order": 24
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members lift arms and clap towards stage",
+    "id": "57773",
+    "order": 25
+  },
+  {
+    "storyId": 11993,
+    "name": "crowd walking though lit up market at night blurred",
+    "id": "47649",
+    "order": 26
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience applauding during live show",
+    "id": "57736",
+    "order": 27
+  },
+  {
+    "storyId": 11993,
+    "name": "man walking through crowded streets at night",
+    "id": "47642",
+    "order": 28
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members clapping and recording live concert with light show",
+    "id": "57783",
+    "order": 29
+  },
+  {
+    "storyId": 11993,
+    "name": "man walking through crowd on pavement at night",
+    "id": "47644",
+    "order": 30
+  },
+  {
+    "storyId": 12601,
+    "name": "Audience members clapping hands in the air silhouette",
+    "id": "57759",
+    "order": 31
+  },
+  {
+    "storyId": 14623,
+    "name": "pedestrians walking on a walkway at night in the city hyperlapse aerial ",
+    "id": "96771",
+    "order": 32
+  }
+]
