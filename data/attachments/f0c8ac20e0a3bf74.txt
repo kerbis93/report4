@@ -1,8 +1,0 @@
-[
-  {
-    "query": "sun moving out of solar eclipse",
-    "id": "571927",
-    "storyId": "30662",
-    "autoRank": "0.34388219806678144"
-  }
-]

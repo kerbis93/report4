@@ -1,0 +1,8 @@
+[
+  {
+    "query": "foot",
+    "Name": "Foley - sneakers 2",
+    "id": "29197",
+    "second_level": "2211"
+  }
+]

@@ -1,8 +1,0 @@
-{
-  "take": 50,
-  "filterCategories": [],
-  "searchTerm": "Nigger",
-  "sortType": 1,
-  "queryType": 1,
-  "page": 1
-}

@@ -1,0 +1,38 @@
+[
+  {
+    "query": "impact",
+    "Name": "Explosion, impact, distant perspective, natural echos 01",
+    "id": "23314",
+    "second_level": "2041"
+  },
+  {
+    "query": "impact",
+    "Name": "Destructive Impacts - Powerful Electric Bang",
+    "id": "34765",
+    "second_level": "2579"
+  },
+  {
+    "query": "impact",
+    "Name": "Snaps & Flaps - Impact, Banging Low Boom",
+    "id": "34819",
+    "second_level": "2578"
+  },
+  {
+    "query": "impact",
+    "Name": "Slamming Horror - Muffled Impact, Large Collision",
+    "id": "34845",
+    "second_level": "2200"
+  },
+  {
+    "query": "impact",
+    "Name": "Epic Transitions and Hits - Impact, Bass Drum Hit, Deep Boom",
+    "id": "52892",
+    "second_level": "3953"
+  },
+  {
+    "query": "impact",
+    "Name": "Deep Impact - Empty Bottle, Hit",
+    "id": "54122",
+    "second_level": "4087"
+  }
+]

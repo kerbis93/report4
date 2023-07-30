@@ -1,0 +1,26 @@
+[
+  {
+    "query": "hit",
+    "Name": "Hand Hitting Volleyball, Thudding",
+    "id": "42961",
+    "second_level": "3227"
+  },
+  {
+    "query": "hit",
+    "Name": "Collision - Impact, Double Hit, Rustling Thuds",
+    "id": "43756",
+    "second_level": "3288"
+  },
+  {
+    "query": "hit",
+    "Name": "Hitting Body With a Stick, Whipping",
+    "id": "45522",
+    "second_level": "3392"
+  },
+  {
+    "query": "hit",
+    "Name": "Foley Session - Metal Plate Hit, Hollow Impact",
+    "id": "49722",
+    "second_level": "3693"
+  }
+]

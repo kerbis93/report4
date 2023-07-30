@@ -1,1 +1,1 @@
-{"total":2,"items":[{"uid":"a689f9bbd47f830b010f63276bd165fc","name":" Footage | Search term | Existence and sorting m","statistic":{"failed":10,"broken":0,"skipped":0,"passed":39,"unknown":0,"total":49}},{"uid":"b5472bd93c6addc4d48fbe0cac389952","name":"Regression tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
+{"total":1,"items":[{"uid":"c1b9def3ec7d1ca98d4a269db063057b","name":"SFX","statistic":{"failed":5,"broken":0,"skipped":0,"passed":40,"unknown":0,"total":45}}]}

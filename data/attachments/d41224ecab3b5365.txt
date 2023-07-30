@@ -1,0 +1,8 @@
+[
+  {
+    "query": "glitch",
+    "Name": "Data Disruption - Communication Lost Glitch, Error, Delay",
+    "id": "47822",
+    "second_level": "3540"
+  }
+]

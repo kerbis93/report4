@@ -1,8 +1,0 @@
-[
-  {
-    "query": "crowd music street",
-    "id": "98792",
-    "storyId": "14696",
-    "autoRank": "0.3166379182053623"
-  }
-]
